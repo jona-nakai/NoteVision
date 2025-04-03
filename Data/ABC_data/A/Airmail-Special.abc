@@ -1,0 +1,16 @@
+X:1
+T:Airmail Special
+C:1941 - Benny Goodman / James Mundy / Charlie Christian
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+|:"C" z C EG cc z C | EGcc z C EG | ccAG ccAG | ccAG- G2 z2 |$ z C EG cc z C | EGcc z C EG | %6
+ ccAG ccAG | cGBc z4 :|$"Cdim" z A c_e cAce | cAc_e cA^F_E | z A c_e cAce | cAc_e cA^F_E |$ %12
+"Cdim" z A c_e"Bdim" c_ABd |"Bbdim" BG_B_d BG=E_D |"Ab9" C_G_B_e BG_EC |"G9" =B,FAd- d2 z2 ||$ %16
+"C" z C EG cc z C | EGcc z C EG | ccAG ccAG | ccAG- G2 z2 |$ z C EG cc z C | EGcc z C EG | %22
+ ccAG ccAG | cGBc z4 |] %24
+

@@ -1,0 +1,18 @@
+X:1
+T:Come Rain or Come Shine
+C:1946 - Johnny Mercer / Harold Arlen
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+"Fmaj7" A2 AA A A2 A |"Em" A2 AA"A7" A A2 A |"Dm" AFFF- (F4 | F8) |$"G7" A2 AA A A2 A | %5
+"C7" c2 AA A A2 A |"F7" AFFF- (F4 |"Cm" F8)"F7" ||$"Bbm" B4 B2 _AB |"Fm" c2 F4 FF | %10
+"Bbm" B4 B2 _AB |"C7" c8"C7b9" |$"Fm6" d4 d2 cd |"Ebm6" _e2 c4 cd |"Am7b5" _ec d2"D7#9#5" c2 BA | %15
+"G7" A2 A6"C7" ||$"Fmaj7" A2 AA A A2 A |"Em" A2 AA"A7" A A2 A |"Dm" AFFF- (F4 | F8) |$ %20
+"F#m" =B2 BB B B2 B |"B7" =B2 BB B B2 B |"Em" ^cAAA- (A4 |"A7" A8) ||$"Am" d2 dd d d2 d | %25
+"D7" d2 D4 D2 |"Dm" d2 dd d d2 d |"G7" d2 D4 D2 |$"Dm7" A2 AB"G7" =B d3 | %29
+"Em7b5" e2 ed"A7#9" (ed) e2 |"D7#9"{=fe} d8- |"G7" d4"C7#9" z4 |] %32
+

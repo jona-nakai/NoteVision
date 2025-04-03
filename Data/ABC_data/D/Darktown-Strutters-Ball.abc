@@ -1,0 +1,15 @@
+X:1
+T:Darktown Strutters Ball
+C:Sheldon Brooks
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ G/E/ |:"C" C3/2 ^D/ E/G/A/G/ | c A G E |"D7" D3/2 E/ ^F/A/B/A/ | c B A2 |$"G7" z z/ G/ A B | %6
+ d B A G |"C" c A"Ebdim" c z/ A/ |"Dm7" c/c/ B"G7" A G/E/ ||$"C" C3/2 ^D/ E/G/A/G/ | c A G E | %11
+"D7" D3/2 E/ ^F/A/B/A/ | c B A2 |$"F" d d d c/B/- |"F#dim" B2 z/ A B/ |"C" c c"E7" B B | %16
+"A7" A3 G |$"D7" A B c e |"G7" d B A G |"C" c3"Ebdim" z |"Dm7" z4"G7" :| %21
+

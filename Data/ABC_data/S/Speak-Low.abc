@@ -1,0 +1,18 @@
+X:1
+T:Speak Low
+C:1943 - Kurt Weill / Ogden Nash
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+ C |:"Gm" A4- |"C7" A2 (3G D G |"Gm" A4- |"C7" A2 (3G D G |$"Gm" A2 (3G D G |"C7" A3 G | %7
+"Fmaj7" d3"Am" c |"D7" d3 A ||$"Bbm" c4- |"Eb7" c2 (3B F B |"Bbm" c4- |"Eb7" c3/2 B/4c/4 (3B F G |$ %13
+"Am" A3/2 A/-"D7" (3A E F |"Gm" G3/2 G/-"C7" (3G F E |1"Fmaj7" D2 D2 |"D7#9#5" D3 C :|2 %17
+"Fmaj7" F4- | F4 ||$"Fm" (3_e d c e2- | e2 _A2 |"Db7b5" G3 F | F4 |$"Ebmaj7" (3d c B d2- | d2 G2 | %25
+"Db7" F3 E |"C7" E3 C ||$"Gm" A4- |"C7" A2 (3G D G |"Gm" A4- |"C7" A z/ G/ (3G D G |$ %31
+"Gm" A2"C7" (3G D G |"Gm" A3"C7" G |"Fmaj7" d3"Am" c |"D7" d3 A ||$"Bbm" c4- |"Eb7" c2 (3B F G | %37
+"Am" A4- |"D7b9" A A B c |$"G7" d d d3/2 d/ |"Gm" d d"C7" d3/2 d/ |"Fmaj7" d4 | z4"D7#9" |] %43
+

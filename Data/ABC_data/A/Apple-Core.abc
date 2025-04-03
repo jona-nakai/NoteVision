@@ -1,0 +1,19 @@
+X:1
+T:Apple Core
+C:1956 - Gerry Mulligan
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Ab
+U:s=!stemless!
+V:1 treble nm=" " snm=" "
+V:1
+"Fm" C=DFA cAFC |"G7" =D3 =E-"C7" E2 z2 |"Fm" C=DFA cAFC |"G7" _D3 =E-"C7" E2 z2 |$ %4
+"Ab" _EFAc"Fm7" _ecAF |"Bb7" F3 G-"Eb7" G2 EF |1"Ab" ABAA- A4 |"C7" z A GG- G2 z2 :|2 %8
+"Ab" ABAA- A4- || A6 z2 ||$"F7b9" sB2 sB2 sB2 sB2 | sB2 sB2 sB2 sB2 |"Bbm" sB2 sB2 sB2 sB2 | %13
+ sB2 sB2 sB2 sB2 |$"Eb7" sB2 sB2 sB2 sB2 | sB2 sB2 sB2 sB2 |"Ab" sB2 sB2 sB2 sB2 | %17
+"C7" sB2 sB2 sB2 sB2 |$"Fm" C=DFA cAFC |"G7" =D3 =E-"C7" E2 z2 |"Fm" C=DFA cAFC | %21
+"G7" _D3 =E-"C7" E2 z2 |$"Ab" _EFAc"Fm7" _ecAF |"Bb7" F3 G-"Eb7" G2 EF |"Ab"O ABAA- A4- | A6 z2 |]$ %26
+"Abmaj7/C"O"^Coda" ABA"B6"A- ABA"Bb7"A- | ABA"A7"G- GAGG- |"Abmaj7" G8- | G6 z2 |] %30
+

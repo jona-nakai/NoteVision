@@ -1,0 +1,17 @@
+X:1
+T:Strangers in the Night
+C:1966 -  Bert Kaempfert / Charles Singleton / Eddie Snyder
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+"F" FGGF G4 | z F GA G2 F2 | EFFE F4 | z E FG F2 E2 |$ DEED E4 |"F/A" z D EF"Abdim7" E2 D2 | %6
+"Gm7" B8-"Eb/G" |"Gm6" B6"Eb/G" z2 ||$"Gm7" GAAG A4 | z G AB A2 G2 | FGGF G4 | z F GA G2 F2 |$ %12
+ EFFE F4 | z E FG"C7" F2 E2 |"F" c8- | c6 z2 ||$"Am7b5" cBBA A4 |"D7" z B Bc cBBA | %18
+"Am7b5" cBBA A4 |"D7" z B Bc cBBA |$"Gm7" BAAG G4 |"Bbm6" BAAG G4 |"F" BAAG"Dm7" GFEF | %23
+"Gm7" AGGF"C7" FEDE ||$"F" FGGF G4 | z F GA G2 F2 | EFFE F4 |"F/A" z E FG"Abdim7" F2 E2 |$ %28
+"Gm7" DEED E4 |"C7" z E FG F2 E2 |"F" F8- | F6 z2 |] %32
+

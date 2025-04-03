@@ -1,0 +1,14 @@
+X:1
+T:Summertime
+C:1935 - George Gershwin / DuBose Heyward / Ira Gershwin
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Amin
+V:1 treble nm=" " snm=" "
+V:1
+ e3 c ||"Am6" e8- | e2 dc de c2 | A4 E4- | E4 e3 c |$"Dm" d d3- d4- | d2 cA cAcB- |"E7" B8-"B7" | %8
+"E7" B4 e3 c ||$"Am6" e8- | e2 dc de c2 | A4 E4- | E6 E2 |$"C7" G2 EG"F7" A2 c2 |"E7" e2 d4 c2 | %15
+"Am6" A8- |"Am6" A2 z2 z4 |] %17
+

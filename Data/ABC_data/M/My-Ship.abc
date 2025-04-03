@@ -1,0 +1,20 @@
+X:1
+T:My Ship
+C:1941 - Kurt Weill / Ira Gershwin
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+ C |:"F69" D F"D7b9" c A/c/ |"G9" A D"C743" D"C7" z/ C/ |"F69" D F"D7#9" c c | %4
+"G7" D3"C7b9" C/_D/ |$"F6" =D"Eb7" F"D7#9" =d c/d/ |"Gm9" c B"Em7b5" A"A7b9" E/F/ |1"Dm7" G4-"G7" | %8
+ G3"Gm7""C7b9" G :|2"Dm7" G2"Gm7" G2"C7b9" ||"F6" F2 z A/c/ ||$"Gm7/C" B A"C7" G3/2 c/ | %12
+"Gm7/C" B A"C7" G2 |"Gm7" d B"Bbm6" A F |"Fmaj7" A3"Bm7b5""E7" =B/d/ |$"Am7" c =B"Dm7" A z/ d/ | %16
+"Am" c =B"Dm7" A B/c/ |"Am7" d"D7" =B"G743" G"G9" E |"C743" D3"C7" C ||$"F69" D F"D7b9" c A/c/ | %20
+"G9" A D"C743" D"C7" z/ C/ |"F69" D F"D7#9" c c |"G7" D3"C7b9" C/_D/ |$ %23
+"F6" =D"Eb7" F"D7#9" =d c/d/ |"Gm7" c B"Em7b5" A3/2"A7b9" G/ |"Dm7" F3/2 F/"C7" G3/2 G/ | %26
+"Fmaj7" A3"F#dim7""Gm7""C7" c/c/ ||$"Fmaj9" =B c"B7#11" f e/f/ |"Bbmaj9" e"Eb743" d"Eb7" c _B | %29
+"Am7" c2"Ab7" f2 |"Dbmaj7" F2"C7b9" G2 |"F69" F4 |] %32
+

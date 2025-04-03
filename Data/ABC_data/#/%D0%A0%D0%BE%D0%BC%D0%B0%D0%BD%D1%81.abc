@@ -1,0 +1,16 @@
+X:1
+T:Ð Ð¾Ð¼Ð°Ð½Ñ
+C:Ð. Ð¦ÑÐ°ÑÐ¼Ð°Ð½
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Fmin
+V:1 treble nm=" " snm=" "
+V:1
+ A x7 ||"Fm6" C3 A"G7" =D3"C7" A |"Fm" =EFAB"Bbm7" c3"Eb7" c |"Ab6" _E3 c"Bbm" F3"Eb7" c | %4
+"Ab" GAce"Cm7b5" _g3"F7" f |$"Bbm" ed=GA"C7" B c2 d |"F" c2 FG"Fm6" A3 A |"G7" AG=D=E F G2 F | %8
+"C" =E2"G7" =DG"C" C3 A ||$"Fm6" C3 A"G7" =D3"C7" A |"Fm" =EFAB"Bbm" c3"Eb7" c | %11
+"Ab6" _E3 c"Bbm" F3"Eb7" c |"Ab" GAce"Ab9" b3 =a |$"Db" _acde"G7" f g2 f | %14
+"Cm7b5" e f2 e"F7" dc=EF |"Gm7b5" f4- (3f^FG"C7" (3c=B,B, |"Fm" =F2 z2 z4 |] %17
+

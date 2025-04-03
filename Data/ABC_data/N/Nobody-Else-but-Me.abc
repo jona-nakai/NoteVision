@@ -1,0 +1,18 @@
+X:1
+T:Nobody Else but Me
+C:1946 - Jerome Kern / Oscar Hammerstein II
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+"C6" A A2"F" A |"C/E" C4"Ebdim" |"Dm7" A A2 A |"G7" B,4 |$"Dm7" A A/>F/"G7" B B/>F/ | %5
+"C#m7" ^G G/>E/"F#7" ^A A/>^F/ |"Bmaj7" ^D3"B6" ^F |"F7#11" B4 ||$"Emaj7" B B2 B |"E#dim" ^C4 | %10
+"B6/F#" B B2 B |"Eb7/G" ^D4 |$"Am9" B B B/ B B/- |"D9" B4 |"Dm9" A A A/ A A/- |"G9" A4 ||$ %16
+"C6" A A2"Fmaj7" A |"C/E" C4"Ebdim" |"Dm7" A A2 A |"G7" B,4 |$"Dm7" A A/>F/"E7b9" B B/>F/ | %21
+"Am7" c c/>F/"Abm13" ^c c/>F/ |"Gm7" d d2 d |"C9" E4 ||$"F6" d A c G |"Bb9" F4 |"C" E C G E | %27
+"D13" B4 |$"Dm7/G" A A2 G |"C#dim/G" A A2 G |"Dm7/G" A A A G |"Ebdim/G" A A2 G |$"Dm7" A A2 A | %33
+"F/G" c2"G7b9" d2 |"C6" c2 z2 |"G7b9#5" z4 |] %36
+

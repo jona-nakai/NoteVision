@@ -1,0 +1,19 @@
+X:1
+T:Ev'ry Time We Say Goodbye
+C:1944 - Cole Porter
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+"Eb" G3 G"Cm" G4- |"Eb" G2 G2"Cm" G2 G2 |"Eb" G6"Cm" G2 |"Fm7" A4-"Bb7" AFED |$ %4
+"Eb" z B2 B"Bb7/F" B4- |"Gb" B2 B2"Bb7/F" B2 B2 |"Eb" B4-"Eb7" BGAB |"Abm" _c4- cAGF |$ %8
+ z"Eb/G" e2 e"Gbdim" e2 e2 |"Fm7b5" e2 d4"Bb7" B2 |"Bbm/Eb" _d2 z G-"Eb7" G A2 B |"Ab" c8 |$ %12
+"Fm7b5" z _c2 c c c3 |"Eb+/G" _c2 B4"Eb/G" EF |"Adim" _G G2 E G2 F2- |"Bb7" F6 z2 |$ %16
+"Eb" G3 G"Cm" G4- |"Eb" G2 G2"Cm" G2 G2 |"Eb" G6"Cm" G2 |"Fm7" A4-"Bb7" AFEE |$ %20
+"Eb" z B2 B"Bb7/F" B4- |"Gb" B2 B2"Bb7/F" B2 B2 |"Eb" B4-"Eb7" BGAB |"Ab" =c4- cA"Abm"GF |$ %24
+"Eb/G" z e2 e"Gbdim" e2 e2 |"Fm7b5" e2 d4"Bb7" Bc |"Eb9" _d3 G"Ab" c3 F |"Abm" E=DEB- B2 A2 |$ %28
+"Eb/Bb" G3 G"C7" G4- |"F7" G2 F2"Bb7" E2 D2 |"Eb6" E8-"Ebdim/Bb" |"Ebdim/Bb" E6"Bb9" z2 |] %32
+

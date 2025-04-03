@@ -1,0 +1,22 @@
+X:1
+T:It's the Talk of the Town
+C:1933 - Jerry Livingston / Marty Symes / Al J. Neiburg
+Z:Marty Symes / Al J. Neiburg
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+U:s=!stemless!
+V:1 treble nm=" " snm=" "
+V:1
+"Am7" sB2 sB2"D7#9" sB2 sB2 |"Gm7" sB2 sB2"C7" sB2"Bb7b5" sB2 |"Am7" sB2 sB2"Abdim7" sB2 sB2 | %3
+"Gm7" sB2 sB2"C7b9" sB2 sB2 |:$"Fmaj7" E>E EE"Abdim7" D4 |"Gm7" F>F FF"C7b9" E4 | %6
+"Fmaj7" G>G GG"A7#5" F4 |"Bbmaj7" A>A AA"Eb7" G4 |$"Fmaj7" z2 c>c"Am7" e>e d>d | %9
+"Bbm7" B4"Eb7""Am7" A4"D7" |1"G7" z2 AA (3d2 d2 A2 |"Gm7/C" G8"C7" :|2"G7" z2 DD"C7" (3A2 A2 A2 | %13
+"Fmaj7" F6"D7#9" z F ||$"Gm7" G>G G>"D7b9"G A A2 A |"Gm7" B2 B>B"D7b9" c c2 c | %16
+"Gm7" (3d2 d2 d2"Eb7" d2 B2 |"Am7/D" A8"D7" |$"G7" G>G G>"Dm7"G A A3 |"G7" =B>B B>B d d3 | %20
+ (3d2 ^d2 e2 A2 A2 |"C7#5" (3=d2 ^d2 e2 ^G4 ||$"Fmaj7" E>E EE"Abdim7" =D4 |"Gm7" F>F FF"C7b9" E4 | %24
+"Fmaj7" G>G GG"A7#5" F4 |"Bbmaj7" A>A AA"Eb7" G4 |$"Fmaj7" z2 c>c"Am7" e>e d>d |"Eb7" B4"D7b9" A4 | %28
+"G7" z2 DD"C7" (3A2 A2 A2 |"F" F6"Gm7/C" z2 |] %30
+

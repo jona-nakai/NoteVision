@@ -1,0 +1,16 @@
+X:1
+T:Swing That Music
+C:1936 - Louis Armsrong / Horace Gerlach
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm=" " snm=" "
+V:1
+ F ||"Bb" G B G B- | B3 F |"Eb7" G B G B- | B3 F |$"Bb" G B G B- | B G2 B |"G7" d2 d2 | A G3 |$ %9
+"C7" B ^F G B- | B2 G B |"F7" d d2 d- | d3 A |$"Bb" c c2 c- |"Bbdim7" c B2 G |"Cm7" B G B A- | %16
+"F7" A3 F ||$"Bb" G B G B- | B3 F |"Eb7" G B G B- | B3 F |$"Bb" G B G B- | B G2 B |"G7" d2 d2 | %24
+ e d3 |$"Eb" z d3 |"Ebm" c d2 A |"Bb" c c2 c- |"Gdim7" c2 G A |$"Cm7" B2 G d- |"F7" d B2 d | %31
+"Bb" B4- | B3 z |] %33
+

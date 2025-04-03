@@ -1,0 +1,18 @@
+X:1
+T:Ð­ÑÐ¸ Ð³Ð»Ð°Ð·Ð° Ð½Ð°Ð¿ÑÐ¾ÑÐ¸Ð²
+C:Ð. Ð¢ÑÑÐ¼Ð°Ð½Ð¾Ð²  / Ð¢. Ð¡Ð°ÑÐºÐ¾
+Z:www.realbook.site 2023
+L:1/4
+M:3/4
+I:linebreak $
+K:Amin
+V:1 treble nm=" " snm=" "
+V:1
+"Am" E E E |"E+" E2 C |"Am" B, A,2 | A, C E | A3 | C3 |"Dm6" B,3- | B,2 z |$"Dm" D D D | D2 C | %10
+ C B,2 | B, D F |"B7" B3 | A3 |"E7" ^G3- | G2 z ||$"Am" E F E | F2 E | F2 E | E ^D E | G3- | %21
+"Am" G2"Ebdim" _G |"Dm" F3- | F2 z |$"Dm" F G F | G2 F | G2 F | F E F |"Dm7" A3 |"G7b9" _A3 | %30
+"C" G3- | G2"E7/B" z ||$"Am" C D E | D C z | E2 z | z3 |"A" E F G | F E F |"A7" G2 z | z3 |$ %40
+"Gm" G A _B | A A G | _B3- | B3 |"Eb" !>!_B !>!c !>!B | !>!c2 !>!_B | !>!c !>!_B2- | B3- | %48
+"A7b9" B3- | B3 ||$"Dm" A A =B | A B A |"Am" A A B | A B A |"B7" A A A |"E7" ^G A B |"Am" d3 | %57
+ c3 |$"F" A A B | A/B/ A2 |"Am" A A B | A/B/ A2 |"B7" A A/B/ A/B/ |"E7" ^G3 |"Am" A3- | A z z |] %66
+

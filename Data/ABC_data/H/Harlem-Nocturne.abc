@@ -1,0 +1,18 @@
+X:1
+T:Harlem Nocturne
+C:1939 - Earle Hagen / Dick Rogers
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Gmin
+V:1 treble nm=" " snm=" "
+V:1
+ G, DG A2 B^F- |:"Gmaj" F8 |"Gm7" z G DB, G,2 B,D- |"Cm" DC- C6 |"Cm7" z C Gc d2 e=B- |$"Cmaj" B8 | %6
+"Eb6" z c (3_BGE"A7" ^C2"D7" AG- |"Gm6" G8 |1 z G, DG A2 B^F- :|2"Gm6" z4"F7" z2 z c |:$ %10
+"Bb7" BFG_A-"Fm7" A3 c |"Bb7" BFG_A-"Fm7" A3 c |"Bb7" BFG_A-"Fm7" A2 GF |"Bb7" DF- F4 z f |$ %14
+"Eb7" eBc_d-"Bbm7" d3 f |"Eb7" eBc_d-"Bbm7" d3 c |"Eb9" fB"Db9"e_A"B9" ^c^F"A9"=B=E |1 %17
+"G9" AD"C9"GC"F7" F3 c :|2$"G9" AD"F9"GC"Eb9" FB,"Db9"E_A, |"Gm6" D8 || z G, DG A2 B^F- ||$ %21
+"Gmaj" F8 |"Gm7" z G DB, G,2 B,D- |"Cm" DC- C6 |"Cm7" z C Gc d2 e=B- |$"Cmaj" B8 | %26
+"Eb6" z c (3_BGE"A7" ^C2"D7" AG- |"Gm6" G8 | z8 |] %29
+

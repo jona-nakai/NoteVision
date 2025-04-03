@@ -1,0 +1,18 @@
+X:1
+T:Swing 42
+C:Django Reinhardt
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+|:"C" G4"Am7" z2 z ^G |"Dm7" ABcd"G7" e2 f=g- |"C" g2 z2"Am7" z2 ^ga- |"Dm7" afdc"G7" B2 a=g- |$ %4
+"Gm/Bb" g2 z2"A7" z ^f g^g |"Dm7" a=fdc"G7" e2 =Gc |1"C" z2 z B"C#dim" cAcA | %7
+"Dm7" cAcA"G7" ce z2 :|2"C" z2 z A cd c2 ||"B7" cB z B B2 A2 ||$[K:E]"E6" GABc-"C#m7" c2 AG | %11
+"F#m7" FAcd-"B7" d2 z2 |"E6" GABc-"C#m7" c2 AG |"F#m7" FAcd-"B7" d2 z2 |$"E6" GABc-"C#m7" c2 AG | %15
+"F#m7" FAcd-"B7" d2 f2 |"E7" e4"A7" de z e |"D7" =ga g2"G7" g2 z2 ||$[K:C]"C" G4"Am7" z2 z ^G | %19
+"Dm7" ABcd"G7" e2 f=g- |"C" g2 z2"Am7" z2 ^ga- |"Dm7" afdc"G7" B2 a=g- |$ %22
+"Gm/Bb" g2 z2"A7" z ^f g^g |"Dm7" a=fdc"G7" e2 =Gc |"C" z8"C#dim" |"Dm7" z8"G7" |] %26
+

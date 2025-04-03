@@ -1,0 +1,16 @@
+X:1
+T:Way down yonder in new orleans
+C:1922 - Joe Turner Layton / Henry Creamer
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:2/2
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+|:"C7" c c2 c- cA c2 |"Gm7" A A2 A-"C7" A4 |"F" z2 GE GE G2 | E E2 E- E4 |1$"F" z2 DE FG A2 | %5
+"C7" c4"Cdim" c4 |"Gm7" z2 d2"C7" d d2 A- |"F" A8"F#dim" :|2$"Cm7" _E2 z2"F7" z F GA || %9
+"Cm7" c2 A2"F7" G F2 G- |"Bb" G4-"F7" GFAF |"Bb" G8 |$"G7" G2 z2 z A =Bc | d2 =B2 A G2 c- | %14
+"Gm7" c4- ccdA |"C7" c8 |$"F" c c2 c- cA c2 |"F#dim" d d2 d- d4 |"F" c c2 c cA c2 |"Db7" _d8 |$ %20
+"F" c c2 c-"F#dim" c=d A2 |"Gm7" c4"C7" A4 |"F" F8- | F2 z2 z4 |] %24
+

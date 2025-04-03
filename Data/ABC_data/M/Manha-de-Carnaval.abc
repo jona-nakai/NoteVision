@@ -1,0 +1,19 @@
+X:1
+T:ManhÃ£ de Carnaval
+C:1959 - Luiz BonfÃ¡ / AntÃ´nio Maria
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:2/2
+I:linebreak $
+K:Amin
+V:1 treble nm=" " snm=" "
+V:1
+ E2 |:"Am" c6 BA |"Bm7b5" A6"E7b9" ^GB |"Am9" E8-"Am" |"Bm7b5" E6"E7" E2 |$"Am" c6 BA | %6
+"Dm7" A6"G7" GB |"Cmaj7" E8- |"Em7b5" E4"A7b9" z E FG |$"Dm7" A3 D D4- |"G7" D4 z D EF | %11
+"Cmaj7" G3 C C4- |"Fmaj7" C4 z C DE |$"Bm7b5" F3 B, B,4- |"E7" B,4 z B, CD |"Am9" E8-"Am" | %16
+"Bm7b5" E6"E7" E2 ||$"Am" c6 BA |"Bm7b5" A6"E7" ^GB |"Am9" E8-"Am" |"Bm7b5" E6"E7" E2 |$ %21
+"Em7b5" _B6 AG |"A7b9" G6 FE |"Dm9" A8-"Dm" |"Dmaj" A6"Dm7" D2 |$"Bm7b5" D6 EF |"E7b9" B8 | %27
+"Am" z2 C2"Am7/G" C2 DE |"F#m7b5" A6"F7" G2 |$"Bm7/E" E8 |"E7" z4 (3E2 ^G2 B2 |"Am" A8- |1 %32
+"Bm7b5" A6"E7" E2 :|2"Am" A6 AB ||$"Dm7" c2 dc"Am7" B2 AB |"Dm7" c2 dc"Am7" B2 AB | %36
+"Dm" c2 dc"Em7" B2 AG |"Am7" A8- | A6 z2 |] %39
+

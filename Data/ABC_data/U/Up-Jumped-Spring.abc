@@ -1,0 +1,19 @@
+X:1
+T:Up Jumped Spring
+C:Freddie Hubbard
+Z:www.realbook.site 2024
+L:1/8
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ Gc |:"Cmaj7" e2 z2 e^d |"A7#5" e f3 ^c2 |"Dm7" d2 z2 d^c |"G7" d e3"G#dim7" B2 |$"Am7" c4 cB | %6
+"Gm7" c d3- dc |"F#m7" B6- |"B7" B4 z A |$"Em7" G6 |"Fm7" c6 |"Em7" G6 |"Fm7" c6 |1$ %13
+"C#m7b5" G4 EG |"F#7" ^A4 =A2 |"Dm7b5" _A6 |"G7" G4 EG :|2$"Dm7" .G2 .G2 .G2 |"G7" f2 d2 B2 | %19
+"Cmaj7" c6 ||"Bm7b5" z2"E7" z2 AB ||$"Am7" c4 Ac |"D7" e4 dc |"Gmaj7" B4 GB |"Em7" d4 ^c2 |$ %25
+"Bbm7" =c4 _ec |"Eb7" _B4 _A2 |"Dm7" G6- |"G7" G2 z2 Gc ||$"Cmaj7" e2 z2 e^d |"A7#5" e f3 ^c2 | %31
+"Dm7" d2 z2 d^c |"G7" d e3"G#dim7" B2 |$"Am7" c4 cB |"Gm7" c d3- dc |"F#m7" B6- |"B7" B4 z A |$ %37
+"Em7" G6 |"Fm7" c6 |"Em7" G6 |"Fm7" c6 |$"Dm7" .G2 .G2 .G2 |"G7" f2 d2 B2 |"Dbmaj7" c6 | %44
+"Cmaj7" c B3- B2 |] %45
+

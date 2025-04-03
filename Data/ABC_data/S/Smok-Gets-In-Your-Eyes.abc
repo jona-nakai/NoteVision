@@ -1,0 +1,20 @@
+X:1
+T:Smoke gets in your Eyes
+C:Jerome Kern
+C:Otto Harbach
+Z:Otto Harbach
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+|:"Eb" E4"Gm7" DF"Gbdim7"EC |"Fm7" A4"Bb7" GBAF |"Eb" e8-"G7#5" |"Abmaj7" e4"Adim7" fe=Bc |$ %4
+"Gm7" d4"Cm7" c_BCE |"Fm7" B4"Bb7" cBB,C |1"Gm7" G8"C7" |"Fm7" F8"Bb7" :|2"Eb" E8- || %9
+"Dbm7" E8"Gb7" ||$[K:Cb]"Cbmaj7" EG e2- eBdc |"Abm7" EG B2- BA (3GA,C |"Dbm7" G4"Cdim7" G4 | %13
+"Dbm7" G8"Gb7" |$"Cbmaj7" EG e2- eBdc |"Abm7" EG B2-"Fm7/Bb" BA"Bb7"=G=F |"Ebmaj7" =G4"C7b9" G4 | %17
+"Fm7" =F8"Bb9" ||$[K:Eb]"Eb" E4"Gm7" DF"Gbdim7"EC |"Fm7" A4"Bb7" GBAF |"Eb" e8-"G7#5" | %21
+"Abmaj7" e4"Adim7" fe=Bc |$"Gm7" d4"Cm7" c_B (3CEG |"Fm7" B4"Bb7" cBB,C |"Eb6" E8-"Db6""D6" | %25
+"Eb69" E6 z2 |] %26
+

@@ -1,0 +1,16 @@
+X:1
+T:Up A Lazy River
+C:1930 - Hoagy Carmichael / Sidney Arodin
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+"D7" D^FA_e dc^CD | =c2 =B2 _B3 A |"G7" =B,DFA GF_B,=B, | E2 _E2 D4 |$"C7" =Edc=B _B2 ^CD | %5
+ A2 _A2 G4 |"F6" ^G=AC=B,"C7" _B,=GDE |"F6" F2 A,C-"E7" C4"Eb7" ||$"D7" D^FA_e dc^CD | %9
+ =c2 =B2 _B3 A |"G7" =B,DFA GF_B,=B, | E2 _E2 D4 |$"Bb6" dcBA"Bdim" _A4 | %13
+"F6" fe"E7"d"Eb7"_d"D7" c4 |"G7" =dfdA"C7" c A2 C |$"F" FF"E7"E"Eb7"F"D7" ^F4 | %16
+"G7" d=fdA"C7" c A2 C |"F6" F4 z4 |] %18
+

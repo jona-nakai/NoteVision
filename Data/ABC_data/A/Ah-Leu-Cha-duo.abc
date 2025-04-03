@@ -1,0 +1,24 @@
+X:1
+T:Ah-Leu-Cha (duo)
+C:1948 â Charlie Parker
+Z:www.realbook.site
+%%score 1 2
+L:1/8
+M:4/4
+I:linebreak $
+K:Gmin
+V:1 treble nm="P1"
+V:2 treble nm="P2"
+V:1
+"Gm" GBAG cAGF | BA B2- B2 AG- | GBAG c=edc | GF G2 z c cA |$"F" Bf=ec BdcA | %5
+"Bb7" BA B2- B2 (3FGA |"F" G2 AF =EFGA |1"Am7" c2 z A"D7" (3BcB AG :|2"F" c2 z2 z =E (3G/A/G/F ||$ %9
+"Em7" =E2 =B,D ^C2 z E |"A7" GA_BG A^F=ED |"D7" A2 CD- D2 z2 | z8 |$"G7" z2 g_g/f/ =e2 z f- | %14
+ f(3=e/d/c/ =B2 z e^cd |"Gm7" f(3=e/d/=c/ _BA GF (3=EGB |"C7" _d_e/d/ cA B/c/B/A/ G z ||$ %17
+"Gm" GBAG cAGF | BA B2- B2 AG- | GBAG c=edc | GF G2 z c cA |$"F" Bf=ec BdcA | %22
+"Bb7" BA B2- B2 (3FGA |"F" G2 AF =EFGA | c2 z2 z4 |] %25
+V:2
+ z2 z G AGFC | D3 E- E F2 G | z2 z C DCAC | DC D2 z c cC |$ z2 FE DCB,A, | z4 BA (3FGA | %6
+ BGAF C=B,_B,A, |1 F,2 z A (3_BcB AG :|2 F,2 z2 z4 ||$ z8 | z8 | z8 | z8 |$ z8 | z8 | z8 | z8 ||$ %17
+ z2 z G AGFC | D3 E- E F2 G | z2 z C DCAC | DC D2 z c cC |$ z2 FE DCB,A, | z4 BA (3FGA | %23
+ BGAF C=B,_B,A, | F,2 z2 z4 |] %25
+

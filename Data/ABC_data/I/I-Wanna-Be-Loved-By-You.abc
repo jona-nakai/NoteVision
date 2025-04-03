@@ -1,0 +1,23 @@
+X:1
+T:I Wanna Be Loved By You
+C:Marilyn Monroe
+Z:Copyright Â© www.realbook.site
+%%score ( 1 2 )
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:2 treble 
+V:1
+"F" f/ f f"Abdim" g/ f |"Gm7" c/ c d/"C7" c/B/A/G/ |:"F6" .z c d/^c/ =c | g ^f/=f/ z d |$ %4
+ d z d/^c/ =c |"G9" A _A/G/ z2 |"C7" z c"Cdim" d/^c/ =c |"C7" e e/e/ z z/ c/ |1$ %8
+"F" (3f g f"Abdim" z2 |"Gm7" d/d/_e/=e/"C7" z2 :|2"F" (3f g f- f2 ||"F7" z f (3f g f ||$"Bb" d f3 | %13
+"Bbm" z f (3g _g f |"F" f c z2 |"F7" z f (3f g f |$"Bb" d f2 d |"G9" f a2 f | %18
+"C7" c d/ c"Cdim" d/ c |"C7" g e/ c3/2 z ||$"F6" z c d/^c/ =c | g ^f/=f/ z d | d z d/^c/ =c | %23
+"G9" A _A/G/ z2 |$"C7" z c"Cdim" d/^c/ =c |"C7" e e/e/ z z/ c/ |"F"O (3f g f-"Abdim" f2 | %27
+"Gm7" z4"C7" |]$"F"O"^Coda" f/f/f/f/ f/g/ a |"C7" z/ c/ c/d/"F" f z |] %30
+V:2
+ x4 | x4 |: x4 | x4 |$ x4 | x4 | x4 | x4 |1$ x4 | x4 :|2 x4 || x4 ||$ x4 | x4 | x4 | x4 |$ x4 | %17
+ x4 | x4 | x4 ||$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |]$ .F z z z/ (3F/4E/4D/4 | .C z z .F, |] %30
+

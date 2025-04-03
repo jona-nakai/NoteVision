@@ -1,0 +1,19 @@
+X:1
+T:Ray's Idea
+C:Raymond Brown / Walter Fuller
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Db
+V:1 treble nm=" " snm=" "
+V:1
+ e- |:"Db" e d2 F"Bbm" c=B_B=A |"Ebm" _AGD_B,"Ab7" =A, F2 C- |"Fm" C6"Bb7" z B,- | %4
+"Ebm" (3B,CD (3B,C"Ab7"D EF z2 |$"Db7" z2 (3A,B,D F2 GA |"Gb7" FD-"Gdim" D2 z2 z F |1 %7
+"Db7" A=G_G=E-"Bb7" E2 DF- |"Ebm" F6 z"Ab7" _e- :|2"Db7" A=G_G=E- E2 CD- || D6 z B- ||$ %11
+"Abm" B G2 B, =B,E_G_B |"Db7b9#5" =A6 z _A- |"F#m" A =E2 _A, =A,DE_A |"B7b9#5" =G6 z ^F- |$ %15
+"Em" F =D2 ^F, =G,=B,D^F |"A7b9#5" =F6 z =F, |"Ebm" A,F, (3G,B,D FAB=B- |"Ab7#9" B3 =A z2 z e- ||$ %19
+"Db" e d2 F"Bbm" c=B_B=A |"Ebm" _AGD_B,"Ab7" =A, F2 C- |"Fm" C6"Bb7" z B,- | %22
+"Ebm" (3B,CD (3B,C"Ab7"D EF z2 |$"Db7" z2 (3A,B,D F2 GA |"Gb7" FD- D2"Gdim" z2 z F | %25
+"Db7" A=G_G=E-"Bb7" E2 CD- | D6"Ebm""Ab7" z2 |] %27
+

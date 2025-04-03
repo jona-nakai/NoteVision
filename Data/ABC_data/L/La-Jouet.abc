@@ -1,0 +1,17 @@
+X:1
+T:La Jouet
+C:1976 - Vladimir Cosma
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Amin
+V:1 treble nm=" " snm=" "
+V:1
+ E c^G |:"Am"S BA z2 z E A=G |"Dm" GF z2 z D BA |"E7" A^G z2 z E cB |"Am" BA z2 z A Bc |$ %5
+"Dm" ed z A"G7" ed z G |"Cm7" dc z G"F7" dc z F |"Dm6/B" cB z ^A"E7" cB^GF |"Am" E4 z =A Bc |$ %9
+"Dm" ed z A"G7" ed z G |"Cm7" dc z G"F7" dc z F |"Dm6/B" cB z ^A"E7" cB^GE |1"Am" =A4 z E c^G :|2 %13
+"Am" A4!fine! z4 |:$[K:A]"A" E3 F- F2 G2 | A3 B- B2 c2 |"Dm6/A" d3 c- c2 B2 | =F6 z2 |1$ %18
+"Dm6/A" d3 c- c2 B2 | B3 A- A2 B2 |"A" c8- | c6 z2 :|2$"Dm6/A" =f3 e- e2 d2 | %23
+"Dm6/A" d3 c- c2"Ddim7" B2 |"A" A8- |"Am"S A2 z2 z E =cG |] %26
+

@@ -1,0 +1,20 @@
+X:1
+T:Not Like This
+C:Jeremy Lubbock
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:2/2
+I:linebreak $
+K:Db
+V:1 treble nm=" " snm=" "
+V:1
+"Ab943" z C D A ||"Gbmaj9#11" A4 | z C"Gbmaj9" D A |"Fm7/Bb" E F"Bbm9" F2 | z E F d |$ %5
+"Ebm9" F G"F7b9#5" G A |"Gbmaj9#11" A B"Bb7#11" B c |"Eb943" c d3"Eb7b9b5" | z F"F7b9#11" G d ||$ %9
+"Fm7/Bb" F4"Bbm7/Ab" | z"Gm7b5" D F B |"Fm7" c A E F- | F E"Gbmaj9" F A |$"Fm7" c A"D7b9b5" F2- | %14
+ F A"Dbmaj7" c d |"Bbm11" e3 A |"Eb943" B c"Ab943" d2- | d4 | z C D A ||$ A4"Gbmaj9#11" | %20
+ z C"Gbmaj9" D A |"Fm7/Bb" E F"Bbm9" F2 | z E F d |$"Ebm9" F G"F7b9#5" G A | %24
+"Gbmaj9#11" A B"Bb7#11" B c |"Eb943" c d3-"Eb7b9b5" | d e"Ab943" e f ||$"D13" ^f4 | %28
+"Gmaj9" z =g ^f =d |"Cmaj7" =B =G"F#943" =E ^C |"Bmaj9" ^F4 |$"E943" z2"E9" !fermata!z _A | %32
+"Db/Eb" A B"Eb/Db" B c |"C#/B" ^c ^d"G#m/A" d2- | d3"B/A" ^D |$"A+#7/G#" ^E/^F/ ^G3- | %36
+ G =F"Cb9/Db" !fermata!_G !fermata!_d |"Db" d4 | z4"Ab943" |] %39
+

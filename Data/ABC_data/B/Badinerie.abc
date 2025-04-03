@@ -1,0 +1,18 @@
+X:1
+T:Badinerie
+C:Johann Sebastian Bach
+Z:www.realbook.site
+L:1/16
+M:2/4
+I:linebreak $
+K:Bmin
+V:1 treble nm=" " snm=" "
+V:1
+ b2d'b | f2bf d2fd | B4 FBdB | cBcB ^Acec | d2B2 b2d'b |$ f2bf d2fd | B4 .d2.d2 | .d2.d2 b2d2 | %8
+ e/d/e/d/c2 .f2.f2 |$ .f2.f2 d'2f2 | g/f/g/f/^e2 cfaf | ^gfgf ^egbg | a^gag faf^e |$ fbf^e fc'fe | %14
+ fd'f^e fd'c'b | c'a^gf a2a/g/a/g/ | f4 :: f2af |$ c2fc A2cA | F4 (=c2B2) | (e2^d)f a2gf | %21
+ g2e2 g2bg |$ e2ge c2ec | A4- Adfd | eded cege | fefe dfdc |$ dgdc dadc | dbdc dbag | %28
+ afed f2f/e/f/e/ | d4 .f2.f2 |$ .f2.f2 d'2f2 | g/f/g/f/e2 .e2.e2 | .e2.e2 c'2e2 | %33
+ f/e/f/e/d2 b2d'b |$ a2g2- g2(b/a/g/f/) | e4- e2(g/f/e/d/) | =cege (cB)(cB) | .^A2.F2 (G2F2) |$ %38
+ (B2^A)c e2dc | d2(B/c/d/e/) .f2df | b2f2 edcd |{c} B4 :| z4 |] %43
+

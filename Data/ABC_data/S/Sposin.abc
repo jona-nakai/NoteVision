@@ -1,0 +1,17 @@
+X:1
+T:S'posin'
+C:1929 - Andy Razaf / Paul Denniker
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm=" " snm=" "
+V:1
+"Bb" F G B c | d d/f/- f f |"Cm" c z z2 |"F7" z4 |$"Bb" F G B c | d d/g/- g g |"Cm" c z z2 | %7
+"F7" z4 ||$"Bb" F G B c |"Am7b5" d d/f/-"D7#9" f f |"Gm" g3/2 d/- d2 | z/ G3/2 B d |$ %12
+"C7" g3/2 d/- d2 | z2 g g |"Cm" d2- d/f/d/c/- |"F7" c4 ||$"Bb" F G B c | d d/f/- f f |"Cm" c z z2 | %19
+"F7" z4 |$"Bb" F G B c |"Fm" d d/g/-"Bb7" g g |"Eb" c4- |"Am7b5" c2"D7#9" z/ c3/2 ||$ %24
+"Gm" B B/f/- f f/=e/- |"A7" e/ =e3/2 _e e |"D7" d d a a/b/- |"Gm" b/g/- g/ z/ z2 |$ %28
+"Bb" z/ F/ G"G7#9" B c |"Cm" d/e/- e"F7" c d/B/- |"Bb" B z z2 |"Cm" z4"F7" |] %32
+

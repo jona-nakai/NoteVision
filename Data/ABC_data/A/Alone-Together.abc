@@ -1,0 +1,18 @@
+X:1
+T:Alone Together
+C:1932 - Arthur Schwartz / Howard Dietz
+Z:Copyright Â©  www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Dmin
+V:1 treble nm=" " snm=" "
+V:1
+ D |:"Dm" F7 D |"Em7b5" E E3-"A7b9" E4- |"D" E2 z D E3 F |"Em7b5" A8-"A7b9" |$"D" A2 z D E3 F | %6
+"Am7b5" A8-"D7b9" |"Gm" A2 z G A3 B |"Gm7" d7 d |$"Bm7" e7"E7" d |"Gm7" c c3-"C7" c3 B | %11
+"F" A3 G"F7" A3 G |"Em7b5" A7"A7" G |1$ ^F F3-"Dmaj7" F4- |"Em7b5" F6"A7" z D :|2 %15
+ ^F"Dmaj7" F3- F4- || F6 D2 ||$"Am7b5" c8- |"D7b9" (3c2 A2 B2 (3c2 _e2 d2 |"Gm" B8- | B6 D2 |$ %21
+"Gm7b5" B8- |"C7b9" (3B2 G2 A2 (3B2 _d2 c2 |"F" A7"F7" F |"Em7b5" G7"A7b9" D ||$"Dm" F7 D | %26
+"Em7b5" E E3-"A7b9" E4- |"Dm" E2 z D E3 F |"Em7b5" A8-"A7b9" |$"Dm" A2 z A =B3 d |"Bb7" f7"A7" ^c | %31
+"Dm" d d3- d4- | d4 z4 |] %33
+

@@ -1,0 +1,17 @@
+X:1
+T:Nearness
+C:Bob Gillis
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+"Bm7" ^c4 A3 E- | E8 | z e2 _e d =e2 ^c- | c3 B A2 BA- |$"Bbmaj7" A4 e2 =cG- |"Abmaj7" G4 _e3 c- | %6
+"Gb7" c8- | c8 |$"Bm7" z4 ^c2 AE- | E8 |"Bbmaj7" z4 edcd | c2 A2 G A2 A- |$"Am7" A8 |"Bbmaj7" z8 | %14
+"Am7" z8 |"Bbmaj7" z8"Am7" ||$"Abm7" _B4 _G3 _D- | D8 | z _d2 c B d2 _B- | %19
+ B3 _A _G"Bbm7" A2"Bm7" ^F- |$"Bm7" F4 ^c2 =Ae- | e3"Bbmaj7" d"Dm7" ed=cA- |"Eb+7" A8- | %23
+ A8"Eb7/Db" |$"Fmaj7/C" z4 A2 Fc- |"Gm7/C" c4 z A cf |"Am7/C" e2 f2 g f2 a- | %27
+"Bbmaj7/C" a2 g2 f g2 f- |$"Bm7b5" f4 z d fd |"Bbm7" _a2 g2 f g2 f- |"Fsus4" f8- | f8 |] %32
+

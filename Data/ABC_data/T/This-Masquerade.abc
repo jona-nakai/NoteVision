@@ -1,0 +1,18 @@
+X:1
+T:This Masquerade
+C:1972 - Leon Russell
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Fmin
+V:1 treble nm=" " snm=" "
+V:1
+"Fm" z2 FG A B2 c- |"Fmaj" c g2 f- f2 cB |"Fm7" A3 B c2 AF- |"Bb13" F4 z4 |$"Fm7" z2 z A AGAe- | %5
+"Db9" e6 ec- |"Gm7" c4 z4 |"C7#9#5" z8 |$"Fm" z C FG A B2 c- |"Fmaj" c g2 f- f_cBA- | %10
+"Fm7" A2 B=c- c A2 F- |"Bb13" F4 z2 CF- |$"Db7" F4 z A B_c- |"C7" cB- B4 A[Ff]- |"Fm7" [Ff]8 | %15
+"Em7" z8"A7" ||$"Ebm7" z2 de f2 _gf- |"Ab7" f2 ed- d2 ef- |"Dbmaj7" fAFA- A4 |"Bb7" z8 |$ %20
+"Ebm7" z A de f2 _gf- |"Ab7" f e3 d2 aa |"Dbmaj7" f8 | z4 z2 z f |$"Dm7" =d2 =ef- f2 ga- | %25
+"G7" a g3 z g fg- |"Cmaj7" g2 GG- GG=EG- | G4 z2 GB- |$"Gm7" B4 z2 G=B- |"G7" B4 z2 Gc- | %30
+"Csus4" c2 =d_B- B2 cG- |"Gb13#11" G2 z2 z4 :| %32
+

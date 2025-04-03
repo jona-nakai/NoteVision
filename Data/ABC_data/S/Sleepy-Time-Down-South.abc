@@ -1,0 +1,17 @@
+X:1
+T:Sleepy Time Down South
+C:1930 - Leon Rene / Otis Rene / Clarence Muse
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+"Bb" A2 A2 A>G F>G |"Bbmaj/Eb" A A2 A- A4 |"F" E F2 A- Ac f2 |"G7" g g2 g- g4 |$ %4
+"C7" d2 d2 d>c A>c |"Gm7" A A2 A-"C7" A2"A7" G2 |"Bb" FD F4"Eb7" F2 |1"F" F8 ||2"F" F4"E7" E4 ||$ %9
+"A" E>^F A>^c"Amaj7" e e2 c |"A6" ^f f2 ^c"Bbdim7" e e3 |"Bm7" e e2 ^c"E7" e2 cA- |"A" A6 z2 |$ %13
+"A" E>^F A>^c"Amaj7" e e2 c |"A6" ^f f2 ^c"Bbdim7" e e3 |"Bm7" e e2 ^c"E7" e2 cA- | %16
+"A" A4"C7" =c4 ||$"Bb" A2 A2 A>G F>G |"Bbmaj/Eb" A A2 A- A4 |"F" E F2 A- Ac f2 |"G7" g g2 g- g4 |$ %21
+"C7" d2 d2 d>c A>c |"Gm7" A A2 A-"C7" A2"A7" G>G |"Bb" FD F4"Eb7" F2 |"F" F8 |] %25
+

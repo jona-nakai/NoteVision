@@ -1,0 +1,19 @@
+X:1
+T:My Cherie Amor
+C:Stevie Wonder
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ x4 G2 A2 ||"Fmaj7" e3 d- d c2 A- |"Bbmaj7" A4 G2 A2 |"Fmaj7/Bb" e3 d- d g2 e- | %4
+"Cmaj7" e4"Em/G" G2 A2 |$"Fmaj7" e3 d- d c2 A- |"Bbmaj7" A4 G2 A2 |"Fmaj7/Bb" e3 d- d g2 e- | %8
+"Cmaj7" e4"G+" G2 A2 |:$"Cmaj7" B2 AB- B4 |"Eb/F" _BBBB c d2 A- |"Bbmaj7" A8 |"F/G" z4"G+" G2 A2 |$ %13
+"Cmaj7" B2 AB- B4 |"Eb/F" _BBBB c d2 A- |"Bbmaj7" A8 |"F/G" z4 c2 d2 |$"Fmaj7" e2 de- e4 | %18
+"Fmaj7/G" eeee f g2 e- |"Bb9#11" e2 de- e4 |"A7" eeee f g2 e- |$"D9" e d2 c- c3 d | %22
+"Fmaj7/G" eeee f g2 d |"Cmaj7" c8- | c4 G2 A2 :|$"Fmaj7" e3 d- d c2 A- |"Bbmaj7" A4 G2 A2 | %27
+"Fmaj7/Bb" e3 d- d g2 e- |"Cmaj7" e4"Em/G" G2 A2 |$"Fmaj7" e3 d- d c2 A- |"Bbmaj7" A4 G2 A2 | %31
+"Fmaj7/Bb" e3 d- d g2 e- |"Cmaj7" e8 |] %33
+

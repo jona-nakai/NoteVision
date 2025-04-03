@@ -1,0 +1,24 @@
+X:1
+T:In the mood
+C:1939 â Wingy Manone / Andy Razaf / Joe Garland
+Z:Copyright Â© www.realbook.site
+%%score ( 1 2 )
+L:1/8
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble nm=" " snm=" "
+V:2 treble 
+V:1
+"Ab" Acea- a a2 a- | a a2 a gaec | e=d_dc _c B2 A- | A8 |$"Bb7" BcBA F2 Bc | BAFF z4 | %6
+ B"Bbm7"cBG F2 Bc |"Eb7" BGFF z4 |:$"Ab6"S ceac eace | acea z4 | ceac eace | acea z4 |$ %12
+"Db6" dfad fadf | adfa z4 |"Ab6" ceac eace | acea z4 |$"Eb7" egbe gbeg | begb z"Bbm7" a2 a- | %18
+"Ab6" aaaa"Db6" aaaa |"E7" a"Eb11" a2"Ab6" a- a2 z2 ::$"Ab6" a f2 a-"Bdim" a2 z2 | %21
+"Bbm7" z e fa"Eb11" c' c'3 |"Ab6" a f2 a-"Bdim" a2 z2 |"Bbm7" z e fa"Eb11" c' e'3 |$ %24
+"Ab6" a f2 a-"Bdim" a2 z2 |"Bbm7" z e fa"Eb11" c' c'2 c' |"Eb7" e'e' z c'"Ebdim" e'e' z c' | %27
+"Eb7" e'2"E9" =b"Eb9"_b- b"Ab6" a3 :|$ A_Bcd e a2 e | =e =d2 _e- e4 | z =d _d2 _c A2 =d | %31
+S _d2 _cA z4 |] %32
+V:2
+ x8 | x8 | x8 | z =c ea- aecA |$ x8 | x8 | x8 | x8 |:$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |$ %16
+ x8 | x8 | x8 | x8 ::$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 :|$ x8 | x8 | x8 | x8 |] %32
+

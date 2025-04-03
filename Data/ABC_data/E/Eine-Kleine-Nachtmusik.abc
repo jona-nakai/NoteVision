@@ -1,0 +1,43 @@
+X:1
+T:Theme from Eine Kleine Nachtmusik
+C:W. A. Mozart
+Z:trans. Austin Harning
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm=" " snm=" "
+V:1
+!f! [D,B,G]2 z D G2 z D | GDGB d2 z2 | c2 z A c2 z A | cAFA D2 z2 | [B,G] z G3 (BA)G | %5
+({GA} GF) F3 (Ac)F | (AG) G3 (BA)G |$({GA} GF) F3 (Ac)F | .G.G G/F/E/F/ .G.G B/A/G/A/ | %9
+ .B.B d/c/B/c/ d2 z2 |!p! (d4 e4) | (d.c) c2 (c.B) B2 | (B.A) A2 GFEF |$!>(! .G2 .A2 .B2!>)! z2 | %14
+!p! ([Dd]4 [Ee]4) | (DC).C.C (CB,).B,.B, |!<(! (B,A,).A,.A,({A,} G,F,E,F,) | %17
+!mp!!<)! G,4- G,(F,/G,/ A,F,) | B,4- B,(A,/B,/ CA,) | !//!D4!<(! !//!E2 !//!F2 |$ %20
+ !//!G2 !//!A2 !//!B2 !//!^c2 |!ff!!<)! d3 A (^c>A) (c>A) | (d3 A) (^c>A) (c>A) | f f2 f2 f2 (f | %24
+ e) e2 e2 e2 e | ^cAdA cAdA |$ ^cA,A,A, A,2 z2 |!mp! (A3 (3G/F/E/) D z B z | G z E z A z z2 | %29
+ (F3 (3E/D/^C/) B, z G z | (F4 E2) z2 | z .A.A.A .A.A.A.A |$ .A.A.A.A .A.A.B.^c | %33
+ (^cd) z B (BA) z ^C | D2 z A (d^cBA) |({=c} BA) z .A .A.A.A.A |({c} BA) z A (d^cBA) | %37
+({=c} BA) z .A .A.A.A.A |$({c} BA) z2!f! ([B,B]3 (3A/G/F/) | G2 z2 ([A,A]3 (3G/F/E/) | %40
+ F2 z2 (B^c/d/ c).B | (BA).F.A (AG).F.E | DA,B,^C DD ED/E/ | F^CDE FF GF/G/ |$ AA ^A^G/A/ B2 z2 | %45
+!p! (B,3 E) (D^CB,).=A, | D z F z D z z2 :|!f! [D,D]2 z A, D2 z A, | DA,DF A2 z2 | A2 z F A2 z F |$ %50
+ AF^DF B,2 z2 | z2 z!mp! G (cBAG) |({B} AG) z .G .G.G.G.G |({B} AG) z G (cBAG) | %54
+({B} AG) z .G .G.G.G.G |({B} AG) z _E (G=FED) |$({_E} D^C) z .C .C.C.C.C | %57
+({=F} =ED) z (D, =E,^F,G,A, | C_B,) z (F, G,A,B,^C | ED) z!>(! (D EFGA | _B2 =B2 c2 ^c2) | %61
+!p!!>)! d8- |$ d4!<(! (F3 E/F/) |!f!!<)! [B,G]2 z D G2 z D | GDGB d2 z2 | c2 z A c2 z A | %66
+ cAFA D2 z2 | [B,G] z G3 (BA)G |({GA} GF) F3 (Ac)F |$ (AG) G3 (BA)G |({GA} GF) F3 (Ac)F | %71
+ .G.G G/F/E/F/ .G.G B/A/G/A/ | .B.B d/c/B/c/ d2 z2 |!p! (d4 e4) | (d.c) c2 (c.B) B2 |$ %75
+ (B.A) A2 GFEF |!>(! .G2 .A2 .B2!>)! z2 |!p! ([Dd]4 [Ee]4) | (DC).C.C (CB,).B,.B, | %79
+!<(! (B,A,).A,.A,({A,} G,F,E,F,) |!mp!!<)! G,4- G,(F,/G,/ A,F,) | B,4- B,(A,/B,/ CA,) |$ %82
+ !//!D4!<(! !//!E2 !//!F2 | !//!G2 !//!A2 !//!B2 !//!^c2 |!ff!!<)! (d3 A) (^c>A) (c>A) | %85
+ (d3 A) (^c>A) (c>A) | dA^cA dAcA | dD,D,D, D,2 z2 |!mp! (D3 (3C/B,/A,/ G,) z E z |$ %89
+ C z A, z D z z2 | (B3 (3A/G/F/ E) z c z | (B4 A2) z2 | z ddd dddd | dddd (dcAF) | %94
+ (FG) z .E (ED) z .F, |$ G,2 z .D (GFED) |({F} ED) z .D .D.D.D.D |({F} ED) z .D (GFED) | %98
+({F} ED) z .D .D.D.D.D |({F} ED) z2!f! [E,E]3 (3(D/C/B,/ | C2) z2 [D,D]3 (3(C/B,/A,/ |$ %101
+ B,2) z2 (EF/G/ F).E | (ED).B,.D (DC).B,.A, | G,2 z!mp! D (GFED) |({F} ED) z D DDDD | %105
+({F} ED) z D (GFED) |({F} ED) z D DDDD |$({F} ED) z2!f! [Ee]3 (3(d/c/B/ | c2) z2 [Dd]3 (3(c/B/A/ | %109
+ B2) z2 (EF/G/ F).E | .D.G.B.d (dc).B.A | G!<(!D,E,F, G,G, (A,G,/A,/ | B,)F,G,A, B,B, (CB,/C/ |$ %113
+ D)D (^D^C/D/) E2!<)! z2 |!mp! (E,3 A,) (G,F,E,=D,) | (D^C=CB,) (D^C=CB,) | (E,3 A,) (G,F,E,D,) | %117
+ (DEFG) (DEFG) | A2 z2!ff! [Dd]2 z2 |$ [B,G]2 z D B,G,B,D | GDGB .d2 [A,F]2 | [B,G]2 z D B,G,B,D | %122
+ GDGB .d2 [A,F]2 | [B,G]2 z2 [B,G]2 z2 | [B,G]2 !>!.G,>!>!G, !>!G,4 |] %125
+

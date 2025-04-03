@@ -1,0 +1,16 @@
+X:1
+T:Too Many Tears
+C:Harry Warren
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Gmin
+V:1 treble nm=" " snm=" "
+V:1
+ d2 B2 G2 |:"Gm" D8 | z2 z D ED^FD | G2 z D ED^FD | G2 d2 d2 _d2 |$"Cm" c8 | z e cB"Ab" _AcAG | %7
+"D7" ^F8 | z2 DD B B3 |1$"Gm" G8 | z2 d2 B2 G2 :|2"Gm" G8 || z4 z2 G2 ||$"Ab7" _A3 B cdec | %14
+"G7" d2 G4 G2 |"Ab7" _A3 B cdec |"G7" d6"F#7" ^F2 |$"Bm" =B2 ^c2 d=edc | d2 =B2 z4 | %19
+"Em7" =B B2 B"A7" G2 ^F2 |"D7" A2 d2 _B2 G2 ||$"Gm" D8 | z2 z D ED^FD | G2 z D ED^FD | %24
+ G2 d2 d2 _d2 |$"Cm" c8 | z e cB"Ab" _AcAG |"D7" ^F8 | z2 DD B B3 |"Gm" G8- | G2 z2 z4 |] %31
+

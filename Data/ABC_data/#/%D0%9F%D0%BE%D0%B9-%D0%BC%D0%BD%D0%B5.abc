@@ -1,0 +1,17 @@
+X:1
+T:ÐÐ¾Ð¹ Ð¼Ð½Ðµ
+C:1938 - Ð. ÐÐ°ÑÐ»Ð°Ð¼Ð¾Ð²
+Z:www.realbook.site
+L:1/4
+M:3/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+"F" C3 |"F#dim" _E3 |"Gm" D3 |"C7b9" A3 |"F/A" z G F |"Abdim" E F G |"Gm" D3 |"C7" C3 |$"F" z c A | %9
+"Abdim" G F E |"Gm" D E F |"C7" G2 C |"F" A3- |"D7b9" A3- |"Gm" A3 |"C7" z3 |$"Am" z c c | %17
+"Abm" =B B2 |"Gm" _B3 | D3 |"C7" z A A | G c A |"Dm9" G3- | G3 |$ z D E | F E F |"G7" G3 | D3 | %28
+ z D E | F E F |"Bb/C" G3- |"C9" G2"C7b9" z |$"F" C3 |"D7b9" _E3 |"Gm" D3 |"C13" A3 | %36
+"Fmaj7" z E F |"Cm/Eb" G A B |"D9" c3 | A2 d |$"Gm" c B A |"Bbm" A2 G |"Am" G2 F |"Abdim" E2 _E | %44
+"Gm" D3 |"C7" E F G |"F" F3- | F z z |] %48
+

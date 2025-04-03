@@ -1,0 +1,16 @@
+X:1
+T:I Know That You Know
+C:1926 - Vincent Youmans / Anne Caldwell
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ B, C ^C ||"D7" E3 E- | E3 D |"G7" E3 E- | E3 D |$"Cmaj7" A3 A- |"B7" A3 G |"Em7b5" A3 A- | %8
+"A7#9" A3 G ||$"D7" E3 E- | E3 D |"G7" E3 E- | E3 D |$"C" C D E F | G A B c |"Em" e2 B d- | %16
+"Am" d A c2 ||$"D7" E3 E- | E3 D |"G7" E3 E- | E3 D |$"Cmaj7" A3 A- | A3 G |"F#m7b5" e3 e- | %24
+"Fmaj" e d c B ||$"Em" A3 A- |"A7" A3 G |"D7" E3 E- |"G7" E3 D |$"C" C D E F |"Dm" G A"G7" B d | %31
+"C" c4 |"Em" z4"A7" |] %33
+

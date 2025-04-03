@@ -1,0 +1,22 @@
+X:1
+T:Christopher Columbus
+C:1936 - C. Berry / A. Razaf
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm=" " snm=" "
+V:1
+"F" F z"F#dim" A z |"Gm7" B A"C7" B =B |"F" c f"F#dim" z2 |"Gm7" G/A/B/=B/"C7" c/_B/A/G/ |$ %4
+"F" F z"F#dim" A z |"Gm7" B A"C7" B =B |"F" c F"F#dim" z2 |"Gm7" f/f/ =e"C7" d c |$ %8
+"F" F z"F#dim" A z |"Gm7" B A"C7" B =B |"F" c f"F#dim" z2 |"Gm7" G/A/B/=B/"C7" c/_B/A/G/ |$ %12
+"F" F z"F#dim" A z |"Gm7" B A"C7" B =B |"F" c F"F#dim" z2 |"Gm7" f/f/ =e"C7" d c ||$ %16
+"F" F/ D"Fdim" F3/2 z |"Gm7" F2"C7" D/C/- C |"F" F/ D"Fdim" F3/2 z |"Gm7" D3/2 C/-"C7" C z |$ %20
+"F" F D"Fdim" F3/2 z/ |"Gm7" F3/2 A/-"C7" A z |"F" F D"Fdim" F z/ _A/- |"C7" A/ G F/-"F" F z |$ %24
+"F" F D"Fdim" F D |"Gm7" F3/2 A/-"C7" A z |"F" F D"Fdim" F F |"Gm7" D3/2 C/-"C7" C z |$ %28
+"F" F D"Fdim" F D |"Gm7" F3/2 A/-"C7" A z |"Db7" F G"C7" _A/ G F/- |"F" F z z2 ||$"A7" z2 A A | %33
+ A G A G |"D7" A/=B/ z z2 | z4 |$"G9" z2 A/ A G/ | A/ G A/ G A/G/ |"C7" c3/2 c/ z2 | %39
+"Ddim" d/ _A F/ A z ||$"F" z z/ F/"Fdim" _A/ F3/2 |"Gm7" G/ F3/2"C7" =A/ F3/2 |"F" A A"Fdim" z2 | %43
+"Gm7" G/A/B/=B/"C7" c/_B/A/G/ |$"F" z2"Fdim" _A3/2 F/ |"Gm7" D F/D/"C7" F D |"F" F/D/ F z2 | z4 |] %48
+

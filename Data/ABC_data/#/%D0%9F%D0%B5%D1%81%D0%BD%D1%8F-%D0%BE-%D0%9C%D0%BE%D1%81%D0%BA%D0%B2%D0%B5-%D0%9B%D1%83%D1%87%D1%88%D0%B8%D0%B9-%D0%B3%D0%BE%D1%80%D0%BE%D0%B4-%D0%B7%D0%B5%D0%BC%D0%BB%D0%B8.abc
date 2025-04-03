@@ -1,0 +1,15 @@
+X:1
+T:ÐÐµÑÐ½Ñ Ð¾ ÐÐ¾ÑÐºÐ²Ðµ (ÐÑÑÑÐ¸Ð¹ Ð³Ð¾ÑÐ¾Ð´ Ð·ÐµÐ¼Ð»Ð¸)
+C:1964 - Ð. ÐÐ°Ð±Ð°Ð´Ð¶Ð°Ð½ÑÐ½ / Ð. ÐÐµÑÐ±ÐµÐ½ÑÐ²
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+|:"C""^in" z8 |"Bb" z8 |"Ab" z8 |1"G7" z8 :|2"G7" z GGG G2 ED |:$"C" E8 | z2 GG G2 EG |"Am" A4 E4 | %8
+ z2 AA A2 EG |$"F" A8 | z2 AA A2 FA |1"G7"{A} G8 | z GGG G2 ED :|2"G7" B8- || B8 |:$"C" c8- | %16
+ c4 d2 e2 |"Am"{e} c8- | c8 |"F" c8- | c4 A2 c2 |"G7"{e} d8- | d8 |$"C" c8- | c4 d2 e2 | %25
+"Am"{e} c8- | c4 d2 e2 |"F" c8 |"G7" d8 |"C" c8 :| %30
+

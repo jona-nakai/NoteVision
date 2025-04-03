@@ -1,0 +1,19 @@
+X:1
+T:Fee-Fi-Fo-Fum
+C:1966 - Wayne Shorter
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+|:"Eb7b5" =A4-"D7#9" AG- GF/D/ |"Gm" C3 B,-"Abmaj7" B,4 |"Bmaj7" B,4"D7" =B,3 D- | %3
+"Dm" D6"G7" (3DG_B |$"Eb7b5" z =A GF-"D7#9" F3 D |"Gm" C3 B,-"Abmaj7" B,3 _D- | %6
+"C7b9" D3 G-"F7" G3 F- |"Bb7" F6 [GB][F,B,] ||$"Eb7" [G,C]4 [A,_D]4 | %9
+ [=A,E][_A,_D][=A,E][A,E]- [A,E]2 [_A,D]2- |"Bb7" [A,D]2 [G,C]4 [F,B,][E,A,] | z4 z2 [GB][F,B,] |$ %12
+"Eb7" [G,C]4 [A,_D]4 | [=A,E][_A,_D][=A,E][A,E]- [A,E]2 [_A,D]2- | %14
+"Bbm7" [A,D]2 [G,C]4"Eb7" [F,B,][E,A,] |"Am" z4"D7" z2 (3=DGB ||$"Eb7b5" =A4-"D7#9" AG- GF/D/ | %17
+"Gm" C3 B,-"Abmaj7" B,4 |"Bmaj7" B,4"D7" =B,3 D- |"Dm" D6"G7" (3DG_B |$ %20
+"Eb7b5" z =A GF-"D7#9" F3 D |"Dbmaj7" C3 B,"C7b9" z2 [^F^A]2- |"Bmaj7" [FA]8- | [FA]6 z2 :| %24
+

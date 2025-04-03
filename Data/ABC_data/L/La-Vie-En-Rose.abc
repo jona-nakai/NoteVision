@@ -1,0 +1,16 @@
+X:1
+T:La Vie En Rose
+C:Louis Guglielmi
+Z:Copyright @www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+"F" f3 e dcAf |"Fmaj7" e3 d cAFe |"F6" d3 c"Abdim7" AEFe |"Gm7" d4"C7" c4 |$"Gm" g3 f edBf | %5
+"C7" e3 d cBGe |"C7" d3 c B^FGe |"F" d4"F#dim""Gm7" c4"C7" |$"F" f3 e dcAf |"Fmaj7" e3 d cAFe | %10
+"F6" d3 c"F7" AEFf |"Bb" f4 z e f^f |$"Bb6" g g2 =f"Bbm6" g g2 f |"F" ggfc- c4 | %14
+"G7" g g2 f g g2 f |"Gm7" gfdf"C7" a2 g2 |$"F" f3 e dcAf |"Fmaj7" e3 d cAFe | %18
+"Gm7" d2 c2"C7" d2 e2 |"F" f8 |] %20
+

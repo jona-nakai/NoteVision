@@ -1,0 +1,17 @@
+X:1
+T:Moon River
+C:1961 - Henry Mancini / Johnny Mercer
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+"C" G6 |"Am" d2 c4 |"Fmaj7" B3 A GF |"C" G4 C2 |$"Fmaj7" B3 A GF |"C" G4 C2 |"Bm7b5" D6- | %7
+"E7" D4 E2 |$"Am" C6 |"C7/G" G2 E3 D |"F" C6 |"Fm" G2 E3 D |$"Am7" C2 E2 G2 | %13
+"F#m7b5" cB-"B7" B3 A |"Em7" BA-"A7" A3 G |"Dm7/G" A6 ||$"C" G6 |"Am" d2 c4 |"Fmaj7" B3 A GF | %19
+"C" G4 C2 |$"Fmaj7" B3 A GF |"C" G4 C2 |"Dm7" D6- |"E7" D4 E2 |$"Am" C6 |"Am7" E4 G2 |"F#m7b5" c6 | %27
+"F" d4 c2 |$"C" G6- |"F" G2 BA GF |"C" G6- |"F" GC BA GF |$"C" G6 |"Am" C6 |"Dm" F2 D4- | %35
+"G7" D4 E2 |"C" C6- | C2 z2 z2 |] %38
+

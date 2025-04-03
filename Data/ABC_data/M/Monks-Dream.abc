@@ -1,0 +1,25 @@
+X:1
+T:Monk's Dream
+C:1948 - Thelonious Monk
+Z:www.realbook.site
+%%score ( 1 2 )
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:2 treble 
+V:1
+ C (3EGA |:"Cmaj9" .[DEB]2 AC"F9" [D_EG] C2 [D=E] |"Bb7#11" z4 z C (3EGA | %3
+"Cmaj9" [DEB]2 AC"F9" [D_EG] C2 [D=E] |"Bb7#11" z8 |$"Cmaj9" [DEB]2 A/G/E/C/"F9" [D_EG]C z2 | %6
+"Bm7" [D=E]A,[DE]_A,-"Bb7" A,2 z2 |"A7b5" [^C_E]4"Ab7b5" (3[=CD][CD][CD] [B,_D]2- |1 %8
+"G7b5" [B,D]4 z C (3=EGA :|2"G7b5" _D6 z C- ||$"C7" C2 =D2 E2 z E- | E2 F2 ^F2 z G- | %12
+ G2 AG (3_BBB AD- | D8 |$ (3_B"C7"BB (3:2:2B2 A B2 z2 | (3_BBB (3:2:2B2 A B2 z2 | %16
+ (3_BBB (3:2:2B2 A cDAC- | C4 z C (3EGA ||$"Cmaj9" .[DEB]2 AC"F9" [D_EG] C2 [D=E] | %19
+"Bb7#11" z4 z C (3EGA |"Cmaj9" [DEB]2 AC"F9" [D_EG] C2 [D=E] | z8"Bb7#11" |$ %22
+"Cmaj9" [DEB]2 A/G/E/C/"F9" [D_EG]C z2 |"Bm7" [D=E]A,[DE]_A,-"Bb7" A,2 z2 | %24
+"A7b5" [^C_E]4"Ab7b5" (3[=CD][CD][CD] [B,_D]2- |"G7b5" D8 |] %26
+V:2
+ x3 |: x8 | z B, z B, z4 | x8 | z B, z B, z4 |$ x8 | x8 | x8 |1 x8 :|2 B,6 x2 ||$ x8 | x8 | x8 | %13
+ x8 |$ x8 | x8 | x8 | x8 ||$ x8 | z B, z B, z4 | x8 | z B, z B, z4 |$ x8 | x8 | x8 | B,8 |] %26
+

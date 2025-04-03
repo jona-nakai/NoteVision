@@ -1,0 +1,16 @@
+X:1
+T:I left my heart in San Francisko
+C:1953 - George Cory / Douglass Cross
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ E F A ||"C" G4 |"Em7" z A"Ebdim" B3/2 c/ |"Dm7" A D- D2 | z D ^C D |$ A4 |"G7" z c B3/2 G/ | %7
+"C" E4 | z E F ^F |$"C" G/=F/E/F/ G2- |"Em7" G z"Ebdim" z A |"Em7" B/A/G/A/ B2- | B B _B =B |$ %13
+"Am7" c4- |"D7" c d B3/2 D/ |"G7" G3 A/G/ | F E F A ||$"C" G4 |"Em7" z A"Ebdim" B c | %19
+"Dm7" A D- D2 | z D ^C D |$"G7" B4- | B B c d |"E7" e4 | z e _e =e |$"A7" f3 e | ^c2 d e | %27
+"D7" d A3 | z A ^G A |$"Dm7" f3 A |"G7" e2 e2 |"C" c4- | c z z2 |] %33
+

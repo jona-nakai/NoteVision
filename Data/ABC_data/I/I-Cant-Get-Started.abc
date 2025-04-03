@@ -1,0 +1,17 @@
+X:1
+T:I Can`t Get Started
+C:1936 - Vernon Duke / Ira Gershwin
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ CEG |:"Cmaj7" B3 c"Am7" A3 E/F/ |"Dm7" G4-"G7" GEGB |"E7" d3 e"Am7b5" c3 G/A/ | %4
+"D7" B4"G7" z C EG |$"Cmaj7" B3 c"Am7" A3 E/F/ |"Dm7" G2 G_A-"G7b9" A3 C/D/ |1"E7" E8-"A7" | %8
+"D7" E4"G7" z C EG :|2"C6" C8 || z2 C2 E2 G2 ||$"Em7" A8"A7" |"Em7" ^FFFF-"A7" F=F E2 | %13
+"Dmaj7" A8"Gmaj7" |"Dmaj7" EEEE- E_E D2 |"Dm7" A8"G7" |$"Dm7" EEEE-"G7" E_E D2 |"Em7" A4"A7" B4 | %18
+"D7" d d2 B"G7" GCEG ||$"Cmaj7" B3 c"Am7" A3 E/F/ |"Dm7" G4-"G7" GEGB |"E7" d3 e"Am7b5" c3 G/A/ | %22
+"D7" B4"G7" z C EG |$"Cmaj7" B3 c"Am7" A3 E/F/ |"Dm7" G2 G_A-"G7b9" A3 C/D/ |"C6" C8- | C8 |] %27
+

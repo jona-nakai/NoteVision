@@ -1,0 +1,77 @@
+X:1
+T:Shape of my heart
+C:1993 - Sting Gordon Sumner / Dominic Miller
+Z:www.realbook.site
+%%score ( 1 2 )
+L:1/8
+M:4/4
+I:linebreak $
+K:Gmin
+V:1 treble nm=" " snm=" "
+V:2 treble 
+L:1/4
+V:1
+"Gm""^INTRO" B>D- D<B"Dm/F" A>D- D<A |"Cm" G>C- C<G"Dsus4" G2"D7" ^F2 | %2
+w: ||
+"Gm" B>E- E<B"Dm/F" A>D- D<A |"Cm" G>C- C<G"Dsus4" G2"D7" ^F2 |$"Eb6" G8 |"Bb9" F4"D" ^F4 | %6
+w: ||||
+"Eb" (3G2 =F2 E2"Fm11" (3D2 C2 B,2 |"Gm" G,8 |:$"Gm" z2 z/ G/B/G/"Dm/F" B2 z G/A/ | %9
+w: |||
+"Cm" Bc/B/- BA-"D" A2"D7" z2 |"Eb/G" z2 z/ G/B/G/"Dm/F" B2- B/G/B/c/ |"Cm" BG z2"D" z4"D7" |$ %12
+w: |||
+"Eb6" z2 z/ G/B/G/ B2 z F |"Bb9" d3 e/d/"D" d2 z2 |"Eb" z2 z/ B/B"Fm11" d/B/c- c>B |"Gm" G6 z2 :|$ %16
+w: ||||
+"Gm" z3/2 B/ (3Bcd"Dm/F" d2 z/ B/c/d/- |"Cm" de/d/ dc-"D" c2"D7" z2 | %18
+w: ||
+"Eb/G" z3/2 B/ (3Bcd"Dm/F" d>d (3ded |"Cm" c2 z2"D" z4"D7" |$"Eb6" z3/2 G/ B/GB/- B2 z F | %21
+w: |||
+"Bb9" d/dd/- d/dd/-"D" d2 z2 |"Eb" (3B2 B2 B2"Fm11" (3d2 c2 c2 |"Gm" G6 z2 ||$ %24
+w: |||
+"Gm" z2 z/ B/c/d/-"Dm/F" de/d/- d/B/d/c/- |"Cm" c2 z6"D""D7" | %26
+w: ||
+"Eb/G" z2 z/ B/c/d/"Dm/F" de/d/- dc/c/- |"Cm" c2 z2"D" z4"D7" |$"Eb6" z2 z/ G/B/G/ B2 z F | %29
+w: |||
+"Bb9" d3 e/d/"D" d c3 |"Eb" z2 z/ B/B"Fm11" d/B/c- c>B |"Gm" G6 z2 ||$ %32
+w: |||
+"Gm" z3/2 B/ (3Bcd"Dm/F" d2 z/ B/c/d/- |"Cm" de/d/- dc-"D" c2"D7" z2 | %34
+w: ||
+"Eb/G" z3/2 B/ (3Bcd"Dm/F" d>d (3ded |"Cm" c2 z2"D" z4"D7" |$"Eb6" z3/2 G/ B/GB/- B2 z F | %37
+w: |||
+"Bb9" d/dd/- d/dd/-"D" d2 z2 |"Eb" (3B2 B2 B2"Fm11" (3d2 c2 c2 |$"Gm" G4 z2 z2 | %40
+w: |||
+[M:2/4]"Eb" (3d2 c2 B2 |[M:4/4]"Dsus4/A" d8 |"^Instrumental" z8 ||$[K:Dmin]"Dm" d4"Am/C" e4 | %44
+w: that`s not the|shape|||
+"Gm" f4"Asus4" g4"A" |"Dm" a8"Am/C" |"Gm" g4"Asus4" a4 |$"Bb6" b6 f2 |"F9" c4"A7" ^c7/2 d/- | %49
+w: |||||
+"Bb" (3d2 =c2 B2"A7" (3A2 G2 F2 |"Dm" D8 |"Bb" (3d2 c2 B2"A" (3A2 G2 F2 |"Bb" D8 ||$ %53
+w: ||||
+[K:Gmin]"Gm" z2 z/ B/c/d/-"Dm/F" de/d/- d/B/d/c/- |"Cm" c2 z2"D" z4"D7" | %55
+w: ||
+"Eb/G" z2 z/ B/c/d/"Dm/F" de/d/- dc/c/- |"Cm" c2 z2"D" z4"D7" |$"Eb6" z2 z/ G/B/G/ B2 z F | %58
+w: |||
+"Bb9" d3 e/d/"D" d c3 |"Eb" z2 z/ B/B"Fm11" d/B/c- c>B |"Gm" G4- G2 z2 ||$ %61
+w: |||
+"Gm" z2 z3/2 B/"Dm/F" de/d/- d/Bd/- |"Cm" d/Bc/- cd"D" z2"D7" z2 | %63
+w: ||
+"Eb/G" z2 z3/2 B/"Dm/F" (3:2:4d3 edc |"Cm" c2 z2"D" z4"D7" |$"Eb6" z6"^Instrumental" z F | %66
+w: |||
+"Bb9" f4"D" (3^fed (3fed |"Eb" g6"Fm11" z2 |"Gm" z2 GB dg b2 ||$"Gm" d'8"Dm/F" |"Cm" z8"D""D7" | %71
+w: |||||
+"Eb/G" z8"Dm/F" |"Cm" (3z2 e2 d2"D" (3c2 B2"D7" A2 |$"Eb6" B8 |"Bb9" d/dd/- d/dd/-"D" d2 z2 | %75
+w: ||||
+"Eb" (3B2 B2 B2"Fm11" (3d2 c2 c2 |"Gm""^Coda" G4 z2 z2 |$"Ebmaj7" (3d2 c2 B2"Dsus4/A" (3d2 c2 c2 | %78
+w: |||
+"Gm" G8 |[M:2/4]"Ebmaj7" (3d2 c2 B2 |[M:4/4]"Dsus4/A" d8- | d2 z2 (3d2 c2 c2 ||$ %82
+w: ||||
+"Gm""^Coda Instrumental" G4-"Dm/F" G4 |"Cm" z4"D" z4"D7" |"Eb/G" z4"Dm/F" d4 | %85
+w: |||
+"Cm" c4"D" (3d2 =e2"D7" ^f2 |"Gm" g8 |] %87
+w: ||
+V:2
+ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |:$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 :|$ B,2 C2 | %17
+ D4 | E2 D2 | C4 |$ G,4 | F,2 ^F,2 | G,2 A,2 | B,4 ||$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 ||$ %32
+ B,2 C2 | D4 | E2 D2 | C4 |$ G,4 | F,2 ^F,2 | G,2 A,2 |$ B,4 |[M:2/4] x2 |[M:4/4] z2 d2- | d4- ||$ %43
+[K:Dmin] x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 ||$[K:Gmin] x4 | x4 | x4 | x4 |$ x4 | %58
+ x4 | x4 | x4 ||$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 ||$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | %76
+ x4 |$ x4 | x4 |[M:2/4] x2 |[M:4/4] x4 | x4 ||$ x4 | x4 | x4 | x4 | x4 |] %87
+

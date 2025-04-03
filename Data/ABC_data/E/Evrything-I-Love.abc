@@ -1,0 +1,17 @@
+X:1
+T:Ev'rything I Love
+C:1941 - Cole Porter
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+"Ebmaj7" z G G2 |"Eb+7" z G G2 |"Abmaj7" G3 C |"Gm7" C4"C7" |$"Fm7" z c c2 |"Bb+7" z c c2 | %6
+"Eb6" c3 G | G4 |$"Eb/G" z e e2 |"Eb+" z e e2 |"Ab" e3 c |"C7" c4 |$"Abm7" z _d d2 |"Db7" z _d d2 | %14
+"Gbmaj7" _d3 B |"Fm7" B3"Bb7" z ||$"Ebmaj7" z G G2 |"Eb+7" z G G2 |"Abmaj7" G3 C |"Gm7" C4"C7" |$ %20
+"Fm7" z c c2 |"D7" z =A/B/ c d- |"G" d d2 G |"G7" G4 |$"Cm7" z e e3/2 d/ | %25
+"Bbm7" _d/ e c/-"Eb7" c3/2 _c/ |"Abmaj7" (3B =c e"C7" (3^F G c |"F7" =F4 |$"Eb/Bb" z G"C7b9" G2 | %29
+"Fm7" z/ A F/"Bb7b9" E D |"Eb" E4 |"Fm7" z4"Bb7" |] %32
+

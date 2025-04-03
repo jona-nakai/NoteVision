@@ -1,0 +1,18 @@
+X:1
+T:Ac-Cent-Tchu-Ate The Positive
+C:1944 - Harold Arlen / Johnny Mercer
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:2/2
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+ CDF |:"F" A2 z2"F+" A2 z2 |"Dm" z A AF"F7" AG F2 |"Bb" G2 z2"Bbm" G2 z2 | %4
+"Db11" z G GF"Gm9" _AF"C9"DC |$"F" A2 z2"F+" A2 z2 |"Dm" z A AF"F7" AG F2 |"Gm7" G G2 F"C7" GAFD |1 %8
+"F"!>(! F4-"C7" FCD!>)!F :|2"F" F4-"C7" Fddc ||$"F" A2 z2"C+" z d dc |"F7" A2 z2 dc_AG | %12
+"Bb" F4"C7" AFDF |"F" F4-"C7" Fddc |$"F" A4 z d2 c |"D7b9" _ee d2 c2 A2 |"G7" G8- | %17
+"C9" G d2 c dcdc ||$"F" A2 z2"F+" A2 z2 |"Dm" z A AF"F7" AG F2 |"Bb" G2 z2"Bbm" G2 z2 | %21
+"Db11" z G GF"Gm9" _AF"C7"DC |$"F" A2 z2"F+" A2 z2 |"Dm" z A AF"F7" AG F2 |"Gm7" G G2 F GAFD |$ %25
+"F" F4"D7b9" _e4 |"Gm7" d d2 c"C7" AFDF |"F" F6 z2 |] %28
+

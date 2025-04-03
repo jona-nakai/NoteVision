@@ -1,0 +1,15 @@
+X:1
+T:A Foggy Day
+C:1937 - George Gershwin / Ira Gershwin
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+|:"F" z C C C |"F#dim7" _E3 E |"Gm7" D2 D2 |"C7" A4 |$"F6" z F F F |"Dm7b5" _A3 A |"G7" G2 G2 | %7
+"C7" d4 ||1$"Fmaj7" z e e e ||"Cm7" c c3"F7" |"Bbmaj7" A3 A |"Eb7" F4 |$"Am7" z A A A | %13
+"D7" c c2 c |"G7" A3 A |"C7" D4 :|2$"Cm7" f2 f f ||"F7" d3 d |"Bbmaj7" c2 c2 |"Eb7" A2 A B |$ %20
+"F6" c F"Gm7" G B |"Am7" A F"Bbm6" G B |"Am7" A2"Dm7" f2 |"Gm7" F2"C7" G2 |"F" F4- | F3 z |] %26
+

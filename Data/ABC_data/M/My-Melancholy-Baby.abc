@@ -1,0 +1,17 @@
+X:1
+T:My Melancholy Baby
+C:1912 - Ernie Burnett / George A. Norton
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+|:"F" AcA^G-"C7" G4 |"F" AcA^G-"C7" G4 |"F" Acde =gfcA |"F" c2"Fdim" _c2"C7" B4 |1$ %4
+ B"Gm"dBA-"D7" A4 |"Gm" BdBA-"D7" A4 |"G7" GA=Bc d^cde |"C7" d2 _d2 =c4 :|2$ =B"G7"c^c=d- d4 || %9
+"C" =cd^de-"A7" e4 |"D7" =dede"G7" d=BAG |"Gm7" d2 _d2"C7" c4 |:$"F" AB=Bc gfcB |"Eb7" _B4"D7" A4 | %14
+"Gm7" AG^FG"D7" A2 e2 |"Gm7" d8"D7" |1$ G"Gm7"ABc"C7" dfed |"G7" A4"C7" G4 | %18
+"F" GF"Dm7"EF"G7" GFGA |"C" c8 :|2$ d"Gm7"^cde"G#dim" f2 ed ||"Am7" =c=Bc^c"D7" d3 A | %22
+"Gm7" _B=c^cd"C7" A=cAG |"F" F8 |] %24
+

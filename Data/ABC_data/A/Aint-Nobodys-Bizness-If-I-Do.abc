@@ -1,0 +1,18 @@
+X:1
+T:'Tain't Nobody's Bizness If I Do
+C:1922 - Porter Grainger / Everett Robbins
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm=" " snm=" "
+V:1
+"G6" _B2 =B4 B2 |"B7" A3 B A B3 |"Em" z2 z E"G7" G2 G2 |"C7" _B2 AG"C#dim" E G3 |$ %4
+"G6" =B2 d2 B G3 |"D7" DC- C4 AG |"G6" G8-"E7" |"A7" G6"D+7" z2 |$"G6" _B2 =B4 B2 |"B7" A3 B A B3 | %10
+"Em" z2 G2"G7" G3 G |"C" G2 E2"C#dim" G E3 |$"G6" B2 d2 B G3 |"D7" D C3 _BAGE |"G6" G8-"Am7" | %15
+"A#dim" G6"G" z2 ||$"G6" _B2 =B4 B2 |"B7" A3 B A B3 |"Em" z2 z E"G7" G2 G2 | %19
+"C" GE G2"C#dim" G E3 |$"G6" B2 d2 B G3 |"D7" D C3 A2 GG- |"G6" G8-"E7" |"A7" G4"D+7" z2 D2 |$ %24
+"G6" _B2 =B4 B2 |"B7" A3 B A B3 |"Em" z2 G2"G7" G2 G2 |"C7" _B A2 G"C#dim" E G3 |$ %28
+"G6" =B2 d2 B G3 |"D7" DC- C4 AG- |"G6" G8- |"F7" G6 z2 |] %32
+

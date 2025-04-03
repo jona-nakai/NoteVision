@@ -1,0 +1,16 @@
+X:1
+T:ÐÑÐ±Ð»Ñ / ÐÐ´ÑÑÐ°Ñ ÑÐ¾Ð·Ñ Ð°ÑÐ¾Ð¼Ð°Ñ
+C:1939 - ÐÑÐ¸Ð¼ Ð Ð¾Ð·ÐµÐ½ÑÐµÐ»ÑÐ´ / ÐÐ¸ÐºÐ¾Ð»Ð°Ð¹ ÐÐµÐ½Ð³ÐµÑÑÐºÐ¸Ð¹
+L:1/8
+M:4/4
+I:linebreak $
+K:Dmin
+V:1 treble nm=" " snm=" "
+V:1
+ z A, =B,^C FECD |:"Dm" A8"Dmaj" |"D7" z D _E^F BAFG |"Gm" d8 |"Gm/E" z c BA GFEG |1$"Dm" F8 | %6
+"Gm/E" z E GF"E7" ED^CD |"A7" A8 |"Dm" z A, =B,^C"A7" FECD :|2$"Dm" F8 |"Gm/E" z E GF"A7" ED^CE | %11
+"Dm" D2"A7" A2"Dm" d2 z2 ||"D7" z d dd _eABc ||$"Gm" _e4 d4 |"D7" z d dd cBAc |"Gm" B8 | %16
+"E7" z =B BB fedB |$"Am" f4 e4 |"E7" z f ed ^c=Bcd |"A7" e8 |"A7" z A, =B,^C FECD ||$ %21
+"Dm" A8"Dmaj" |"D7" z D _E^F BAFG |"Gm" d8 |"Gm/E" z c BA GFEG |$"Dm" F8 |"Gm/E" z E GF"A7" ED^CE | %27
+"Dm" D2"A7" A2"Dm" d2 z2 |] %28
+

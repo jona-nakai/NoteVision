@@ -1,0 +1,19 @@
+X:1
+T:Goody Goody
+C:1936 - Matty Malneck / Johnny Mercer
+Z:www.realbook.site
+L:1/8
+M:2/2
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+ c2 B |:"Eb" e2 d2 c2 Be- | ef d2"Bb+" c2 B2 |"Eb6" G6 g>g | ^fg- g2 z c2 B |$"Eb" e2 d2 c2 Be- | %6
+ ef d2 c2 B2 |"C7" G6 g>g | ^fg- g2 z c2 c |$"Fm" =f2 f2"C7" =e g2 f- |"Fm" f4 z c2 c | %11
+"Fm" f2 f2"C7b9" =e _d2 c- |"Fm" c6 cB |$"F9" =ABce- e2 c2 | g2 e6 |"Cm7" g2 e2"F7" d e2 f- | %16
+"Bb7" f4 z c2 B ||$"Eb" e2 d2 c2 Be- | ef d2"Bb+" c2 B2 |"Eb6" G6 g>g | ^fg- g2 z g2 e |$ %21
+"Eb7" g2 _g2 =f2 e=g- | gg _g2"Eb+7" f e2 c- |"Ab" c8-"C7" |"Fm" c6 e2 |$"Ab6" g3 e f3 e | %26
+"Abm6" g2 f4 e2 |"Eb" d2 B2 c2 B2 |"Bb+7" d2 c4 B>B |$"Eb" e>e d2 c4 | z4 z2 c>c |"C7" g>g d2 c4 | %32
+ z4 z g2 ^f |$"F9" g2 e2 =f2 e2 |"Fm7" g e2"Bb+7" [_gb]2 [f=g]3 |1"Eb" e8"Cm7" | %36
+"Fm7" z4"Bb7" z c2 B :|2"Eb" e8-"Fm7""Bb9" |"Eb6" e6 z2 |] %39
+

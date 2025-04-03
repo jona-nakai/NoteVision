@@ -1,0 +1,25 @@
+X:1
+T:Nice Work If You Can Get It
+C:1937 - George Gershwin / Ira Gershwin
+Z:Ira Gershwin
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:2/2
+I:linebreak $
+K:G
+V:1 treble nm=" " snm=" "
+V:1
+"G" z E GD EB,DE |"Em7" G2 G2"Am7" G"D7" B3 |"G" z G2 D EB,DE |$"Em7" GA (3BAB"Am7" G"D7" A3 | %4
+"B7#5" B B2 B"Em" G2 G2 |"Am7" d2"D7" d2"G6" B4 |$"D/F#" z A2 F"Fdim7" AAAA | %7
+"Em7" A B2 G"A7" F2 A2 |"D9" E8 |"D7#5" z2 d2 ^A2 F2 |$"G" z E GD EB,DE | %11
+"Em7" G2 G2"Am7" G"D7" B3 |"G" z G2 D"G/F#" EB,DG |$"Em7" B2 B2"F#7" B ^c3 |"Bm" z d2 d"Bm7" B3 B | %15
+"Bdim7" d2 d2"C#m7b5/B" B ^c3 |$"Bm7" BB B2"E7" B2 B2 |"Am7" B2 B2"D7" A2 B2 |"G6" G G3- G4- | %19
+ G2 z2 z4 |:$"B7#5" B2 c2"E9" c2 B2 |"A7#5" A2 B6"D9" |"G13" G2 A2"C9" A2 G2 |"A13" F8"A#dim" |$ %24
+"Bm7" D3 E-"Em7" EDEG | A"Am7" B3"D743" z D EG |"Am7" A B3"D743" G2 GG- |"G6" G6"C7" z2 |$ %28
+"B7#5" B2 c2"E7" c2 B2 |"A7#5" A2 B6"D9" |"G7" G2 A2"C9" (3A2 _A2 G2 |"A13" F8"A#dim" |$ %32
+"Bm7" D3 E-"Em7" EDEG |"Am7" A B3"D743" z D EG |"Am7" A B3"D743" G2 GG- |"G6" G6"B7#5" z2 |$ %36
+ z"Em7" B2 G B2 G2 |"C7" _B3 G- G4 |"Em7" =BBB,B, E G3 |"A13" F8 |$"Dm" z A2 =F A2 F2 | %41
+"Em7b5" A3 A-"A7b9" A2 AB |"Am7" d2 d2 de B2 |"D7#5" ^A8 |$"B7#5" B2 c2"E9" c2 B2 | %45
+"A7#5" A2 B6"D9" |"G7" G2 A2"C9" (3A2 ^G2 =G2 |"A13" F8"A#dim" |$"Bm7" D3 E-"Em7" EDEG | %49
+ A"Am7" B3"D7" z D EG |"B7#5" A B3-"E7" B4 |"Am7" d2 B2"D7" G2 E2 |"G6" G8- | G6 z2 :| %54
+

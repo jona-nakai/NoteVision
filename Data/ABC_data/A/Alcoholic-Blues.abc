@@ -1,0 +1,14 @@
+X:1
+T:Alcoholic Blues
+C:1919 â Albert Von Tilzer / Edward Laska
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+ AB=B |:"F" c4 z A _B=B | c4 z A _B=B | c2 d2 c2 F2 |"F7" _E6 F2 |$"Bb" D2 FG- G3 F | %6
+"Bbm" _D2 FG- G4 |"F" =B2 c2 A2 F2 | =BcBc AF- F2 |$"C7" e2 d2 c _B3 | e2 dc- c4 |"F" cAB=B c f3 | %12
+"Db7" _A2"C7" GF-"F" F4 |] %13
+

@@ -1,0 +1,17 @@
+X:1
+T:Across The Alley From The Alamo
+C:1946 - Joe Greene
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:2/2
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+ C |:"F" c2 c2 cc=Bc |"Bb/F" d2 cA-"F" A2 CC | A2 A2 AA^GA |"Bb/F" B2 AF-"F" F2 C2 |$ %5
+"C7" GG^FG"Cdim" FF"C7" G2 | c2 BG- G2 GG |1 G"Gm7" G3"Csus4" F2"C7b9" GA- |"F" A6 z C :|2 %9
+ G"Gm7" B3"C7" A2 GF- ||"F" F6"F7" F2 ||$"Bb" B2 B2 c2 B2 |"F" A c3-"F7" c3 F | %13
+"Bb" B2 B2"Bbm6" B A2 c- |"F" c6 AA |$"A7" A A3 z G2 A |"Dm" G F3- F d2 d- |"G9" d2 z A AGFG- | %18
+"C7" G6 z C ||$"F" c2 c2 cc=Bc |"Bb/F" d2 cA-"F" A2 CC | A2 A2 AA^GA |"Bb/F" B2 AF-"F" F2 C2 |$ %23
+"C7" GG^FG"Cdim" FF"C7" G2 | c2 BG- G2 GG |"Gm7" G B3"C7" A2 GF- |"F" F6 z2 |] %27
+

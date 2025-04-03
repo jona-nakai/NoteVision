@@ -1,0 +1,18 @@
+X:1
+T:Voyage
+C:1986 - Kenny Barron
+Z:www.realbook.site 2024
+L:1/8
+M:4/4
+I:linebreak $
+K:Fmin
+V:1 treble nm=" " snm=" "
+V:1
+|:"Fm69" cBAG- G4 | z2 z F GA z2 |"Gbm69" d_c=A_A- A4 |"F7b9" z F _GA =A=cfc |$ %4
+"Bbm7" e3 d z F _Ac |"Gm7b5" z c Be"C7" dcA=E |"Fm69" cBAG- G4 |1"Gm7b5" z8"C7" :|2 %8
+"Fm69" z2 z F GA z2 ||$"Dbmaj7" A2 (3FED CDFA |"Em7" =A4"A7" A3 A- |"Dmaj7" A2 (3^F=E=D ^CDF=A | %12
+"Fm7" B4"Bb7" B3 B- |$"Ebmaj7" B2 (3GFE =DEGB |"F#m7" =B4"B7" B3 B- |"Emaj7" B2 (3^G=G=E ^DE^G=B | %16
+"Gm7b5" c_B_e_d"C7" c_G z2 ||$"Fm69" cBA=G- G4 | z2 z F GA z2 |"Gbm69" d_c=A_A- A4 | %20
+"F7b9" z F _GA =A=cfc |$"Bbm7" e3 d z F _Ac |"Gm7b5" z c Be"C7" dcA=E |"Fm69" cBAG- G4 | %24
+"Gm7b5" z8"C7" |] %25
+

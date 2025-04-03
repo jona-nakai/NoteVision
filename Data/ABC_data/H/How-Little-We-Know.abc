@@ -1,0 +1,19 @@
+X:1
+T:How Little We Know
+C:1944 - Hoagy Carmichael / Johnny Mercer
+Z:www.realbook.sie
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+ C"C7" (3C A, C ||"Fmaj7" G4-"Gm7" |"Am7" G F"Dm7" (3F D F |"Gm9" A A3- |"Gb7" A C"C7" (3C A, C |$ %5
+"Fmaj7" G3/2 G/"Gm7" G2- |"Am7" G F"Dm7" (3F D F |"Bbm9" c c3- |"Eb13" c B B c/B/ |$ %9
+"F69" A3/2 C/ C C |"Am7" E E"Abm7" _E E |"Gm7" D D3- |"C7" D B (3B c B |$"F69" A C C C | %14
+"Bbm9" F F"Am9" E3/2 E/ |"Abm9" _E E3"Db9" |"Gm7" z C"C7b9" (3C A, C ||$"Fmaj7" G4-"Gm7" | %18
+"Am7" G F"Dm7" (3F D F |"Gm9" A A3- |"Gb7" A C"C7" (3C A, C |$"Fmaj7" G3/2 G/"Gm7" G2- | %22
+"Am7" G F"Dm7" (3F D F |"Bbm9" c c3- |"Eb13" c B B c/B/ |$"Cm9" d d d3/2 c/ |"F13" d d"F7b9" d c | %27
+"Dm7" F/F/- F3- |"Eb13" F c (3c =B _B |$"Dm7" F F3- |"Gm7" F A"C743" (3A F F |"F69" F4"Dm7" | %32
+"Gm7" z4"C7b9" |] %33
+

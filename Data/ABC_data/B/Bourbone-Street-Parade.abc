@@ -1,0 +1,21 @@
+X:1
+T:Bourbone Street Parade
+C:Paul Barbarin
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:2/2
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+ C || (3F C F (3A F A | c z z c | (3A c A (3F A F | C z z2 ||$"F" z2 A z | E3/2 F/ z2 | z2 A z | %8
+w: INTRO||||||||
+ E3/2 F/ z2 |$"F" z2 A z | E3/2 F3/2 B- |"C7" B z z2 | z4 |$"C7" z2 B z | ^F3/2 G/ z2 | z2 B z | %16
+w: ||||||||
+ ^F3/2 G/ z2 |$ z2 c z | c3/2 ^G3/2 A- |"F" A z z2 | z4 ||$"F" z2 A z | E3/2 F/ z2 | z2 A z | %24
+w: ||||||||
+ E3/2 F/ z2 |$"F7" z2 A z | G3/2 F3/2 d- |"Bb" d z z2 | z4 |$"Bb6" G z/ G/ F G | %30
+w: ||||||
+"Bdim" _A3/2 A3/2 =A- |"F" A z/ A/ ^G A |"D7" B2 A2 |$"G7" D2 A2 |"C7" C2 A2 |"F" F2 z2 | z4 |] %37
+w: |||||||
+

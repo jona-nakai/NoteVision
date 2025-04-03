@@ -1,0 +1,16 @@
+X:1
+T:Hello, Dolly
+C:Jerry Herman - 1963
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm=" " snm=" "
+V:1
+ D ||"Bb" F4 | D B, D F |"Gm" G4 | D B, D F |$"Bb/D" A B A B |"Dbdim" A B c B/F/- |"Cm7" F4 | %8
+"F7" z =E F ^F |$"Cm" G4 | E C E G |"Ab" _A4 | E C E G |$"Cm7" d c d c |"F7" d c A F | %15
+"Bb/D" z G2"Dbdim" A |"Cm7" F D"F7" E =E ||$"Bb" F4 | D B, D F |"Gm" G4 | D B, D F |$ %21
+"Fm7" c B c B |"Bb7" c B c B |"Eb" G4 |"D7" A4 |$"Gm" z B2 G |"Dm7" F2 D/ F3/2 |"Gm" B/B/ B B G | %28
+"Dm" F2 D/ F3/2 |$"C7" d/d/ d d d |"Cm7" d/ c e/-"F7" e d/B/- |"Bb" B4 | z4 |] %33
+

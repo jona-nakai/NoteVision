@@ -1,0 +1,14 @@
+X:1
+T:ÐÐ¾ÑÐ¸, Ð³Ð¾ÑÐ¸, Ð¼Ð¾Ñ Ð·Ð²ÐµÐ·Ð´Ð°
+C:1846 - ÐÑÑÑ ÐÑÐ»Ð°ÑÐ¾Ð² / ÐÐ»Ð°Ð´Ð¸Ð¼Ð¸Ñ Ð§ÑÐµÐ²ÑÐºÐ¸Ð¹
+Z:www.realbook.site
+L:1/8
+M:3/4
+I:linebreak $
+K:Cmin
+V:1 treble nm=" " snm=" "
+V:1
+ C EC |:"G7" G3 D E=B, |"Cm" C3 G Gc |"Bb7" B3 F GA |"Eb" G3 e ed |$"Fm6" F3 D BA |"Cm" A>G GE DC | %7
+"G7" G3 D EF |"Ab" E3 C CC |$"Fm" C3 D BA |"Cm" A>G GE DC |1"G7" G3 D E=B, |"Cm" C3 C EC :|2 %13
+"G7" G3 G =A=B ||"Cm" c3 z z2 |] %15
+

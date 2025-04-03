@@ -1,0 +1,21 @@
+X:1
+T:Splanky
+C:1950 - Neal Paul Hefti
+Z:www.realbook.site
+L:1/8
+M:2/2
+I:linebreak $
+K:Eb
+V:1 bass nm=" " snm=" "
+V:1
+ E,,2 G,,2 A,,2 =A,,B,, | z B,,2 _A,, G,,2 F,,2 | E,,2 G,,2 A,,2 =A,,B,, | %3
+ z B,,2 B,, B,,2[K:treble] _GE ||$"Eb7" z4 z _G A=A |"Ab7" z4"Bb7#5" z _A _GF |"Eb7" z4 z _G A=A | %7
+"Bbm7" Be=A_A-"Eb7#9b5" A2 _GE |$"Ab7" z4 z _G A=A |"B9" z4"Bb7#5" z _A _GF |"Eb7" z4 z _G A=A | %11
+"Eb9" Be=A"C7#5"_A- A2 _GE |$"F7b9" z4 z _G A=A |"B9" z4"Bb7#5" z _A _GF |"Eb7" z4 z _G A=A | %15
+"Fm7" Be=A_A-"Bb7#5" A2"Eb" _GE ||$[K:bass] E,,2 =G,,2 _A,,2 =A,,B,, | z B,,2 _A,, G,,2 F,,2 | %18
+ E,,2 G,,2 A,,2 =A,,B,,- |O B,, B,,2 B,, B,,2[K:treble] z"D9" =A- |:$"Eb9" A B3- B2 E2 | %21
+"Ab7" _A3 _G z2 z"D9" =A- | A"Eb9" B3- B2 E2 |"Bbm7" _A3 G"Eb7" z4 |$"Ab7" =ABBB ABBB | %25
+ =ABBB (3_dB_A _G=A- |"D9" A"Eb9" B3- B2 E2 |"Db9" _A3 G"C9" z4 |$"F9" z C3 E2 G2 |1 %29
+"Fm7" B C3 E2 FG- |"G7" G3 G"C9" z4 |"Fm7" z E2"C7" G2"Db9" A2"D9" =A- :|2 %32
+"Fm7" B C3 E2"Bb7" F"Eb"E ||[K:bass]O B,,2 B,C- C4 |] %34
+

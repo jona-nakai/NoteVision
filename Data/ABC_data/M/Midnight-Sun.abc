@@ -1,0 +1,19 @@
+X:1
+T:Midnight Sun
+C:1947 - Lionel Hampton / Sonny Burke / Johnny Mercer
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ B2 |:"Cmaj7" d_dcB _BA_AE | G E3 G^F=FE |"Cm7" _E2 dB-"F9" B4- | B4 z2 A2 |$"Bmaj7" cB_BA _AG^FD | %6
+ =F D3 FE_ED |"Bbm7" _D2 cA-"Eb9" A4- | A4 z2 G2 |$"Abmaj7" _BA_AG _GFEC | _E C3 ED_DC | %11
+"Abm7" _C2 _BG-"Db9" G4- | G4 _BGEF |1$"Cmaj7" G G2 G-"Am7" G4- |"Dm7" G4"G7" z2 B2 :|2 %15
+"Cmaj7" G G2 G-"Am7" G4 ||"F#m7" z8"B7" ||$"Emaj7" B^c^GA B2 GA | B"Em7"^c=GA"A7" B2 c2 | %19
+"Dmaj7" A8- |"Em7" A4"Eb7" z2 ^F2 |$"Dmaj7" AB^FG A2 FG |"Dm7" AB=FG"G7" A2 BG- |"Em7" G8-"Eb7" | %24
+"Dm7" G4"Db7" z2 B2 ||$"Cmaj7" d_dcB _BA_AE | G E3 G^F=FE |"Cm7" _E2 dB-"F9" B4- | B4 z2 A2 |$ %29
+"Bbmaj7" cB_BA _AG^FD | =F D3 FE_ED |"Bbm7" _D2 cA-"Eb9" A4- | A4 z2 G2 |$"Abmaj7" _BA_AG _GFEC | %34
+ _E C3 ED_DC |"Abm7" _C2 _BG-"Db9" G4- | G4 _BGEF |"Cmaj7" G G2 G-"Am7" G4 |"Dm7" z4"G7" z4 |] %39
+

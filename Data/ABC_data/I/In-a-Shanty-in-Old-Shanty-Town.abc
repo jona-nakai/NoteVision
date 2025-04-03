@@ -1,0 +1,17 @@
+X:1
+T:In A Shanty In Old Shanty Town
+C:1932 -  Ira Schuster / Jack Little / Joe Young
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+ C ||"F6" c c2 c |"A7" ^c c z c |"D7" d2 =c A | ^F2 z D |$"G7" G2 G G |"F#7" ^G G z G | %7
+"G7" A2 =G F | D2 z D/^D/ |$"Gm7" E c2 =B |"C7" _B2 z D/E/ |"F6" F2"E7" d _d | %12
+"F6" c2"D7" z A/_A/ |$"Gm7" G2 =A B |"G7" =B e2 B |"C9" d2 _B G |"C7" E2 z C ||$"F6" c c2 c | %18
+"A7" ^c c z c |"D7" d2 =c A | ^F2 z D |$"G7" G2 G G |"F#7" ^G G z G |"G7" A2 =G F | D2 z D/E/ |$ %25
+"Bb6" F2 E F |"Bbm6" G2 F G |"F6" A c2 e |"D7" d2 z ^C/D/ |$"Gm7" B B z =B |"C7" c2 c A |"F6" F4- | %32
+ F z z2 |] %33
+

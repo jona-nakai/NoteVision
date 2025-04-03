@@ -1,0 +1,18 @@
+X:1
+T:Oleo
+C:1954 - Sonny Rollins
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Bb
+U:s=!stemless!
+V:1 treble nm=" " snm=" "
+V:1
+"Bb" z B2 F"G7" c3 B- |"Cm7" BF d2"F7" z e2 d |"Bb" z B z G"G7" dedc |"Cm7" BG_A=A"F7" z B2 F |$ %4
+"Bb" c3 B-"Bb/D" BF B2 |"Eb" z B2 G"Edim" edAc |"Bb/F" z2 z G z B z G |1"F7" d3 c dcAF :|2 %8
+"Bb" _dGcB z4 ||$"D7" sB2 sB2 sB2 sB2 | sB2 sB2 sB2 sB2 |"G7" sB2 sB2 sB2 sB2 | sB2 sB2 sB2 sB2 |$ %13
+"C7" sB2 sB2 sB2 sB2 | sB2 sB2 sB2 sB2 |"F7" sB2 sB2 sB2 sB2 | sB2 sB2 sB2 sB2 ||$ %17
+"Bb" z B2 F"G7" c3 B- |"Cm7" BF d2"F7" z e2 d |"Bb" z B z G"G7" dedc |"Cm7" BG_A=A"F7" z B2 F |$ %21
+"Bb" c3 B-"Bb/D" BF B2 |"Eb" z B2 G"Edim" edAc |"Bb/F" z2 z G z B z G |"Bb" _dGcB z4 |] %25
+

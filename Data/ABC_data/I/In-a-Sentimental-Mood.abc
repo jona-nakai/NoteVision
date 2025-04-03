@@ -1,0 +1,18 @@
+X:1
+T:In a Sentimental Mood
+C:Duke Ellington, Irvin Mills, Manny Kurtz
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Emin
+V:1 treble nm=" " snm=" "
+V:1
+ x2 GA Bdeg |:"Em" a8-"Emaj" |"Em7" a2 ga"Em6" gfed |"Am7" B2 eB-"C+/A" B4- | %4
+"Am7" B2 Bd"Am6" e_B"B7#5"AG |$"Em" E4- EG=Bd |"Bm7" f6"E9" e2 |"Am7" c4"D7b9" F4 |1 %8
+"G69" A2 GA"F#m7" Bd"B7#5"eg :|2"G69" G6"Fm9""Bb13" z2 ||$"Ebmaj7" d2 cd"Cm7" =f_edc | %11
+"Fm9" G2 =FG"Bb7" _A_B"Abmaj7"GF |"Eb/G" _E4 z4"Gb13" |"Fm7" z8"Bb7" |$"Gm7" d2 cd"Cm7" =f_edc | %15
+"Fm9" G2 =FG"Bb7" _A_BGF | D8"D743" |"D7" z2 GA Bd"B7#5"eg ||$"Em9" a8-"G+/B" | %19
+"Em9" a2 ga"Em6" gfed |"Am7" B2 eB-"C+/A" B4- |"Am7" B2 Bd"F#7" e_B"B7#5"AG |$ %22
+"Em7" E4-"C#m7b5" EG"Cmaj7"=Bd |"Bm7" f6"E9" e2 |"Am7" c4"D7b9" F4 |"G69" G2 z2 z4 |] %26
+

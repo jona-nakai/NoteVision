@@ -1,0 +1,22 @@
+X:1
+T:About A Quarter To Nine
+C:1935 - Harry Warren / Al Dubin
+Z:www.realbook.site
+L:1/8
+M:2/2
+I:linebreak $
+K:Emin
+V:1 treble nm=" " snm=" "
+V:1
+"Em" B4"B7" B4 |"Em" B4"Am" d>c B>A |"Em" G4"B7" B>A G>F |"Em" E8"Am" |$"Em" B4"B7" B4 | %5
+"Em" B4"Am7b5" d>c B>A |"G/D" G4"Am7/D" A2"D7" B2 |"G" G6 G2 |$"Am6/C" F2 F2"B+" G2 G2 | %9
+"Em" E2 E4 B2 |"F#7" ^A2 A2 F2 F2 |"F#m7b5" =A8"B7" |$"Em" B4"B7" B4 |"Em" B4"Am" d>c B>A | %14
+"Em" G2 G4"B7" G2 |"Em" E6"G7" G2 |:$[K:C]"C" c8-"Dm7" |"C" c>e B>d c>E"Ebdim" AG- | %18
+"G7/D" G z/ g/ f>e"Edim/C#" g2 g2 |"G7/D" g>f dG- G2"Dm7" D2 |$"G7" G4"Edim/G" G4- | %21
+"G7" G z/ G/ F>E"Dm7" D>A,"G7" B,C- |"C" C8-"Dm7" |1"C/E" C2"G7" e2 e d3 :|2 %24
+"C" C2 c2"Eb7" c2 c2 ||$"Ab" c _A2 _E- E2 c>c |"Eb7" _B G2 _E- E2 B2 |"Ab" _A _E3"Fm" C A3 | %28
+"Dm7" G6"G7" G>G |$"Em/C#" G G2 G- G3 G |"Bm" ^F F2 F-"Bm7" F4 |"E7" ^FBFB- B3 F | %32
+"A7" EAEA-"D7" A2"G7" G2 ||$"C" c8-"Dm7" |"C/E" c>e B>d c>E"Ebdim" AG- | %35
+"G7/D" G z/ g/ f>e"Edim/C#" g2 g2 |"G7/D" g>f dG-"G7" G2"Dm7" D2 |$"G7" G4"Edim" G4- | %38
+"G7" G z/ G/ F>E"Dm7" D>A,"G7" B,C- |"C" C8- | C6"G7" G2 |] %41
+

@@ -1,0 +1,26 @@
+X:1
+T:Ruby, My Dear
+C:1945 - Thelonius Monk
+Z:www.realbook.site
+%%score ( 1 2 )
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:2 treble 
+L:1/4
+V:1
+|:"Fm"S z2 G2-"Bb7b9" (3G2 F2 _C2 |"Ebmaj7" _B,8 |"Gm" z2 A2-"C7b9" AG _D2 | %3
+"Fmaj7" C6"Gm""Abm""Am" z2 |$"Bbm" c4"Eb7b9" _B3 =E |"Abmaj7" _E4"Cm" z F"F7" C_D | %6
+ _E4-"Bbm" E"A6"^F^C=D |1"Bm/E" =E4"Bb+7" z2 ^F2 :|2"Bm/E" =E6-"E7" E z ||$"Amaj7" E4"F#m" ^F3 ^C | %10
+"Bm" B,4"E7b9" =F,2 ^C2 |"Amaj7" ^F,2 F,4 ^G,2 |"Bb6" =G,2 G,6"Bdim7" |$"Cm" C6"Cmaj" DC | %14
+"Cm" G,4"Dm" z2 A,2 |"Ebm" _E E3 F2 E2 |"Ab7" _B, F3-"Eb7#9" F z ^F2 ||$ %17
+"Fm" z2 G2-"Bb7b9" (3G2 =F2 _C2 |"Ebmaj7" _B,8 |"Gm" z2 A2-"C7b9" AG _D2 | %20
+"Fmaj7" C6"Gm""Abm""Am" z2 |$"Bbm" c4"Eb7b9" _B3 =E |"Abmaj7" _E4"Cm" z F"F7" C_D | %23
+"Bbm"O _E4-"A6/E" E^F (3=E^CA, |"F#maj7" _A,6"B7b9""Bb7b9" z2 ||$"Bbm7"SO _E4- E"A6"^F (3=E^C=A, | %26
+"Gbmaj7" _A,2"B7b9" [=A,=C_E]2"Bb7b9" D=B (3_B^F=B, |"Ebmaj7" !fermata!_B,8 |] %28
+V:2
+|: x4 | x4 | x4 | x4 |$ x4 | x4 | x4 |1 x4 :|2 x4 ||$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 ||$ %17
+ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 ||$ x4 | z2 [_F,B,]2 | x4 |] %28
+

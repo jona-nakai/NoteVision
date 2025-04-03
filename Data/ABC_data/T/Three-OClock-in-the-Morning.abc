@@ -1,0 +1,16 @@
+X:1
+T:Three O'Clock in the Morning
+C:1919 - Dorothy Terriss / Julian Robledo
+Z:www.realbook.site
+L:1/4
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ G ||"Cmaj7" C2 B, |"Dm/G" C E G |"Cmaj7" d3 |"Dm/G" c3 |$"Em" B c A |"Ebdim" G2 ^A, |"Dm" B,3- | %8
+"G7" B, z G ||$"Dm" D2 ^C |"Dmaj" D F A |"Dm7" e3 |"G7" d3 |$"Em" c B d |"Ebdim" c2 A |"Dm" G3- | %16
+"G7" G z G ||$"Cmaj7" C2 B, |"Dm/G" C E G |"Cmaj7" d3 |"Dm/G" c3 |$"Cmaj7" c B c |"C+7" d c ^G | %23
+"Fmaj7" A3- |"A7#9" A2 z ||$"Dm" A ^G A |"Ebdim" c B A |"Cmaj7/E" c2 =G |"Am" E F G |$"D7" E3 | %30
+"G7" D3 |"Cmaj7" C3- |"Dm/G" C z z |] %33
+

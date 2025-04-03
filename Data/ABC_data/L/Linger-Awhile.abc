@@ -1,0 +1,16 @@
+X:1
+T:Linger Awhile
+C:1923 - L. Owens / V. Rose
+Z:www.realbook.site
+L:1/4
+M:2/2
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+ C2 ||"F" D2 F2- | F2"C7" G2 |"F" A2 c2- |"F/A" c2"Db7/Ab" ^c2 |$"C7/G" d2 E2- |"C7" E2"Cdim" ^D2 | %7
+"C7" E4- | E2 C2 |$ D2 E2- | E2 G2 | B2 d2- | d2"Cdim" ^d2 |$"Fmaj7" e2 A2- | A2"Fdim" ^G2 | %15
+"F" A4- | A2"C7" c2 ||$"Dm7" f2 d2- | d2 f2 |"A7" e ^c A2- | A2 ^c2 |$"D7" d2 A2- | A2 d2 | %23
+"G7" A G D2- |"Gm7" D2"C7" C2 |$"F" D2 F2- | F2"C7" G2 |"F" A2 c2- |"F/A" c2"Db7/Ab" ^c2 |$ %29
+"Gm7" d2 =c2- |"C7" c2 d2 |"F" f4-"Bbm6" |"F" f z z2 :| %33
+

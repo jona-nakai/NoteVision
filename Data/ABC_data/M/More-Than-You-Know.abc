@@ -1,0 +1,21 @@
+X:1
+T:More Than You Know
+C:1929 - Vincent Youmans / Billy Rose / Edward Eliscu
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+|:"Cm" _E/F/G/A/"Am7b5" c A |"B+7" B B3 |"Cm" G/A/c/d/"Am7b5" _e c |"Ab7#11" d4"G7b9" |$ %4
+"Cm" _e/d/c/"Bbm7"_B/ c"Eb7" B |"Abmaj7" G G-"G7b9" G/_E/F/D/ |1"Dm7" G G2 F |"Ab7" D4"G7b9" :|2 %8
+"Cm" G2 G2"Am7b5" ||"Dm7" G2"G+7" (3G ^G A |:$"C6" A2"G+7" (3=G ^G A |"Gm9" A2"C7b9" (3=G ^G A | %12
+"Fmaj7" c A"Em7" =G"A7b9" E |"Dm7" D2"Fm7" (3D"Bb7" ^D E |1$"Dm9" E2"Ab7#11" (3=D ^D E | %15
+"Dm9/G" E2"G7b9" (3=D ^D E |"Em7" G4-"A7b9" |"Dm7" G z"G7" (3G ^G A :|2$"Em7" =G2"A7b9" (3G ^G A || %19
+"Dm7" c2"G7b9" d2 |"C6" c4-"F9" |"C6" c z"F#m7b5" B/A/"B7b9"G/^F/ ||$"Em" A G/^F/"C#m7b5" E G | %23
+"F#m7b5" ^F/E/D/C/"B7b9" E D |"Em7" C B,3- |"Am7b5" B, z"D7" d/c/B/A/ |$"Gmaj7" c B/A/"Em7" G B | %27
+"A743" A/G/"A7"^F/E/"D743" G"D7" F |"Dm9" E D3- |"Dm7" D z"G7" (3G ^G A ||$"C6" A2"G+7" (3=G ^G A | %31
+"Gm9" A2"C7b9" (3=G ^G A |"Fmaj7" c A"Em7" =G"A7b9" E |"Dm7" D2"Fm7" (3D"Bb7" ^D E |$ %34
+"Em7" G2"A7b9" (3G ^G A |"Dm7" c2"G7b9" d2 |"C6" c4-"F9" |"C6" c z z2 |] %38
+

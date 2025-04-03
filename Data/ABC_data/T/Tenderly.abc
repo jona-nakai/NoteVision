@@ -1,0 +1,18 @@
+X:1
+T:Tenderly
+C:Walter Gross, Jack Lawrence
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+ Bce ||"Ebmaj7" d4- dBce |"Ab9#11" d6 B_G |"Ebm9" F8- |"Ab13" F4 z E FA |$"Fm9" G4- GEFA | %6
+"Db9#11" G6 E_C |"Ebmaj7" B,8- |"Gm7b5" B,4"C7b9" z2 B,2 |$"Fm7b5" _C6 B2 |"Bb13" G6 B,2 | %11
+"Fm7b5" _C4 E2 B2 |"Bb13" G6"Bdim7" F2 |$"Cm7" E4 G2 f2 |"F13" d6 F2 |"Fm7" B8- | %16
+"Bb7" B4 z B ce ||$"Ebmaj7" d4- dBce |"Ab9#11" d6 B_G |"Ebm9" F8- |"Ab13" F4 z E FA |$ %21
+"Fm9" G4- GEFA |"Db9#11" G6 E_C |"Ebmaj7" B,8- |"Gm7b5" B,4"C7" z2 B,2 |$"Fm7b5" _C4 E2 B2 | %26
+"Dm7b5" G6"G7" F2 |"Cm7" E4 G2 f2 |"F13" d4-"F#dim7" decd |$"Gm7" B4-"C7#5" BcAB | %30
+"Fm9" G4-"Bb7" GFAD |"Eb6" E8 | z8 |] %33
+

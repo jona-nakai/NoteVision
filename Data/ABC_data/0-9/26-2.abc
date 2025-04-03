@@ -1,0 +1,19 @@
+X:1
+T:26 - 2
+C:1960 - John Coltrane
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+ a ||"F" z c' z a"Ab7" b_g_eb |"Db" _af_d_A"E7" ^f=d z f |"A" ed^ce"C7" ddBG | %4
+"Cm7" A2 F_E-"F7" E2 z2 |$"Bb" d^cdf"C#7" ^dB^Gc |"F#" ^A z z A"A7" =A_AGB |"Dm" AFED"G7" FFDG- | %8
+"Gm" G2 z2"C7" z2 z a ||$"F" z c' z a"Ab7" b_g_eb |"Db" _af_d_A"E7" ^f=d z f |"A" ed^ce"C7" ddBG | %12
+"Cm" A2 f_e-"F7" e2 z2 |$"Bb" z2 df"Ab7" _e_dB_G |"Db" F z z _A"E7/B" d^cB^G |"A" AB^ce"C7" ag z2 | %16
+"F" acdf- f2 z2 ||$"Cm" z4"F7" dcBG |"Em" E z z G"A7" Bd^ce |"D" AG^FA"F7" z =F Ad | %20
+"Bb" BFAB- B2 z2 |$"Ebm" z2 f6 |"Ab7" _efec- cec_A- |"Db" A3 F Bc z2 |"Gm" z4"C7" z2 z a ||$ %25
+"F" z c' z a"Ab7" b_g_eb |"Db" _af_d_A"E7" ^f=d z f |"A" ed^ce"C7" ddBG |"Cm" A2 f_e-"F7" e3 g |$ %29
+"Bb" f_edf"Ab7" e z z _g |"Db" f_d_AF"E7/B" =B4 |"A" A z ^ce"C7" _B=c z2 |"F" acdf z4 |] %33
+

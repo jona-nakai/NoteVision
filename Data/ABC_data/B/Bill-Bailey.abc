@@ -1,0 +1,15 @@
+X:1
+T:Bill Bailey
+C:Hughie Cannon
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+"F" C D2 F | A ^G A c | C D2 F | A4 |$"F" C D2 F | A2"F#dim" c2 |"C7/G" c E3- |"C7" E3 z |$ %8
+"C7" C E2 G | B A B c | C E2 G | B2 z2 |$"C7" C E2 G | B2"C7#5" d2 |"F" d A3- | A3 z ||$ %16
+"F" C D2 F | A ^G A c | C D2 F | A3 C |$ C C F A |"F7" c2 _e2 |"Bb" d4- | d3 F |$"Bb" F F2 F | %25
+"Bdim" G2 F2 |"F/C" c c2 d |"D7" A3 A |$"G7" A G ^F G |"C7" B2 A2 |"F" F4- | F3 z |] %32
+

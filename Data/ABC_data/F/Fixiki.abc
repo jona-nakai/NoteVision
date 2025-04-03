@@ -1,0 +1,14 @@
+X:1
+T:Fixiki
+C:G. Vasilyev
+Z:www.realbook.site
+L:1/4
+M:2/2
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+"F" F A c d | _e d/c/- c2 | A A A B |"C7" A G3 |$"C7" C E G A | B A/G/- G2 | c c d c |"F" A F2 c |$ %8
+"Bb" d e f d/c/- | c B2 B |"F" A G A B/c/- | c2 c2 |$"F" f A B c |"Bb" d e/f/- f B | %14
+"G9/B" A A"C7" G G |"F" F2 c2 |$"F" f A B c |"Bb" d e/f/- f B |"G9/B" A A"C7" G G |"F" F z f z |] %20
+

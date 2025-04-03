@@ -1,0 +1,17 @@
+X:1
+T:Laura
+C:David Raksin
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+"Am7" B2 B2- |"D7b9" B ^A/B/ (3A ^F G |"Gmaj7" A3/2 A/ E2- | E2 z2 |$"Gm7" A2 A2- | %5
+"C7b9" A ^G/B/ (3G E F |"F" G4- | G2 z2 |$"Fm7" z _E F2- |"Bb7" F _E (3F E F | %10
+"Ebmaj7" G3/2 G/ D2- | D _E G _B |$"D7" _e3/2 e/ _A2- | A2 =A2 |"Bm7" d4- |"E7" d e c d ||$ %16
+"Am7" B2 B2- |"D7b9" B ^A/B/ (3A ^F G |"Gmaj7" A3/2 A/ E2- | E2 z2 |$"Gm7" A2 A2- | %21
+"C7b9" A ^G/A/ (3G E F |"F" G4- | G2 z2 |$"Dm7b5" z F G2- |"G7" G E (3F _A B |"C" d3/2 c/ d2- | %27
+"Am7" d2 B c |$"D7" _e2 e2- |"G7" e =e/_e/ (3d A B |"C" c2 z2 | z4 |] %32
+

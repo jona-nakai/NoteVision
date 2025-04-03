@@ -1,0 +1,18 @@
+X:1
+T:I Loves You, Porgy
+C:1935 - George Gershwin / Ira Gershwin / DuBose Heyward
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+ FAc ||"Fmaj9" e g3 z f cA |"Bbmaj7" A c3 z D FA |"Gm13" c e3"C11" z c AF |"Fmaj7" A4 z D FA |$ %5
+"Am7" c e3"D9" z c A^F |"Gm9" =F A3 z B, DF |"C9" Ac c2 z A"Db9" F"C9"D |"F" F4 z4 ||$ %9
+"Am6" z A =Bc dedc |"Eb9#11" A2 A2"E9" c2 =B2 |"Am6" z A =Bc dedc |"Ab+7" E2 E2"G7#11" G4 |$ %13
+"Cm6" z c d_e fgfe |"F#9#11" cccc"G9" _e2 d2 |"Gm6/Bb" z =e ee"A7#5" f2 f2 | %16
+"Dm7b5/Ab" dddd"G+7" !fermata!_e F"C11"Ac ||$"Fmaj9" d g3 z f cA |"Bbmaj7" A c3 z D FA | %19
+"Gm13" c e3"C943" z c AF |"Fmaj7" A4 z D FA |$"Am7" c e3"D9" z c A^F |"Gm9" =F A3 z B, DF | %23
+"C13" A c3 z A FD |"F6" F8 |] %25
+

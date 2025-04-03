@@ -1,0 +1,17 @@
+X:1
+T:Molten Glass
+C:Joe Farrell
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+|:"Cmaj7" G/E/A/G/ (3B/A/G/ E"Fmaj7" G3 E |"Bm7b5" FGAB"E7b9" edAF |"Amaj7" ^c/d/c- (c4 c)^C | %3
+"Abm7b5" D_A_GD"Db7" A3 =G/_G/ |$"Ebm7" F3 _A FD_DC |"Fm7b5" _C_EF_A"Bb7b9" =DG=B=d | %6
+"Ebmaj7" _B/F/B- B6 |"Dm7b5" _B,=B,_B=F"G7b9" =e _A3 :|$"Cmaj7" G3 _B-"Ebmaj7" B4 | %9
+"Abmaj7" _EF/E/ DE"Cbmaj7" _B _A3 |"Gbmaj7" F3 ^G-"Amaj7" G4 | %11
+"Dmaj7" ^C2 =C^C"Gmaj7" ^G ^F3"Dmaj7" |$"C#maj7" ^G3 ^d-"Emaj7" d4 |"Emaj7" ^F4"Dmaj7#11" ^c B3 | %14
+"Cmaj7#11" B A3"Bbmaj7#11" A G3 |"Abmaj7#11" G F3- F4 |] %16
+

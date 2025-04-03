@@ -1,0 +1,15 @@
+X:1
+T:The Preacher
+C:1955 - Horace Silver
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+ C D F |:"F" A A2"Fdim" ^G |"F" A2 F2 |"Bb" B2"Bdim" F G/A/- |"F" A/ C3/2"C7" D F |$ %5
+"F" A A2"Fdim" ^G |"F" A2 F2 |"G7" A G G A/G/- |"C7" G C D F |$"F" A A2"Fdim" ^G |"F" A2"F7" F2 | %11
+"Bb" B2 c B/A/- |"A7" A3"F7" A |$"Gm7" B2"Abdim" =B2 |"Am7" c/^G/A/F/-"Dm7" F D | %15
+"Gm7" B A"C7" F/C/D/F/- |1"F" F C D F :|2"F" F z z2 |] %18
+

@@ -1,0 +1,17 @@
+X:1
+T:Perhaps, Perhaps, Perhaps
+C:1947 - Osvaldo FarrÃ©s
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Emin
+V:1 treble nm=" " snm=" "
+V:1
+ B, ^C^DEF |:"Em" G3 E- E2 E2 |"Am" A4"B7" z F AF |"Em" G3 E- E2 E2 |"Am" A4"B7" z F AF |$ %5
+"Em" B3 G- G2 z B, |"C7" G2 z B,"B7" F2 z B, |"Em" E8-"Am7" |1"Em" E2 z B, ^C^DEF :|2 %9
+"Em" E2 z B eeee ||$"B7" ^d3 A- A2 e2 | ^d3 A- A2 d2 |"E6" ^c3 ^G- G4- | G2 z B eeee |$ %14
+"B7" ^d3 A- A2 e2 | ^d3 A- A2 d2 |"E6" ^c3 ^G- G4- | G2 z B, ^C^DEF ||$"Em" =G3 E- E2 E2 | %19
+"Am" A4"B7" z F AF |"Em" G3 E- E2 E2 |"Am" A4"B7" z F AF |$"Em" B3 G- G2 z B, | %23
+"C7" G2 z B,"B7" F2 z B, |"Em" E8-"Am7" |"Em" E2 z2 z4 |] %26
+

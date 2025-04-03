@@ -1,0 +1,19 @@
+X:1
+T:The Birth of the Blues
+C:1926 - Ray Henderson / Buddy DeSylva / Lew Brown.
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+"Am7" G2"Ab7" ^F2"G7" =F2 |:"C6" E4"C#dim" A G2 F- |"Dm7" F4"D#dim" B A2 G- | %3
+"C/E" G4 c"E7b9" B2 A- |"F" A4"D7/F#" d c2 B- |"G7" B4"Em7" B4-"Ebdim7" |$ %6
+"G7/D" B2 BB-"G7" B2 cd |1"C6" c8-"C7/E""F""F#dim7" |"C/G" c2"Am7" G2"Ab7" ^F2"G7" =F2 :|2 %9
+"C6" c8-"C/E""F""G7" |"C" c4"B+7" Bcd^d ||$"E7" e4"Bm7b5/F" =dBdB- |"E7" B4"Bm7b5/F" dBdB- | %13
+"E7" B4"Bm7b5/F" B4- |"E7" B4 Bcd^d |$"A13" e4 ^cAcA- | A4 ^cAcA- |"Am7" A4"D9" A4- | %18
+"G7" A2"Am7" G2"Ab7" ^F2"G7" =F2 ||$"C6" E4"C#dim" A G2 F- |"Dm7" F4"D#dim" B A2 G- | %21
+"C/E" G4 c"E7b9" B2 A- |"F" A4"D7/F#" d c2 B- |$"G7" B4"Em7" B4-"Ebdim7" |"G7/D" B2 B"G7"B- B2 cd | %25
+"C6" c8-"C/E""F""G7" |"C6" c8"G7" |] %27
+

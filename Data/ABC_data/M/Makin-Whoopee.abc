@@ -1,0 +1,19 @@
+X:1
+T:Makin` Whoopee
+C:1928 - Gus Khan / Walter Donaldson
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:2/2
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+"F" dcAF DCDF |"Bb7" _A A2 A- A4 |"F" dc=AF DCDF |"Bb7" _A A2 A- A4 |$"F" dc=AF DCDF | %5
+"C" G G2 _A-"Ab7" A4 |"C" GG"Ab7"^GG"D7" =AA"G7"=BB |"C7" d c2 c- c4 |$"D7" ddcc BBAA |"Gm" G6 G2 | %10
+"G7" AAAA AAGF |"C7" c4 z C DC |:$"F" A4-"F#dim7" ACDC |"Gm" B4-"C7" BCDC |"F" c4-"F7" cFGF | %15
+"Bb" c4-"Bbm" cBcB |$"F" A2 A2-"Dm" ACDC |"Db7" _A2 A2-"C7" A^FG^G |1"F" =A =F3-"Dm" F4 | %19
+"Gm" z4"C7" z C DC :|2"F" A F3- F4 || z8 ||$"F#dim7" c _e2 c e2 c2 |"Gm" B2 B6 | %24
+"Bbm6" B _d2 B d2 B2 |"F" A8 |$"F#dim7" c _e2 c e2 c2 |"Gm" B2 B6 |"Bbm6" B _d2 B d2 B2 | %29
+"C7" A4 z C =DC ||$"F" A4-"F#dim7" ACDC |"Gm" B4-"C7" BCDC |"F" c4-"F7" cFGF |"Bb" c4-"Bbm" cBcB |$ %34
+"F" A2 A2-"Dm" ACDC |"Db7" _A2 A2-"C7" A^FG^G |"F" =A =F3- F4 | z8 |] %38
+

@@ -1,0 +1,16 @@
+X:1
+T:Nardis
+C:1958 - Miles Davis
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ B2 |:"Em" e8 |"Fmaj7" z ^D Ee"Edim7" _e3 c |"B7" B8- |"Cmaj7" B4 z4 |$"Am" z B3 A2 G2 | %6
+"Fmaj7" E3 A- A4 |"Emaj7" (3^GAG F4"Em" E2- |1"Em" E6 B2 :|2"Em" E6 E2 ||$"Am" B6"Fmaj7#11" B2- | %11
+ B4 B,CEG |"Am" B6"Fmaj7#11" B2- | B6 z2 |$"Dm" z e3 d2 c2 | e4"G7" d4 |"Cmaj7" B6"Fmaj7#11" B2- | %17
+ B6 B2 ||$"Em" e8 |"Fmaj7" z ^D Ee _e3 c |"B7" B8- |"Cmaj7" B4 z4 |$"Am" z B3 A2 G2 | %23
+"Fmaj7" E3 A- A4 |"Emaj7" (3^GAG F4"Em" E2- | E6 z2 |] %26
+

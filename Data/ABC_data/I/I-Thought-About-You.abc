@@ -1,0 +1,20 @@
+X:1
+T:I Thought About You
+C:1939 - Jimmy Van Heusen / Johnny Mercer
+Z:www.realbook.site
+L:1/8
+M:2/2
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+"Ebmaj7" z E GB"D7" d_dcG- |"Db9#11" G4"C7b9" A2 G2 |"F9" GEEE-"Gb13" E4- |"F9" E4- E z z2 |$ %4
+"Fm7" z C EG"Fm7/Eb" B=A_AG- |"Dm7b5911" G4"G7b9" F2 G2 |"Cm7" F_FEE- E4- |"Bbm7" E8"Eb7" |$ %8
+"Abmaj7" cBcB-"Ab6" B2 A2 |"Abm7" _cBcB-"Db7" B3 A |"Ebmaj7" G2 B2"Bb7" B4- |"Ebmaj7" B6 z2 |$ %12
+"Am7b5" dedB-"D7b9" B2 =A2 |"Am7b5" dedB-"D7b9" B2 =A2 |"Gm7" G2 BB-"Gb7" B4 | %15
+"Fm7" F2 GG-"Bb13" G4 ||$"Ebmaj7" z E GB"D7" d_dcG- |"Db9#11" G4"C7b9" A2 G2 | %18
+"F9" GEEE-"Gb13" E4- |"F9" E4- E z z2 |$"Fm7" z C EG"Fm7/Eb" B=A_AG- |"Dm7b5911" G4"G7b9" F2 G2 | %22
+"Cm7" F_FEE- E4- |"Bbm7" E6-"Eb7" EE |$"Abmaj7" cBcB- B2 A2 |"Abm7" _cBcB-"Db7" B3 A | %26
+"Ebmaj7" GB=ce-"Cm7" e2"Cm/Bb" f2 |"Am7b5911" d6"Ab7#11" c2 |$"Gm7" BBBB-"Gb13" B4 | %29
+"Fm7" z2 E2"Bb7" GGGE- |"Ebmaj7" E8- |"Fm7" E4-"Bb7" E z z2 |] %32
+

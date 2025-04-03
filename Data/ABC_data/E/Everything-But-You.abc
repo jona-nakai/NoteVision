@@ -1,0 +1,17 @@
+X:1
+T:Everything But You
+C:1945 - Duke Ellington
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+ C2 |:"C7b9" _DEGB- B3 ^G |"F" A F3- F3 C |"C7b9" _DEGB- B2 A2 |"F" c6 z C |$"C7b9" _DEGB- B3 ^G | %6
+"F" A F3-"Dm7" F4 |"G9" z d2 A"C7" G2 F2 |"F" F6 z C :|$"F7" z2 AA- AG F2 |"F7" G2 FG A F3 | %11
+"Bb" z2 GG-"E" GF _E2 |"Bb" D2 FA c B3 |$"G7" z2 AA- AAFD |"G7" =B,DFA- A G2 F | %15
+"C7" E3 G"G7" F3 A |"C7" z G2"Gm9" B A c2 C ||$"C7b9" _DEGB- B3 ^G |"F" A F3- F3 C | %19
+"C7b9" _DEGB- B2 A2 |"F" c6 z C |$"C7b9" _DEGB- B3 ^G |"F" A F3-"Dm7" F4 |"G9" z d2 A"C7" G2 F2 | %24
+"F" F8 |] %25
+

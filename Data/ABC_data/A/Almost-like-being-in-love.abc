@@ -1,0 +1,18 @@
+X:1
+T:Almost like being in love
+C:Frederick Lowe
+Z:Alan Jay Lerner
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm=" " snm=" "
+V:1
+ x2"G7" G A || B2"Cmaj7" G E |"D7" F2 F G |"Gmaj9" A2 F D |"Bm7" E2"E7" E F |$"Am7" z G E F | %6
+"D943" G E2"D7b9" F |"G6" G4- |"Dm7" G z"G7" G A |$"Cmaj7" B2 G E |"D7" F2 F G |"Bm7" A2 F D | %12
+"Em7" E2 E F |$"Am7" z G E F |"D943" G E2"D7b9" F |"G6" G4- | G z G A ||$ B2"F#m7" F ^G | %18
+"B7" A2 ^c B |"Emaj7" ^G4- | G z E F |$"Em7" =G2 F G |"A7" A E2 A |"F#m7" B4- |"B7" B B B B ||$ %25
+"Cmaj7" B2 G E |"D7" F2 F G |"Gmaj9" A2 F D |"Bm7" E2"E7" E F |$"Am7" G2 E F |"A#dim7" G E2 E/F/ | %31
+"G6/B" G2 E F |"Bbdim7" G E2 G |$"Am9" B2 G A |"Am9" B B"D7b9" A2 |"G6" G4 | z4"Bm7""G7" |] %37
+

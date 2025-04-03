@@ -1,0 +1,18 @@
+X:1
+T:As Long as I Live
+C:1934 - Harold Arlen / Ted Koehler
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+|:"Fmaj7" ABA z ABA z |"Em7b5" ABA z"A7b9" ABA z |"D7" A3 e3 z2 |"Am7" d2- d_d"D7" c=B _B2 | %4
+"G7" A3 e3 z2 |$"Gm7" c2- c=B"C7" _BA _A2 |1"Fmaj7" GFGF-"Dm7" F2 z2 |"Gm7" AGAG-"C7" G2 z2 :|2 %8
+"Fmaj7" GFGF-"Bb7" F2 z2 ||"F6" z4 z2 FE ||$"Cm7" _E c3"F7" E4 |"Bbmaj7" D B3- B2 z2 | %12
+"Bbm7" _D2 B2"Eb7" B c3 |"Fmaj7" A4"Em7b5" z F"A7"G^G |$"Dm7" A d3 A2 z2 |"G7" f^cdA- A2 z2 | %16
+"Gm7" =ccdc BBcB |"C7" AABA G2 z2 ||$"Fmaj7" ABA z ABA z |"Em7b5" ABA z"A7b9" ABA z | %20
+"D7" A3 e3 z2 |"Am7" d2- d_d"D7" c=B _B2 |$"G7" A3 e3 z2 |"Gm7" c2- c=B"C7" _BA _A2 | %24
+"Fmaj7" GFGF-"Bb7" F2 z2 |"F6" AGAG- G2 z2 |] %26
+

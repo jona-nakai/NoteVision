@@ -1,0 +1,32 @@
+X:1
+T:Oblivion
+C:1982 - Ãstor Piazzolla
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Cmin
+V:1 bass nm=" " snm=" "
+V:1
+"Cm" C,G,A,C DE F2 |[I:repeat 1 3] z8 | z8 | z8 ||$[K:treble]"Cm"!p! (g8- | g3 f/e/ d3) (c | e8- | %7
+ e3 d/c/ B3) (A |$"Fm"{/=B} c7"Bb7" _B/A/ |"Ebmaj7" B3)({/B} c-"Abmaj7" c B2 A/G/ | %10
+"Ddim" A3 G/F/"D7" E2 D2 |"G7" G4) z2!<(!({/G} A/G/^F/G/ ||$"Cm"!mf!!<)! g8- | %13
+ g3 f/e/ d2)({/c} d/c/=B/c/ | e8- | e2 dc B3) (A |$"G7b5" c8- |"C7b9#5" c3 B/A/ G3) (F |"Fm7" A8- | %19
+"Fm7/Eb" A4) z2 z/!<(! !tenuto!c/!tenuto!f/!tenuto!g/ ||$"Dm7b5"({/g} a8- | %21
+"G7b9" a3!f!!<)! g/f/ e2) !tenuto!d2 |"Cm" (g8- |"Cm/Bb" g3!>(! f/e/ d2) !tenuto!c2 |$ %24
+"D/A" ^F6 !tenuto!D2 |"G7"!mf!!>)! G6 !tenuto!G2 |"Cm" c8- | %27
+"Cm7" c4 z!f! !tenuto!G!tenuto!c!tenuto!d ||$"Fm7" e6 (cd) | %29
+"Bb9" (3!tenuto!e2 !tenuto!d2 !tenuto!f2 B2 A2 |"Ebmaj7" G2 d6- | %31
+"Ab" (3d2 !tenuto!c2 !tenuto!e2 A2 G2 |$"Ddim" F2 c6- |"G7" (3c2 !tenuto!=B2 !tenuto!d2 G2 F2 | %34
+"Cm" !>!E3 !>!F3"Dm7b5" G2- |"Eb7" G4"Edim7" z2!mf!({/G} A/G/^F/G/ ||$"Fm7" e6) (cd) | %37
+"Bb9" (3!tenuto!e2 !tenuto!d2 !tenuto!f2 (B2 A2) |"Ebmaj7" !tenuto!G2 d6- | %39
+"Abmaj7" (3d2 !tenuto!c2 !tenuto!e2 (A2 G2 |$"D7b5" ^F8) |"G7" G6 (G2 |"Cm"{/=A=B} c8- | %43
+"Cm7" c4) z2!p! !tenuto!G2 ||$"Cm" (g8- | g3 f/e/ d3) (c | e8- |!<(! e3 d/c/ B3) (A |$ %48
+"Fm7"!mp!!<)!{/=B} c7"Bb7" _B/A/ |"Ebmaj7" B3)({B} c-"Abmaj7" c B2 A/G/ | %50
+"Ddim"!<(! A3 G/F/)"D7" !tenuto!E2 !tenuto!D2 |"G7" G4- G({AG}^F/G/ (6:4:6A/B/c/d/e/=f/ ||$ %52
+"Cm"!mf!!<)! g8- | g3 f/e/ d3) (c |{/d} e8- | e3 d/c/ B3) (A |$"G7b9b5"!<(! c8- | %57
+"C7b9#5" c3 B/A/!<)! G3) (F |"Fm7" A8- |"Abmaj7/Eb" A4) z!f! (cfg ||$"Dm7b5" a8- | %61
+"G7" ag b/a/g/f/ g/f/e/d/ c/d/e/f/) |"Cm" (3!tenuto!g2 !tenuto!c2 !tenuto!e2 (g4- | %63
+"Cm/Bb" g3!>(! f/e/ d3) (c |$"D/A"!mp!!>)! ^f6) !tenuto!d2 |"G7" g6 !tenuto!g2 |"Cm" c'8- | %67
+"Cm/Bb" c'8- |"Cm/Ab" c'8 |"G7b943" z (GAc defc'- |"Cm"!>(!!>)! !fermata!c'8) |] %71
+

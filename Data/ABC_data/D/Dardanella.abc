@@ -1,0 +1,19 @@
+X:1
+T:Dardanella
+C:1919 - Fred Fisher / Felix Bernard / Johnny S. Black
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+|:"C" E8- | EF^FG ^GA^AB | e8 | z B dA cGBF |$"G7" A8 | z F GE FDEC |"C" (3DED C6- | C2 z2 z4 :|$ %8
+"Ab" c3 c- c4 |"Eb7" _BcBc B _E2 _A- |"Ab" A8- | A2 z2 z4 |$"G" d3 B- B4 |"D7" _BABd- d2 A2 | %14
+"G" d8- |"G7" d2 z2 z4 |:$"C" E8- | EEF^F G e3 |"G7" z G AG =F d2 c- |"C" c6 z2 |$"C" E8- | %21
+ EEF^F G e3 |"G7" z G AG =F d2 c- |"C" c4 z c B_B |$"F" A2 ^G2 A =B2 c- | c4 z B2 A | %26
+"C" G2 ^F2 G c2 e- |"A7" e4 z e2 ^d |$"D7" e3 =d- d4- | d2 e2 c A2 d- |"G7" d8 | z G AB A G3 ||$ %32
+"C" E8- | EEF^F G e3 |"G7" z G AG =F d2 c- |"C" c4 z2 c_B |$"F" A2 ^G2 A =B2 c- | c2 B2 c d2 e- | %38
+"E7" e8 | z2 e2 _e2 d2 |$"A7" ^c6 d2 | e2 ^d2 e ^c2 =d- |"D7" d2 e2 d =c2 A- |"Cdim7" A6 z2 |$ %44
+"C" E8- | EEF^F G e3 |"G7" z G AG =F d2 c- |"C" c6 z2 :| %48
+

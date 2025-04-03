@@ -1,0 +1,15 @@
+X:1
+T:Nature Boy
+C:1948 - Eden Ahbez
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ E |:"Am" ec A6 |"Bm7b5" z2 z E"E7" Bcdf |"Am" ec A6 |"Bm7b5" z2 z E"E7" Bcdf |$ %5
+"Am" e3 a"C+/A" ^g4 |"Am7" e3 =g"Am6" ^f4 |"Dm6" d3 =f"Am" e3 A |"Bm7b5" B6 z E |$"E7" e6 d2 | %10
+ B6 E2 |"Am" d6 c2 |"F#m7b5" A6 E2 |1$"B7b9" c6 B2 | ^F6 =G2 |"E7" ^G8 | z4 z2 z E :|2$ %17
+"B7b9" c3 B ^F3 E |"E7#5" d2 c4 EB |"Am" A8 || z8 |] %21
+

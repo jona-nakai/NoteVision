@@ -1,0 +1,24 @@
+X:1
+T:Are You Real
+C:1959 - Benny Golson
+Z:www.realbook.site
+%%score ( 1 2 )
+L:1/4
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:2 treble 
+V:1
+"Dm" c"G7b9" d |:"Cm" e4- |"F7" e2 !^!d c/d/- |"Bb" d4- |"Eb" d3 B |$ %5
+"Am7b5" !tenuto!c !tenuto!c !tenuto!c !tenuto!c |"D7#9" c d !^!c =A/B/- |"Gm7b5" B4- | %8
+"C7b9" B2 F =G |$"F#m" A2"B7" A2- |"Fm" A2"Bb7" E F/G/- |"Dm" G4-"G7" |"Db7" G2"C7" z E |1$ %13
+"Fm" F2 F2 |"Bb7" F G E F/G/- |"Eb" G4 |"Dm" c2"G7b9" d2 :|2$"Fm" F2 F2 || %18
+"Bb7" F G/.E/- E/"Bb7/Ab"!>!F/- F |"Gm7b5" G2 G2 |"C7#9" G A/.F/- F/!>!G/- G |$"F#m" A3"B7" C | %22
+"Fm" G2"Bb7" G2 |"Eb" E z"^Solo Break" z2 |"Dm" z4 |] %25
+V:2
+ =A _A |: G2 B G/A/- | A4- | A2 A F/G/- | G3 B |$ =A _A A G | _G2 =A ^F/G/- | %7
+ G =A/_A/- A/=G/_G/=F/ | E2 F G |$ A2 A2- | A2 E F/G/- | x4 | G2 z E |1$ F2 F2 | F G E F/G/- | G4 | %16
+ =A2 _A2 :|2$ F2 F2 || F G/E/- E/F/- F | !~(!_D2 !~)!F2 | E F/=D/- D/E/- E |$ E3 z | E2 D2 | %23
+ E z z2 | x4 |] %25
+

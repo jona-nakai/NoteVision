@@ -1,0 +1,17 @@
+X:1
+T:52nd Street Theme
+C:1944 - Th. Monk
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+|:"C"{/E} C^DEG"Am7" cA z2 |"Dm7" z8"G7" |"C"{/E} C^DEG"Am7" cA z2 |"D7" z8"G7" |$ %4
+"C"{/E} C^DEG"Am7" cA z2 |"Dm7" z8"G7" |"C" (3ecA G^F-"Ebdim" F3"Dm7" G |1 z"C" c z2 z4 :|2 %8
+ z"C" c z2 z4 ||$"C+7" _AG_dc AE_B_G | D_AEC _D_EDC- |"F" C4"C+7" C3 C |"F" z2 z D E^FG_A |$ %13
+"D+7" _BA_ed B^Fc_A | E_B^FD _A G2 G- |"G7" GG G2 GB_eg- | gg _d6 ||$"C"{/E} C^DEG"Am7" cA z2 | %18
+"Dm7" z8"G7" |"C"{/E-} C^DEG"Am7" cA z2 |"Dm7" z8"G7" |$"C"{/E-} C^DEG"Am7" cA z2 |"Dm7" z8"G7" | %23
+"C" (3ecA G^F-"Ebdim" F3"Dm7" G |"C" z c z2 z4 |] %25
+

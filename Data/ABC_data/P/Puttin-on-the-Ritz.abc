@@ -1,0 +1,19 @@
+X:1
+T:Puttin on the Ritz
+C:1927 - Irving Berlin
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:Emin
+V:1 treble nm=" " snm=" "
+V:1
+"E" z/ B, ^C/"C#dim" E C |"F#m7" E ^D/F/-"B7" F z |"E" z/ B, ^C/"C#dim" E C | %3
+"F#m7" E ^D/F/-"B7" F z |$"G" z/ =D E/"Edim" G E |"Am7" G F/A/-"D7" A z |"G" z/ D E/"Edim" G E | %7
+"Am7" G F/A/-"D7" A z |$"B" z/ B3/2"G#m7" F3/2 ^D/ |"C#m7" F E"F#7" ^D/ ^C3/2 | %10
+"B" z/ B3/2"G#m7" F3/2 ^D/ |"C#m7" F E"F#7" ^D/ ^C3/2 |$"G#m7" ^G G ^D D/G/- |"C#7" G4 | %14
+"F#7" ^A A/ A ^G/ F |"B7" B4 |:$"Em" E G B B,/E/- | E/G/ B B, E | G B B,/ E G/ | B B, ^D F |$ %20
+"B7" A2 A2 | z2 B/A/G/F/ |"Em" E4- | E z z2 :|$"Am" A B c d |"E7" e d c B |"Am" A2 A2- |"D7" A4 |$ %28
+"G" G A B c |"D7" d c B A |"G" G2 G2- |"C7" G4"B7" ||$"Em" E G B B,/E/- | E/G/ B B, E | %34
+ G B B,/ E G/ | B B, ^D F |$"B7" A2 A2 | z2 B/A/G/F/ |"Em" E4- | E z z2 |] %40
+

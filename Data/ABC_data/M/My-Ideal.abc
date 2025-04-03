@@ -1,0 +1,15 @@
+X:1
+T:My Ideal
+C:1930 - Richard A. Whiting / Newell Chase /Leo Robin
+Z:Copyright ÐÂ© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+"Eb6" cBGE"C7" d3 c |"Fm7" BABA- A3 C |"Db7" AGAG-"C7" G2 C2 |"F7" G8 |$"Bb7" GFDB,"Fm7" A3 G | %5
+"Bb13" BGBG-"G7" G4 |"Cm7" EFGB"F7" c c3 |"Cb7" _c_GAB-"Bb7" B4 ||$"Eb6" cBGE"C7" d3 c | %9
+"Fm7" BABA- A2 z C |"Db7" AGAG-"C7" G2 C2 |"F7" c6 C2 |$"Fm7" GFEC"Abm6" B3 A | %13
+"Ebmaj7" GB"F#dim7"dc"Eb/G" Be"Cm7"EC |"Fm7" F4"Bb13" G4 |"Eb6" E8"Bb13" |] %16
+

@@ -1,0 +1,17 @@
+X:1
+T:Moonlight in Vermont
+C:1944 - John Blackburn / Karl Suessdorf
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+|:"Eb" c2 B2"Cm7" G2 F2 |"Fm7" G8"Bb7" |"Eb" c2 B2"Cm7" G2 E2 |"Db7" FG _C6 | %4
+"Fm7" G2 F2"Bb7" E2 =C2 |"Eb" E8 :|$"Am7" DDDD-"D7" D D2 D |"G" D D2 D"Em7" D D2 D | %8
+"Am7" DD D2"D7" d2 cd |"G" =B8 |$"Bbm7" EEEE-"Eb7" E E2 E |"Ab" E E2 E"Fm7" E E2 E | %12
+"Bbm7" EE E2"Eb7" e2 _de |"Ab" c4"Bb7" _c4 ||$"Eb" =c2 B2"Cm7" G2 F2 |"Fm7" G8"Bb7" | %16
+"Eb" c2 B2"Cm7" G2 E2 |"Db7" FG _C6 |$"Fm7" G2 F2"Bb7" E2 =C2 |"Eb" E8 |] %20
+"F7#11" =B,CEG"Fm7" cd"E7"=B^c |"Ebmaj7" _B8 |] %22
+

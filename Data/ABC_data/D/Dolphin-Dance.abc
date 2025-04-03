@@ -1,0 +1,20 @@
+X:1
+T:Dolphin Dance
+C:1965 -Herbie Hancock
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+"Ebmaj13" z4 GABF- |"Bbm72/Eb" F8 |"Ebmaj13" z4 GABF- |"Dm7b5" F8"G7#11" |:$"Cm72" z4 E .F2 G | %5
+"Abmaj7#11" D2 D6 |"Cm13" z4"Bbm9" EFGD- |"Am9" D6"D13b9" !tenuto!C2 |$"Gmaj9" =B,3 ^F- F4 | %9
+"Abm9" _G3 G AGA_B- |"Fm9" B8- |"Fm6" B4 z4 |$"Cm711" G3 B- B4 | B2 BB"Bbm9" cBcd- |"Am9" d8- | %15
+"D13b9" d8 |$"Gmaj13" z4 =Bcd=A- |"Fmaj7/G" A8 |"A/G" z4 G=A=BF- |"F7#11/G" F8 |$ %20
+"F133" z4 E .F2 G |"Bm7/F" D2 D6 |"F743" z4 EFG=A- |"Em9" A8"A7" |$ %24
+"Eb7#11" =AB z A/^G/"A7#5" A2 Ad |"D133" z =B3-"D7b9" B4 |"Bm72" =B^c z B/^A/ B2 B=e- | %27
+"E13b9#11" e4"Dm72" f4 |$"C#m9" ^f3 =e z =B2 ^G |"F#13b9" ^d6 ^F=B- |"Bm2/E" B8- | %31
+"Cmaj7#11/E" B8- |"Bm2/E" B4 z4 |"Cmaj7#11/E" z8 ||$"Eb133" z4 c_deB- |"Ebmaj7" B8 | %36
+"Abmaj7/Eb" z4 GABF- |"G7b9#9b5#5" F8 :| %38
+

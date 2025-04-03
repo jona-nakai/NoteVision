@@ -1,0 +1,24 @@
+X:1
+T:ÐÐµÑÐ½Ð° Ð¸Ð´ÑÑ
+C:1947 - Ð. ÐÑÐ½Ð°ÐµÐ²ÑÐºÐ¸Ð¹ / Ð. ÐÐ¾Ð»ÑÐ¿Ð¸Ð½
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+ A/B/ x3 ||"F" c/>=B/ c/>B/ c d |"Gm" _B"C7" C z F/G/ |"F" A/>^G/ A/>G/ A c |"C7" =G z z F/G/ |$ %5
+"F" A/>^G/ A/>G/"A7" A =G |"Dm" F A"Fm6" z d/f/ |"C/E" e/>d/ c/>=B/"G9" A B |"C7" c z z A/_B/ |$ %9
+"F" c/>=B/ c/>B/"Am7b5" c c |"Cm/D" _e"D7#5" d2"D7" A/c/ |"Gm" B/>A/ B/>A/ B d | %12
+"C743" G z"C7" z F/G/ |$"F" A/>^G/ A/>G/"F7" A =G |"Bb" F F"Gm7b5" z F/F/ | %15
+"F/C" A/>c/ F/>A/"C9" G D |"F" F z z c |$"Bbm" _d/c/B/_A/ G F/G/ |"Eb7" _E3 =B | %19
+"Ab" c/_B/_A/G/"Ab7" F _E/F/ |"Db" _D3 _A |$"Gm7b5" B/_A/G/F/ _E _D/E/ |"C7" C2"Ddim/C" =D z | %23
+"C7" E z"G9" F A |"C7" c4- |"C7#5" c4 |$[M:2/2] !fermata!z A c A ||"Fmaj7" E z z2 | z A c A | %29
+"F6" D z z2 | z C D E |$"F" F2 A2 | d2"F#dim" d2 |"C9/G" d2"C7" E2 |"C7/G" z B d B |$ %35
+"Gmaj" ^F z z2 |"Gm" z G B G |"Gm7b5" _D z"Gm7b5/C" z2 |"Gm7b5" z C"Gm" =D ^D |$ %39
+"C9/G" E2"Bb/C" =d2 |"Gmaj" d2"C7#5" d2 |"F" d2 c2 | z A c d |$"Am7b5" _e d"D7" d D | %44
+"D7/A" =E ^F"D7" G A |"D7b9/G" c4"D7" |"Gm" B d ^c d |$"Dm/E" f e"E7" e E | %48
+"B/D#" ^F"E/D" ^G"Am6/C" A"E/B" =B |"A7" e4- |"C7" e A c3/2 A/ |$"Fmaj7" E z z2 | z A c A | %53
+"Am7b5" _E4 |"D7" z D ^C D |$"Gm7b5" =c2 B2 |"C7" A3 E |"F" G2"Db/F" F2- |"F" F z z2 |] %59
+

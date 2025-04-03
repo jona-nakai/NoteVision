@@ -1,0 +1,19 @@
+X:1
+T:AS TIME GOES BY
+C:1931 - Herman Hupfeld
+Z:Herman Hupfeld
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+ x G |:"Fm7" AGFE"Bb7" F3 G |"Bbm6" BAGF"Fm7" A3"Bb7b9" B | e"Ebmaj7"dcB"Fm7" c4 | %4
+"Gm7" z4"Cm7" z2 d2 |$"F7" fedc d2 e2 |"Fm7" B2 B2"Bb743" E2"Bb7b9" F2 |1 G8-"Ebmaj7""Abmaj7" | %8
+"Gm7" G4"C7b9" z2 z G :|2"Ebmaj7" E8-"Abm6" |"Eb6" E4"Eb7" z4 ||$ E"Abmaj7"FEc- c2 c2 | %12
+"C7" c_dc=B c4 |"Fm7" FGFc- c2 c2 |"F#dim" cdc=B c4 |$"Cm7" GAGe-"Ab7" e2 e2 |"F9" eded f2 d2 | %17
+"Bb9" c2 c2"Bbdim" G2 G2 |"Fm7" B6"Bb7" z"C7b9" G ||$"Fm7" AGFE"Bb7" F F2 G | %20
+ B"Bbm6"AGF"Fm7" A"Bb+7" A2 B |"Ebmaj7" edcB"Fm7" c4 |"Gm7" z4"Cm7" z2 d2 |$"F7" fedc d2 e2 | %24
+ B2"Gm7" B4"C7b9" G2 |"Fm7" B4"Bb13" B4 |"Eb6" B4 z4"C7b9" |] %27
+

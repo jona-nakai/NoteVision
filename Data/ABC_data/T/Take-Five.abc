@@ -1,0 +1,20 @@
+X:1
+T:Take Five
+C:1959 - Paul Desmond
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:5/4
+I:linebreak $
+K:Gb
+V:1 treble nm=" " snm=" "
+V:1
+ x6 B,E GA ||"Ebm" =AB A_A G2"Bbm7" B,2 D2 |"Ebm" E6"Bbm7" F/G/F/E/ D2 | %3
+"Ebm" E6"Bbm7" D/E/D/B,/ A,2 |"Ebm" B,6"Bbm7" B,E GA |$"Ebm" =ABA_A G2"Bbm7" B,2 D2 | %6
+"Ebm" E6"Bbm7" D/E/D/B,/ A,2 |"Ebm" B,6"Bbm7" F/G/F/E/ D2 |"Ebm" E6-"Bbm7" E2 z2 ||$ %9
+"Cbmaj7" e g2 e c2"Abm6" AB c=c |"Bbm7" d f2 d B2"Ebm7" GA =AB |"Abm7" c e2 c _A2"Db7" FG A=A | %12
+"Gbmaj7" B=A Bc d2 d=c d=d |$"Cbmaj7" e g2 e _c2"Abm6" _AB c=c |"Bbm7" d f2 d B2"Ebm7" GA =AB | %15
+"Abm7" c e2 c _A2"Db7" FA dc |"Fm7" B6"Bbm7" B,E GA ||$"Ebm" =AB A_A G2"Bbm7" B,2 D2 | %18
+"Ebm" E6"Bbm7" F/G/F/E/ D2 |"Ebm" E6"Bbm7" D/E/D/B,/ A,2 |"Ebm" B,6"Bbm7" B,E GA |$ %21
+"Ebm" =ABA_A G2"Bbm7" B,2 D2 |"Ebm" E6"Bbm7" D/E/D/B,/ A,2 |"Ebm" B,6"Bbm7" F/G/F/E/ D2 | %24
+"Ebm" E6 z4 |] %25
+

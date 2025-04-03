@@ -1,0 +1,18 @@
+X:1
+T:Early Autumn
+C:1949 - Ralph Burns / Woody Herman / Johnny Mercer
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+"G7" G^GA^A |:"Cmaj7" B=GEC B4- |"B7#9" Bcdc B3 _B |"Bbmaj7" AFD_B, A4- |"A7#9" A_BcB A3 _A |$ %5
+"Abmaj7" G_EC_A, G4- |"G7#9" G_A_BA G3 =E |1"Em" G8-"A7#9" |"Dm" G2 z2"G7" G^GA^A :|2 %9
+"Cmaj7" D2 C6- || C4 z G, A,B, ||$"Dm" C3 A,"G7" E E3 |"Cmaj7" z B, D"Ebdim"C B B3 | %13
+"Dm" A2 GF"G7" EDEG |"Cmaj7" D4- DG,A,B, |$"Cm" C3 _B,"F7" D2 =B,C |"Bbmaj7" ^CDFA"Eb7" =c2 _B2 | %17
+"Dmaj7" ^c4"C#7""C7" d4"B7#9" |"Bb7" ^G4"Amaj7""Ab7" A4"G7" ||$"Cmaj7" B=GEC B4- | %20
+"B7#9" Bcdc B3 _B |"Bbmaj7" AFD_B, A4- |"A7#9" A_BcB A3 _A |$"Abmaj7" G_EC_A, G4- | %24
+"G7#9" G_A_BA G3 =E |O D2"Cmaj7" C6"Am" |"Dm" z8"G7" ||$O z8"Cmaj7" |"Fm" z8"Bb7" |"Cmaj7" z8 |] %30
+

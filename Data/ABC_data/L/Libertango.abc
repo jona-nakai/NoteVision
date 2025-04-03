@@ -1,0 +1,35 @@
+X:1
+T:Libertango
+C:1974 - Astor Piazzolla
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Amin
+V:1 treble nm=" " snm=" "
+V:1
+!mf!!<(! e8- |!f!!<)! e3 (E dcBA | B8-) | B6 z2 |$ d8- | d3 (E cBA^G | A8-) | A4 z2 AB |$ c8- | %9
+ c3 (A cBcA | B8-) | B4 z4 |$ B/A/!<(! B3- B4- | B4-!<)! B(cB).A | B6 z2 | %15
+ (E/F/^F/G/ ^G/A/^A/B/ c/^c/d/^d/ e) z ||$ z!mp! !>!E.=F.E !>!F.E!>!=c.=A | %17
+ z !>!E.F.E !>!c.A!>!E.F | z !>!^D.E.D !>!E.D!>!B.^F | z !>!^D.E.D !>!B.^F!>!D.E |$ %20
+ z !>!=D.E.D !>!E.D!>!B.=F | z !>!D.E.D !>!B.F!>!D.E | z !>!C.D.C !>!D.C!>!A.E | %23
+ z !>!C.D.C !>!A.E!>!C.D |$ z !>!C.D.C !>!D.C!>!A.E | z !>!C.D.C !>!A.E!>!C.D | %26
+ z !>!C.D.C !>!D.C!>!A._E | z !>!C.D.C !>!A._E!>!C.D |$ z !>!B,.C.B, !>!C.B,!>!^G.D | %29
+ z !>!B,!<(!.C.B, !>!^G.D!>!B,.C |!mf!!<)! z!>(! !>!B,.C.B, !>!C!mp!!>)!.B,!>!^G.D | %31
+ z !>!B,.C.B, !>!^G.D!>!B,.C ||$!f! (e/^f/=g- g4) z _B/A/ | (^GA).e.=g !>!=f/e/ d2 .e | f8- | %35
+ f4- f (d2 e) |$ (f/e/f- f4- f)^F/G/ | (!>!_AG).^F.G g/=f/!>!e- e.d | e2- e/f/e/d/ e3 f/e/ | %39
+ d/e/- e2- e z2 z c/d/ |$!f! (!>!ea).b(!>!e a).c'(!>!ea) | .d'(!>!ea).e' (!>!d'/c'/ b2) .a | %42
+!>(! b4- b2- b/c'/b/!mf!!>)!a/ | b2- (8:8:8b/4a/4g/4f/4e/4d/4c/4B/4- B2 z2 |$ %44
+!mp! z !>!D.E.D !>!E.D!>!B.F | z !>!D.E.D !>!B.F!>!D.E | z !>!C.D.C !>!D.C!>!A.E | %47
+ z !>!C.D.C !>!A.E!>!C.D |$!p! z !>!E.F.E !>!F.E!>!c.A | z !>!E.F.E !>!c.A!>!E.F | %50
+ z !>!^D.E.D !>!E.D!>!B.^F | z !>!^D.E.D !>!B.^F!>!D.E |$ z !>!=D.E.D !>!E.D!>!B.=F | %53
+ z !>!D.E.D !>!B.F!>!D.E | z !>!C.D.C !>!D.C!>!A.E | z !>!C.D.C!<(! (D/E/^F/^G/ A/B/c/d/) ||$ %56
+!mf!!<)! e8- | e3 (E dcBA | B8-) | B4 z4 |$ d8- | d3 (E cBA^G | %62
+ (3(A)^AB!<(! (3c^cd (3^def (3^f=g^g |!f!!<)! =a6) z2 |$!f! z !>!E.F.E !>!F.E!>!c.A | %65
+ z !>!E.F.E !>!c.A!>!E.F | z !>!^D.E.D !>!E.D!>!B.^F | z !>!^D.E.D !>!B.^F!>!D.E |$ %68
+ z !>!=D.E.D !>!E.D!>!B.=F | z !>!D.E.D !>!B.F!>!D.E |!mf! z .c !>!^c2 .d !>!^d2 !>!e- | %71
+ e!<(!.f !>!^f2 .g !>!^g2 a |$!ff!!<)! z !>!e.=f.e !>!f.e!>!c'.a | z !>!e.f.e !>!c'.a!>!e.f | %74
+ z !>!^d.e.d !>!e.d!>!b.^f | z !>!^d.e.d !>!b.^f!>!d.e |$ z !>!=d.e.d !>!e.d!>!b.=f | %77
+ z !>!d.e.d !>!b.f!>!d.e | z !>!Be.d !>!AG.c!>!_B |$ F!>!_E_A._G !>!^C=B,.=E!>!D | %80
+ B!>!=Ad.=c !>!=GF._B!>!_A | z2!ff! =A2 z4 |] %82
+

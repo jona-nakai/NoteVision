@@ -1,0 +1,18 @@
+X:1
+T:It's Impossible (Somos Novios)
+C:1968 -  Armando Manzanero / Perry Como
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+ AG ||"F" B/AA/- A4 AG |"Fmaj7" BAAG BAAG |"Em7b5" B/A/A- A6- |"A7" A6 AG |$"Dm" B/A/A- A4 AG | %6
+"Cm7" BAAG"F7" BABc |"Am7b5" d/c/c- c6- |"D7" c6 BA |$"Gm7" c<B- B4 BA |"Eb7" c B3- B2 AG | %11
+"F" B<A- A4 AG |"D7" B A3- A2 G^F |$"Gm7" A<G- G4 G^F |"G7" AGG^F GDG=F |"C" F/E/E-"C7" E4 z2 | %16
+"Gm7" z4"C7" z2 AG ||$"F" B/A/A- A4 AG |"Fmaj7" B<A AG BAAG |"Em7b5" B/AA/- A6- |"A7" A6 AG |$ %21
+"Dm" B<A- A4 AG |"Cm7" BAAG"F7" BABc |"Am7b5" d/c/c- c6- |"D7" c6 BA |$"Gm7" c<B- B4 BA | %26
+"Abm7" cBBA"Eb7" cBAG |"F" B<A- A4 _A=A |"D7" BABA dcB^F |$"Gm7" A<G- G4 ^FG | %30
+"Gm7" AGAG"C7" AG=FE |"F6" G/F/F- F6 |"C7" z8 |] %33
+

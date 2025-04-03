@@ -1,0 +1,19 @@
+X:1
+T:Yesterdays
+C:Jerome Kern
+Z:Otto Harbach
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Dmin
+V:1 treble nm=" " snm=" "
+V:1
+"Dm6" A3"Bm7b5" F"Em7b5" G4"A7" |"Dm6" A3"Bm7b5" F"Em7b5" G4"A7" | %2
+"Dm" D"C#dim7"E"Dm/C"F"G7/B"G"Bb7" ^G"Dm/A"A"Abdim7"=B"C7/G"c |$"F7" f3"Bm7b5" =B"E13" e4 | %4
+"A7#5" f3 A"D9" e4 |"G7b9" e3 G"C13" d4 |"Cm7" d3"F9" A"Bbmaj9" cB"Eb9"FG | %7
+"Dm" A4"Em11" A2"Eb9" A2 ||$"Dm" A3"Dm/C" F"Bb7" G4"A7" |"Dm" A3"F7" F"Bb7" G4"A7" | %10
+"Dm" DE"Dm/C#"FG"Dm/C" ^GA"F9"=Bc |"Bm7b5" f3 =B"E7#5" e4"E7" |$"A7#5" f3 A"D9" e4 | %13
+"G7b9" e3 G"C9#5" d4"C9" |"Cm" d3"F9" A c"Bbmaj7"BF"Eb9"G |"Gmaj7/A" A4"Em7b5" A2"Eb9" A2 | %16
+"Dm69" A8- | A8 |] %18
+

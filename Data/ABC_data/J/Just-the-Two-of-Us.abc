@@ -1,0 +1,22 @@
+X:1
+T:Just the Two of Us
+C:1980 - Bill Withers / Ralph MacDonald / William Salter
+Z:Copyright Â© www.reealbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Fmin
+V:1 treble nm=" " snm=" "
+V:1
+"Dbmaj7" [Ac][Bd]/[Ac]/- [Ac]/[Bd][Ac]/-"C7#5" [Ac][Bd][Ac][Bd] | %1
+"Fm7" [Ac][Bd]/[Ac]/- [Ac]/[Bd][_Ge]/-"Ebm7" [Ge]2"Ab7" [Ac][GB] | %2
+"Dbmaj7" [Ac][Bd]/[Ac]/- [Ac]/[Bd][Ac]/-"C7#5" [Ac][Bd][Ac][=GB] |"Fm7" [FA][Ac][FA][Af]- [Af]4 ||$ %4
+"Dbmaj7" cB/A/- A/Fc/-"C743" cB/c/-"C7" c2 |"Bmaj7" ^A^G/^F/- F/^DB/-"Bb743" B_A/B/-"Bb7" B2 | %6
+"Amaj7" ^G^F/=E/- E/^CA/-"Ab743" A_G/A/-"Ab7" AG |"Dbmaj7" =F3/2"G7b9"A3/2_e-"Gb69" e4 |:$ %8
+"Dbmaj7" z A AA/G/-"C7" GGAB |"Fm7" c2 de/f/-"Ebm7" fe"Ab7"cB | %10
+"Dbmaj7" A>A cc/B/-"C7" BA/c/- cB/A/- |"Fm7" A<F- F2 z4 |$"Dbmaj7" z A AA/G/-"C7" GGAB | %13
+"Fm7" c2 d<e"Ebm7" fe"Ab7"cB |"Dbmaj7" A>A c/B/A/B/-"C7" BA/c/- cB/A/- |"Fm7" A<F- F2 z c BA ||$ %16
+"Dbmaj7" BA/A/ z2"C7#9" z2 ec |"Fm7" ec/e/-"Em7" e/ef/-"Ebm7" fe"Ab7"cA | %18
+"Dbmaj7" BA/A/ z2"C7" z2 BA/B/- |"Fm7" BA/F/ z2 z f ec |$"Dbmaj7" fe/e/ z2"C7#9" z2 ee | %21
+"Fm7" fe/e/-"Em7" e/ee/-"Ebm7" e<c"Ab7" cB |"Dbmaj7" BA/A/ z2"C7" z2 B/AF/- |"Fm7" F4 z4 |] %24
+

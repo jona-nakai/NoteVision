@@ -1,0 +1,22 @@
+X:1
+T:I'll Close My Eyes
+C:1945 - Billy Reid / Buddy Kaye
+Z:www.realbook.site
+L:1/4
+M:2/2
+I:linebreak $
+K:G
+V:1 treble nm=" " snm=" "
+V:1
+"Em""^Verse" E3/2 E/"Am6/F#" E2- |"Em/G" E E"Am6" (3F G A |"Em/G" B4-"B7/F#" | %3
+"Em" B2"G7" d/B/A/G/ |$"C6" A3/2 A/ A2- |"Am" A G/A/"F#7" (3G F E |"B" F4-"F#7b5" |"B7" F3 z |$ %8
+"Em" E3/2 E/"Am6/F#" E2- |"Em/G" E E"Am6" (3F G A |"Em/G" B4-"B7/F#" |"Em" B2"G7" d/B/A/G/ |$ %12
+"C6" A3/2 A/ A2- |"Am" A G/A/"F#7" (3G F E |"B" F4-"Gdim" |"D7" F D c d/B/- ||$"Gmaj7""^Theme" B4 | %17
+"Gmaj7" z D c B |"F#m7b5" B A/F/- F2 |"B7b9" z B, A ^G/=G/- |$"Em7" G4 |"A7" z/ G/ F/G/ B G/=F/- | %22
+"Dm7" F4 |"G7" z3 E |$"Cmaj7" ^D E =d2- |"Cm7" d c"F7" G A |"Gmaj7" B3/2 B/ B/ B B/- | %27
+"Gmaj7" B z (3B B B |$"C#m7b5" B3/2 ^A/ A2- |"F#7b9" A/F/^E/F/ G/ F =A/- |"Bm7" A4"E7" | %31
+"Am7" z D"D7" c d/B/- ||$"Gmaj7" B4 |"Gmaj7" z D c B |"F#m7b5" B A/F/- F2 |"B7b9" z B, A B/G/- |$ %36
+"Em7" G3 F |"A7" G F B G/=F/- |"Dm7" F4 |"G7" z3 E |$"Cmaj7" ^D E =d2- |"Cm7" d c"F7" G A | %42
+"Bm7b5" B3/2 B/ B/ B B/- |"E7b9" B B d c |$"Am7" B3/2 E/ F/ G A/- |"D7" A2 B B |"Gmaj7" G4 | %47
+"Gmaj7" z4 |] %48
+

@@ -1,0 +1,19 @@
+X:1
+T:Corcovado
+C:A. C. Jobim
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+"D7/A" z e2 d e d2 e- | e d2 e- e4 |"Abdim" z e2 d e d2 e- | ed e6 |$"Gm7" z d2 c d c2 d- | %5
+"C743" d c2 f- f e2 e- |"Fdim" e3 d-"Fmaj7" d4- | d6 z2 |$"Fm7" z g2 f g f2 g- |"Bb7" g f2 g- g4 | %10
+"E7" z f2 e f e2 f- |"A7#5" fe f6 |$"D7" z e2 d e d2 e- | e d2 e dd f2- |"Dm7" f e2 f e2 f2- | %15
+"Abdim" f e2 d- d c3 ||$"D7/A" z e2 d e d2 e- | e d2 e- e4 |"Abdim" z e2 d e d2 e- | %19
+ ed e2 e g2 d- |$"Gm7" d4 (3c2 d2 c2 |"C743" d c2 f- f e2 e- |"Fdim" e3"Fmaj7" d- d4- | %23
+"F6" d6 z2 |$ z"Fm7" c'2 _b- b_agf |"Bb7b5" e3 d- d4 |"Em7" z2 z b agfe |"Am7" d3 c- c4 |$ %28
+"Dm7" z2 z a gfed |"G7b9" c B2 c- c d2 g- |"Em7" g8- |"A7" g6 z2 |$"Dm7" z2 z a gfed | %33
+"G7" c B2 c- c d2 c- |"Cmaj7" c8- | c8 |] %36
+

@@ -1,0 +1,18 @@
+X:1
+T:New York, New York
+C:1977 - John Kander / Fred Ebb
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+|:"F" f f e/>f/ d |"Dm7" f f e/>f/ d |"Bb" f f e/>f/ d |1"C7" f f e/>f/ d :|2"C7" z F E/F/ D ||$ %5
+"F" C4 | z F E/F/ D |"Gm7" C4 |"C7" z E F G |$"F" A ^G/A/ z/ G/ A | z c A B |"Gm7" G4 | %12
+"C7" z F E/F/ D ||$"F" C4 | z F/E/ G/F/ D |"Gm7" C4 |"C7" z E F G |$"F" A ^G/A/ z/ G/ A | z c A c | %19
+"Cm7" A4 |"F7" z A B c ||$"Bb" d B A G |"Bbm" _d B A G |"F" c4 | z c d _e |$"Am7" =e d/c/ e2 | %26
+"D7" z d c B |"Gm7" d c/B/ d2 |"C7" z F E/F/ D ||$"F" C4 | z F/E/ G/F/ D |"Gm7" C4 |"C7" z E F G |$ %33
+"F" A ^G/A/ z/ G/ A | z c A c |"Cm7" d4 |"F7" z c B A |$"Bb" z2 f d/c/ |"Bbm" z B A G | %39
+"F/C" z2 f c/B/ |"D7" z A B c |$"Gm7" d z"Am7" c z |"Bb" A z"C7" c z |"F" f4 | z4 |] %45
+

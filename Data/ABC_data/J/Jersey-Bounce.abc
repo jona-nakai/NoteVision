@@ -1,0 +1,16 @@
+X:1
+T:Jersey Bounce
+C:1941 - Tiny Bradshaw / Eddie Johnson / Bobby Plater / Buddy Feyne
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ ^D |:"C" E>G B2 =d2 cE- | E6- EF |"D9" ^F>A c2 e2 dA- | A6- AE |$"G9" F>A B2 e2 dA- | A6 A^D |1 %7
+"C" E>G B z"Cdim" =d>c A>^F |"Dm7" =F>A c>e-"G9" e3 ^D :|2"C" E>G A>c"Ab9" _B2 _Ac- ||"C" c8 ||$ %11
+"C9" A3 A- A4 | A>G d>A- A4 |"Bb9" G3 G- G4 | G>F c>G- G4 |$"Ab9" F3 F- F4 | F2 _E2 _B2 _AG- | %17
+"G7" G4 z G GG |"G+" ^DG- G4 z D |$"C" E>G B2 =d2 cE- | E6- EF |"D9" ^F>A c2 e2 dA- | A6- AE |$ %23
+"G9" F>A B2 e2 dA- | A6 A^D |"C" E>G A>c"Ab9" _B2 _Ac- |"C" c8 |] %27
+

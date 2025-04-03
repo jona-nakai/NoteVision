@@ -1,0 +1,18 @@
+X:1
+T:Mississippi Delta Blues
+C:1933 - Jimmie Rodgers / Jack Neville
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ G |:"C" c c B A | G _G F E |"D7" A3 E | D3 z |$"G7" B/B/- B A G | z A G F |"C6" E4- | E z z G |$ %9
+"C" c c B A | G G A ^A |"G7" B D/B/- B2 | z4 |$"D7" z c/c/ B/ A z/ | z c/c/ B/ A G/- |"G7" G3 z ||$ %16
+"C" E E ^D E | B/A/- A z2 | G/A/G/E/ F/E/-E/D/- |"G7" D3 z |$ F F E/F/-F/B/- |1 B/A/- A z2 | %22
+ B/B/-B/B/ A F |"C6" E3 z ||$"E7" E E ^D/E/- E | B ^G E2 |"Am" z E/D/ E/E/D/C/- | C2 z2 |$ %28
+"D7" D D ^C D | B A z A |"G7" B d B A | G3"G7#5" z :|2$"G7" B/A/- A z B/B/ ||"Am" A E A/B/-B/c/- | %34
+ c2"C7" z B/c/ |$"F6" d c A F |"Fm6" D2 z B/c/ |"C" d c c G |"A7" E3 z |$"D7" ^F F E D | %40
+"G7" G/^F/G/F/ G d |"C6" c4- | c z z2 |] %43
+

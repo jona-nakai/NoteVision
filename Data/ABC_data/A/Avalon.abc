@@ -1,0 +1,16 @@
+X:1
+T:Avalon
+C:V. Rose
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+ C2 ||"C7" G2"Cdim7" A2 |"Gm7" B2 c2 |"C7" B A G2- |"Gm7" G2"C7" C2 |$"F6" F4- | F2"C7" G2 | %7
+"F6" A4- | A2 C2 |$"C7" E2"Gm7" F2 |"C7" G2"Gm7" F2 |"C7" E D C2- |"Gm7" C2"C7" C2 |$"F6" F4- | %14
+ F2"C7" C2 |"F6" F4- | F2"E7" D2"Eb7" ||$"D7" A2 B2 |"Am7b5" c2 d2 |"D7" c B A2- | A2 D2 |$ %21
+"Gm7" G4- | G2"Gmaj" A2 |"Gm7b5" B4- | B2"E7" D2 |$"F6" C2 F2 |"Am7" A2 c2 |"D7" e d e2- | e2 d2 |$ %29
+"Gm7" B4 |"C13b9" A4 |"F6" F4- | F3 z |] %33
+

@@ -1,0 +1,16 @@
+X:1
+T:Yes, Sir!
+C:Traditional
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:2/2
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+"C7" c/=B/c/d/ c z | c/=B/c/d/ c z | c/ c c/ d ^d | e z z2 |:$"F6" c z d z | c d2 _d | %6
+"C7" c z d z | c d2 _d |$ c z d z | c d ^G/ A F/- |"F" F z z2 |1 z4 :|2 z2 ^G A ||$"F7" F2 z2 | %14
+ z2 ^c d |"Bb" B2 z2 | z4 |$"G7" G2 z G | G z/ G/ A =B |"C7" c2 z2 | z4 ||$"F6" c z d z | c d2 _d | %23
+"C7" c z d z | c d2 _d |$ c z d z | c d ^G/ A F/- |"F" F z z2 | z4 |]$"C7""^Coda" c/=B/c/d/ c z | %30
+ c/=B/c/d/ c z | c/ c c/ d e |"F" f z F z |] %33
+

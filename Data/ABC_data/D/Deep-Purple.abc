@@ -1,0 +1,15 @@
+X:1
+T:Deep Purple
+C:1933 - Peter De Rose / Mitchell Parish
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:2/2
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+ C D |:"Fmaj7" c2 C D |"F#dim7" _E2 C ^C |"Gm7" D G B d |"C13" c2 ^G A |$"Fmaj7" =g f c A | %6
+"Am7b5/Eb" G ^G A d |"D7" D4- | D2 ^C D |$"Gm11" =c2 =B _B |"Bbm6" A _A G2 |"Am7" G2 ^F =F | %12
+"Abdim7" E _E D2 |1$"Gm7" D2 _D C |"C9" G2"C+7" ^G =d |"Fmaj7" A4"D7b9" |"G13" z2"C9" C D :|2$ %17
+"Gm7" d2 _d c |"Gm7/C" G2"C+7" ^G"C13" A |"F" (F4"D7#9" ||"Gm11" F2)"C7" z2 |] %21
+

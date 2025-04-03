@@ -1,0 +1,15 @@
+X:1
+T:Rosetta
+C:1933 - Earl Hines / Henri Wood
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:2/2
+I:linebreak $
+K:G
+V:1 treble nm=" " snm=" "
+V:1
+ B |:"G" d3/2 d/- d2- |"F#7" d2 f e |"F7" B B3- |"E7" B2 f e |$"A7" B B2 E |"D7" B B2 F |1 %7
+"G" E4-"Em7" |"Am7" E z"D7" z B :|2"G" G4 ||"F#7" z4 ||$"Bm" B2 B B |"F#7" ^c2 c c |"Bm" d4- | %14
+ d2 z2 |$"D" f2 f f |"A7" e2 A A |"D" d4- |"D7" d z z2 ||$"G" d3/2 d/- d2- |"F#7" d2 f e | %21
+"F7" B B3- |"E7" B2 f e |$"A7" B B2 E |"D7" B B2 F |"G" G4- | G z z2 |] %27
+

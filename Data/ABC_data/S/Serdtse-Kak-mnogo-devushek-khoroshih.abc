@@ -1,0 +1,17 @@
+X:1
+T:Ð¡ÐµÑÐ´ÑÐµ / ÐÐ°Ðº Ð¼Ð½Ð¾Ð³Ð¾ Ð´ÐµÐ²ÑÑÐµÐº ÑÐ¾ÑÐ¾ÑÐ¸Ñ
+C:1934 - ÐÐ°ÑÐ¸Ð»Ð¸Ð¹ ÐÐµÐ±ÐµÐ´ÐµÐ²-ÐÑÐ¼Ð°Ñ / ÐÑÐ°Ð°Ðº ÐÑÐ½Ð°ÐµÐ²ÑÐºÐ¸Ð¹
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Emin
+V:1 treble nm=" " snm=" "
+V:1
+"Em" e4- eBGE |"C" c4- cGFE |"F#7" ^C4"B7" ^D4 |"Em" E B,EF"B7" GFE^D |:$"Em" F2 E6 | %5
+"Am" z E Ac e^dfe |"Em" B8 |"Am" z e ^de fe=dc |$"Em" cB^AB cB=AG |"F#7/A#" F4-"Am6" FE^DE |1 %10
+"B7" F8 |"Em" z B, EF"B7" GFE^D :|2"B7" F8 ||$[K:E]"E" B4 G4 |"E" z B ^AB"Fdim7" cB=AG | %15
+"B7/F#" A4 F4 |"B7" z8 |$"B7" A4 F4 | z A GA BAG^^F |"E" G8 |"A7" z8"B7" |$"E" B4 G4 | %22
+"C#7" z B ^AB cB=AG |"F#m" c4 c4 |"Am" z2 e2 e2 e2 |$"E" e2 B2- BB^AB |"F#m" d=d c4"B7" ^D2 || %27
+[K:Emin]"Em" E8- | E2 z2 z4 |] %29
+

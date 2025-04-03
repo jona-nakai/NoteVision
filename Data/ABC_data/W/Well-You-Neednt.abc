@@ -1,0 +1,19 @@
+X:1
+T:Well, You Needn't
+C:1944 - Thelonious Monk
+Z:www.realbook.site
+L:1/8
+M:2/2
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+ ^G, |:"F" A,C .F2 !tenuto!c2 AF |"Gb7" _eB z [_d_g] z [Bd] z ^G, |"F6" A,C .F2 !tenuto!c2 AF | %4
+"Gb7" B_G z [b_d'] z [_gb] z ^G, |$"Fmaj7" A,C .F2 !tenuto!c2 AF |"Gb7" _eB z [e_g] z [B_d] z =B, | %7
+"F6" CF C2 z =B, CF |1 !tenuto!C2 z4 z ^G, :|2 !tenuto!C2 z2 z2 z D ||$"Db7" _E_A E2- EDEA | %11
+ _E6 z E |"D7" =EA E2- E^DEA | E6 z E |$"Eb7" FBFF"E7" ^F=BFF |"Eb7" =F_BFF"D7" EAEE | %16
+"Db7" _E_AEE"C7" DGDD |"B7" ^C^FC=C"C7" z2 z ^G, ||$"F6" A,C .=F2 !tenuto!=c2 AF | %19
+"Gb7" _eB z [e_g] z [B_d] z ^G, |"F6" A,C .F2 !tenuto!c2 AF |"Gb7" B_G z [b_d'] z [_gb] z ^G, |$ %22
+"F6" A,C .F2 !tenuto!c2 AF |"Gb7" _eB z [e_g] z [B_d] z =B, |"F6" CF C2 z =B, CF | %25
+ !tenuto!C2 z2 z4 |] %26
+

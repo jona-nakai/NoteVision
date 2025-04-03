@@ -1,0 +1,17 @@
+X:1
+T:Forest Flower
+C:1967 - Charles Lloyd
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ A, ^G,A,^CE |:"Amaj9" B8- | B4 ^G E2 ^C/G/ |"Gmaj7" ^F8 | z2 z D/^C/ B,CEG |$"Cmaj9" d8- | %6
+ d4 B G2 E/B/ |"Bbmaj7" A8 | z4 z2 A2 ||$"C#m9" ^G3 ^d- d4- | d4"Dm7b5" (3=d2"G7b9" _A2 d2 | %11
+"Cmaj7" G8 | z8 |$"Cm9" D3 D- D D2 D |"Cb7#9" D3 D- D D2 D |1"Bbmaj7" D8 | z2 z A, ^G,A,^CE :|2 %17
+ D8"Bb13" | z8 ||$"Cm7" D3 D- D D2 D |"Bb9" D3 D- D D2 D |"Ebmaj7" D8 | z8 |$"Bb9" D3 D- D D2 D | %24
+"Ab7#11" D3 D- D D2 D |"F#maj7" ^C8- | C6 z ^C/E/ ||$"F#m9" ^G7 E/A/ |"Am9" B7 =G/B/ | %29
+"Cm9" d7 _B/d/ |"Ebm9" f8 |"C6" d8- | d8 |] %33
+

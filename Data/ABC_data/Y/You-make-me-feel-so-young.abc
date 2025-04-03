@@ -1,0 +1,19 @@
+X:1
+T:You Make Me Feel So Young
+C:1946 - Josef Myrow / Mack Gordon
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+|:"C" z E^DE"C#dim7" F2 EF- |"Dm7" F8"G7" |"C" z G^FG"C#dim7" A2 G2 |"Gm7/D" _B2 G=B-"G7" B4 |$ %4
+"C" z G^FG"C7" e2 e2 |"Fmaj7" e2 AA-"F6" A2 dd- |"Em7" d2 GG-"Ebdim7" G2 c2 |1 %7
+"Dm7" B3 A"G7" G_G F2 :|2"Dm7" B4"G7" z4 ||$"Gm7" c6 A2 |"C7" _B6 d2 |"Gm7" c2 cc cAc_B- | %12
+"C7" B8 |$"Bm7b5" d d2 d"E7b9" d2 =B2 |"Am7" c2 c4 z2 |"Dm7" ffed- d c2 c |"G7" B2 AG- G4 ||$ %17
+"C" z E^DE"C#dim7" F2 EF- |"Dm7" F8"G7" |"C" z G^FG"C#dim7" A2 G2 |"Gm7/D" _B2 G=B-"G7" B4 |$ %21
+"C7" (3c2 B2 c2 d2 cd |"Fmaj7" e2 de"Fm6" f2 ef |"Em7" g8"A7" |"Dm7" z GGG"G7" GGGG |$ %25
+"Em7" G8"A7" |"Dm7" z GGG"G7" GGAG |"E7#5" e4"Bb7b5" e4 |"A7b9" e6 e2 |$"Dm7" f4 e2 d2 | %30
+"Gsus4" c4"G7" B4 |"C6" c4"Am7" z4 |"Dm7" z8"G7" |] %33
+

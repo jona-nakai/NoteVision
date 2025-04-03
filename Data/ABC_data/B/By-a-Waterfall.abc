@@ -1,0 +1,20 @@
+X:1
+T:By a Waterfall
+C:1933 - Sammy Fain / Irving Kahal
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm=" " snm=" "
+V:1
+"Cm""^Verse" c3 e |"Eb" c B G B |"G7" G G G2 |"G7" z3 G/F/ |$"Cm" E C E G |"F7" c c3 | %6
+"Ab" (3:2:2c2 c (3c ^c d |"G7" G G3 |$"Cm" c3 e |"Eb" c B G B |"G7" G G G2- |"G7" G3 B/c/ |$ %12
+"Bb" d3 F |"Em7b5" =E G B _d |"Ab" c3 _E |"Dm7b5" D F _A _c |$"Gb" B4 |"Gb7" _G2 _D2 |"F" F4 | %19
+"F+" z4 ||$"Bbmaj7""^Theme" D/F/B/d/ c2- |"Bbmaj7" c B A G |"C7" (3B G B G2 |"C7" (3b g b g2 |$ %24
+"F7" E/G/c/e/ d2- |"F7" d c B A |"Bbmaj7" (3c A c A2 |"Bbmaj7" (3c' a c' a2 |$"Bb" c B2 A | %29
+"Bb7" c B2 ^F |"Eb" G4"D" |"Eb" z4 |$"C7" B2 A G |"C7" (3B G B A F |"F7" d2 z2 |"F7" z2 z2 ||$ %36
+"Bb" D/F/B/d/ c2- |"Bb" c B A G |"C7" (3B G B G2 |"C7" (3b g b g2 |$"F7" E/G/c/e/ d2- | %41
+"F7" d c B A |"Dm" f4 |"G7" z3 f |$"Ebmaj7" e G ^F G |"Ebm7" =f z2 e/f/ |"Bb" e d ^c d | %47
+"G7" a2 z g |$"C7" G/B/G/B/ f2- |"F7" f2 A2 |"Bb" B2"Gm" z2 |"C" z2"F7" z2 |] %52
+

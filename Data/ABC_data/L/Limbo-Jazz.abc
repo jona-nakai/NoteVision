@@ -1,0 +1,14 @@
+X:1
+T:Limbo Jazz
+C:1962 - Duke Ellington / Coleman Hawkins
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:2/2
+I:linebreak $
+K:Ab
+V:1 treble nm=" " snm=" "
+V:1
+ E E/ G |:"Ab" A z z2 | z A/ B B/ A |"Eb7" G z z2 | z z/ E E/ G |$ B z z2 | z B/ c c/ A | %7
+"Ab" E z z2 | z z/ A A/ c |$"Ab" e z z2 |"F7" z e/ f f/ e |"Bbm7" d z z2 |"Dbm6" z z/ A A/ B |$ %13
+"Ab" c z z2 |"Eb7" z E/ c c/ B |"Ab" A z z2 |1 z z/"Eb7" E E/ G :|2 z4"Ab" |] %18
+

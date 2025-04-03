@@ -1,0 +1,17 @@
+X:1
+T:What`s New?
+C:Bob Hggart
+Z:Copyright Â© www.realbook.ru
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ B3 c- |:"C" c8 |"Bbm7" z2 (3c_B_A"Eb7" GFE_E- |"Abmaj7" E8- |"Dm7b5" ED_ED"G7" ^C2 D2 |$"Cm7" G8 | %6
+"Dm7b5" z F GF"G7" _E2 D2 |"C" DCCC- C4 |1"Dm7" z4"G7" B3 c :|2"C7" z4 e3 f- ||$"F" f8 | %11
+"Ebm7" z2 (3f_e_d"Ab7" c_BA_A- |"Db" A8- |"Gm7b5" AG_AG"C7" ^F2 G2 |$"Fm7" c8 | %15
+"Gm7b5" z _B cB"C7" _A2 G2 |"F" GFCF- F4 |"Dm7b5" _AGDG-"G7" G2 B2 ||$"C" c8 | %19
+"Bbm7" z2 (3c_B_A"Eb7" GFE_E- |"Abmaj7" E8- |"Dm7b5" ED_ED"G7" ^C2 D2 |$"Cm7" G8 | %23
+"Dm7b5" z F GF"G7" _E2 D2 |"C" DCCC- C4- | C6 z2 |] %26
+

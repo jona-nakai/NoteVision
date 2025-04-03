@@ -1,0 +1,22 @@
+X:1
+T:Ð¡ÑÐ°ÑÑÐ¹ ÑÐ¾ÑÐ»Ñ
+C:1983 - ÐÐ°ÑÐº ÐÐ¸Ð½ÐºÐ¾Ð²/ ÐÐ¼Ð¸ÑÑÐ¸Ð¹ ÐÐ²Ð°Ð½Ð¾Ð²
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+"F" [CFA]2 [cfa]2 |"A7/E" z ^c/>d/ e/>c/ A/>G/ |"Dm" F A d e/f/- |"Bdim7" f2 z/ d3/2 |$ %4
+"F/C" c/ z/4 ^g/4 a/>d'/ c'/>e/ f/>b/ | (3a/b/a/ f/>d/ c/>^G/ A/>d/ | c (3E/F/B/ A/"C7" =G3/2 | %7
+"F" F .c' .f' z |:$"F" A,/>^G,/ A,/>F/- F z |"Bb" z B,/>B,/ C B, |"F" A,/>^G,/ A,/>F/- F z | %11
+"F" z A"F7" A =G |$"Bb" D3/2 F/- F z |"Bb7" z3/4 _A/4 G/>F/ G F |"F" =A,2 F2 | %15
+"F" z F"Gm6" E"G#dim7" D |$"A7" ^C2 A2 | z G ^G A |"Dm" =G F E D |"G9" =B, z z2 |$ %20
+"Db7" A,/>^G,/"F" A,/>F/ z"Db7" G,/>A,/ |"F" F"Db7" ^G,/>A,/"F" F"C7" (3E/F/=G/ |1 %22
+"F" F"F7/Eb" (3c/f/c/"Bdim/D" (3=B/f/B/"Bbm/Db" (3_B/f/B/ | %23
+"F" A[K:bass]"F/C" C,,"Gm6/D" D,,"C7/E" E,,[K:treble] :|2"F/C" F"C7" z"F" z A, ||$"Gm6/E" B,4 | %26
+"A7" (3z A, ^C (3E A _A |"Dm" G2- (3G F D | A,2 z A, |$"Gm6/E" B,4 |"A7" (3z A, ^C (3E A _A | %31
+"Dm" G2- (3G G _G | F3 D |$"Cm6/A" _E4 |"D7" (3z D ^F (3A B c |"Gm" c2- (3c B G | D2 z E |$ %37
+"Dm" G F z A, |"Bb7" ^G, F z"A7" E |"Dm" D z"Db7" _D2 |"C7" C4 |] %41
+

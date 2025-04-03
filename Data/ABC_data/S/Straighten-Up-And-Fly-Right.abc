@@ -1,0 +1,19 @@
+X:1
+T:Straighten Up And Fly Right
+C:1943 - Nat King Cole / Irving Mills
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm=" " snm=" "
+V:1
+ F ||"Bb6" BBBB BBBB |"Eb6" B2 BB-"Edim" B2 z F |"Bb6" BBAA GABc |"Gb7" _d2 Bc-"F7" c2 z F |$ %5
+"Bb6" BBBB BBBB |"Eb6" B2 BB-"Edim" B z z F |"Bb6" BBAA GABc- |"Gb7" c_dBc-"F7" c2 z2 |:$ %9
+"Bb6" z2 GB"Bb7" c G2 B- |"Eb" B c3"Bb6" z4 |"Eb6" z2 GB c G2 B- |"Cm7" B G3"F9" z4 |$ %13
+"Bb6" z2 GB"Bb7" c G2 B- |"Eb6" B d3"Bb6" z2 z B- |"Eb6" B B3 GABc |1"Cm7" d d2 c-"F7" c4 :|2 %17
+"F13" d d2 B-"Bb6" B2 z B ||$"D9" dddd dddd- | d d2 d2 z z F |"G7" d d2 d- dc=Bc- | %21
+ cd=BG- G2 z G |$"C9" ^cddd dd d2 | d2 dd- dGGG |"F7" cc c2 cccc | cccc d2 z2 ||$ %26
+"Bb6" z2 GB"Bb7" c G2 B- |"Eb" B c3"Bb6" z4 |"Eb6" z2 GB c G2 B- |"Cm7" B G3"F9" z4 |$ %30
+"Bb6" z2 GB"Bb7" c G2 B- |"Eb6" B d3"Bb6" z2 z B- |"Eb6" B B3 GABc |"F13" d d2 B-"Bb6" B4 |] %34
+

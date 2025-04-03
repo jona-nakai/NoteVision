@@ -1,0 +1,18 @@
+X:1
+T:Dream Dancing
+C:1941 - Cole Porter
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ E |:"C+/E" E3 C | C3 E |"A" E3 ^C | ^C3 A |$"Dm7" A3 F |"G7" F2 (3G A B |"Cmaj7" e4- |"C7" e3 e |$ %9
+"Fmaj7" e3 c |"Fm" c3"F#dim" B |"Cmaj7" B/d/ c"B7" B"Bb7" c/A/- |"A7" A4 |$"Ab9" _B4 | %14
+"G7" G3/2 G/- G G |"C" G4-"G7" |1"C" G2 z E :|2"Gm7" (G2)"C7" z2 ||$"F" c4 |"Fm6" C3/2 C/- C z | %20
+"C/E" C/D/E/G/-"G7/D" G/A/"D#dim" B |"C/E" A4"C/G" |$"D7" (3D E ^F (3A B c | %23
+"Am7b5/D" _e2-"D7b9" e/d/ e |"G" d4-"D7/A" |"G743" d G"D7/A" c"G7" d ||$"C" e3"Cmaj7" c | %27
+"C7" c3 B |"F" B/d/ c"E7" B c/A/- |"A7" A4 |$"Ab9" _B4 |"G7" G3/2 G/- G2 |"Ab9" z _B/B/- B/c/ B | %33
+"G7" G3/2 G/- G2 |$"Ab9" _e4 |"F/G" c3/2"Fm/G" c/-"G743" c c |"C" c4 | z4 |] %38
+

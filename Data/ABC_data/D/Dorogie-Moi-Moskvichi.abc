@@ -1,0 +1,20 @@
+X:1
+T:ÐÐ¾ÑÐ¾Ð³Ð¸Ðµ Ð¼Ð¾Ð¸ Ð¼Ð¾ÑÐºÐ²Ð¸ÑÐ¸
+C:1947 - Ð. ÐÑÐ½Ð°ÐµÐ²ÑÐºÐ¸Ð¹ / Ð. ÐÐ°ÑÑ / Ð. Ð§ÐµÑÐ²Ð¸Ð½ÑÐºÐ¸Ð¹
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+ B,/C/ EC/E/ ||"F7" G4- GE/F/ GE/G/ |"Ab9" B4-"Abm" BF/A/ _cA/c/ |"Fm7b5" e8- | %4
+"Eb" e4"Bb7" (3z BB (3B=A_A |:$"Eb" G4- (3GGG (3G_GF |"Eb" E E3- (3EEE (3E=D_D | %7
+"Ab" C2"Fm" =DE"C7" =E F2 G |"Fm" A4-"C7" (3Acc (3c=B_B |$"Fm" A4-"Gm7b5" (3AAA"C7" (3A=EF | %10
+"F7" G2 F4 =EF |"Bb7" B2 AG F2 _EF |"Eb" G4-"Fm7" (3GBB"Bb7" (3B=A_A |$ %13
+"Eb" G2 G2-"G7" (3GGG (3G_GF |"Cm" EE- E4 EF |"Bbm7" G2 FE"Eb7" (3EFG (3GAB | %16
+"Ab" c4- (3ccc (3ccc |$"Abm" _c4- (3cEF (3GFE |"Eb" B2 G4"C7" =B,C |"F7" G2 =B,C"Bb" G2 _B,C | %20
+"Eb" E4- ECCC ||$"Fm7" CB,B,B,"Bb7" B,2 cc |"Eb" c2 B4"C7" (3BcG |"F" B2 =A4"Bb7" (3_ABF | %24
+"Eb" AGFE"Eb/G" DC"Gbdim7" z C/D/ |$"Fm7" CB,B,B,"Bb7" B,2 cc |"Gm7b5" c2 B4"C7" (3BcG | %27
+"Fm7" B A2 =B,/C/"Bb7" G3 G |1"Eb6" E4-"Bb7" (3E_BB (3B=A_A :|2"Eb6" E4 z4 |] %30
+

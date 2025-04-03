@@ -1,0 +1,17 @@
+X:1
+T:Blue Skies
+C:1926 - Iving Berlin
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble nm=" " snm=" "
+V:1
+|:"Fm" F4 c4- |"Fmaj" c4 BA B2 |"Fm7" c8- |"Fm6" c4 BA B2 |$"Abmaj7" c4"F7" E4- | %5
+"Bbm7" E4"Eb7" E F2 A- |"Ab6" A8- |1"Gm7b5" A8"C7b9" :|2"Ab6" A8 ||$"Abmaj7" ABcd e4 | %10
+"Dbm6" =e_e d2"Abmaj7" e4 |"Dbm6" dc B2"Abmaj7" c4 |"Eb7" BA G2"Ab6" A4 |$"Abmaj7" ABcd e4 | %14
+"Dbm6" =e_e d2"Abmaj7" e4 |"Dbm6" dc B2"Abmaj7" c4 |"Gm7b5" BA G2"C7b9" A4 ||$"Fm" F4 c4- | %18
+"Fmaj" c4 BA B2 |"Fm7" c8- |"Fm6" c4 BA B2 |$"Abmaj7" c4"F7" E4- |"Bbm7" E4"Eb7" E F2 A- | %23
+"Ab6" A8- |"Gm7b5" A8"C7b9" |] %25
+

@@ -1,0 +1,18 @@
+X:1
+T:It Had Better Be Tonight (Meglio stasera)
+C:1963 - Henry Mancini / Franco Migliacci / Johnny Mercer
+Z:www.realbook.site
+L:1/4
+M:2/2
+I:linebreak $
+K:Dmin
+V:1 treble nm=" " snm=" "
+V:1
+|:"Dm" z2 D E | F A G F |"Gm" F E3- | E4 |$"A7" z2 E F | G E A G |"Dm" F4- | F4 |$"D7" z2 ^F G | %9
+ A D ^F A |"Gm" c2 B2- | B2"F" A2 |$"E7" ^G4- | G2 E2 |"A7" =G4- | G4 ||$"Dm" z2 D E | F A G F | %18
+"Gm" F E3- | E4 |$"A7" z2 E F | G E A G |"Dm" F4- | F4 |$"D7" z2 ^F G | A D ^F A |"Gm" c2 B2- | %27
+ B2 B2 |$"Dm" A2 F D |"Gm7" F2"A+7" F2 |"Dm" D4- | D A A A ||$"C#dim7" B3/2"Dm" A/- A z | %33
+"Edim7" G3/2"Dm" F/- F z |"Eb" _E2"A7" ^C3/2 D/- |"Dm" D z z A |$"C#dim7" B3/2"Dm" A/- A z | %37
+"Edim7" G3/2"Dm" F/- F z |1"Eb" _E4- | E B G _E |"Dm" D4- | D4- | D4- | D4 :|2$"Eb" _E4- | E2 G2 | %46
+ B4 | _e4 |"Dm" d4- |"Gm" d4- |"Dm" d4- | d4 |] %52
+

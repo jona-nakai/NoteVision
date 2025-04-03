@@ -1,0 +1,16 @@
+X:1
+T:Black And Blue
+C:F. Waller
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+|:"Am" EABc- c4 |"Dm" FABc- c4 |"Am" EABc- c4 |"D7" ^FABc- c4 |1$"C6" GAEG- G4- | %5
+"Dm7" GGAG"G7" A2 A2 |"C" E8 |"Bm7b5" z8"E7" :|2$"C6" GAEG- G4- |"Dm7" GGAG"Ab7" _e2"G7" d2 | %10
+"C6" c8- || c4 z4 ||$"Ab7" c3 _A- A4 | c3 _A- A4 |"C6" c2 =A2 G E2 G- |"Eb7" G8 |$"Ab7" c3 _A- A4 | %17
+ c3 _A- A4 |"Am" c2 c2"G7" d2"F7" _e2 |"E7" =e4 e4 ||$"Am" EABc- c4 |"Dm" FABc- c4 |"Am" EABc- c4 | %23
+"D7" ^FABc- c4 |$"C6" GAEG- G4- |"Dm7" GGAG"Ab7" _e2"G7" d2 |"C6" c8- | c4 z4 |] %28
+

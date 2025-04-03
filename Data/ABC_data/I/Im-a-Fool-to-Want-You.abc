@@ -1,0 +1,19 @@
+X:1
+T:I'm a Fool to Want You
+C:Wolf,  Herron, Sinatra
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Amin
+V:1 treble nm=" " snm=" "
+V:1
+ x2 ^DE c3 ^G |:"Am7" BA- A6 |"Am7" z2 ^GA"A+7" f3 ^c |"Dm7" ed- d6 | z2 d2 e2 f2 |$ %5
+"Dm7" f2 e2"G7" B2 c2 |"Cm7" d2- dA"F7" B2 c2 |1 d2-"Bm7b5" dc B A2 B- |"E+7" B2 ^DE c3 ^G :|2 %9
+ e2-"Bm7b5" ee"E+7" e B2 c |"Am7" A8 ||$"Dm7" a2- aa a3 a |"G9" a4 (3a2 a2 a2 |"Cmaj7" a2 g6- | %14
+ g8"A7" |$"Dm7" f2- ff f3 f |"G7" f4 (3f2 g2 f2 |"Cmaj7" e8 | e6 e2 |$"Bm7b5" d2- dd d3 d | %20
+"E+7" d2- dd- d d2 d |"Am7" d2 c6- | c6 A2 |$"Cm7" c2- cc c3 c |"F7" c2 A2 B2 A2 |"Bm7b5" B8- | %26
+"E+7" B2 ^DE c2 ^G2 ||$"Am7" BA- A6 |"Am7" z2 ^GA"A+7" f3 ^c |"Dm7" ed- d6 | z2 d2 e2 f2 |$ %31
+"Dm7" f2- fe"G7" B2 c2 |"Cm7" d2- dA"F7" B2 c2 |"Dm7" g2- gg"Cm7" (3f2 g2 f2 | %34
+"Bm7b5" e4-"E+7" e B2 c |"Am7" A2- A6 | z2"Bm7b5" z2 z4"E+7" | z8 |] %38
+

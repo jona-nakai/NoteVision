@@ -1,0 +1,21 @@
+X:1
+T:The Way You Look Tonight
+C:Jerome Kern
+C:Dorothy Fields
+Z:Dorothy Fields
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+|:"Fmaj7" c4 |"Dm7" F4 |"Gm7" G A B A |"C7" G4 |$"Fmaj7" A B"Eb13" c B |"D7" A4 |"Gm7" B c d c | %7
+"C7" B c d e |$ f4"Cm711" |"F7" F4 |"Bmaj7" G A c B |"Gm7" A2"C7" G2 |$"F6" F4"Dm7" |"Gm9" z4"C7" | %14
+"Fmaj7" z4"Dm7" |1"Gm9" z D"C7" E G :|2 z4"Bbm7""Eb7" ||$ c2"Abmaj7" c2 |"Adim7" c2 c2 | %19
+"Bbm7" c _e _d B- |"Eb7" B4 |$"Abmaj7" B c _A G- |"Cm7" G2"Bdim7" _A2 |"Bbm7" f4- |"Eb9" f3 z |$ %25
+"Abmaj7" _e2 e2 |"F7" _e2 e2 |"Bbm7" _e f _d c- |"Eb13" c4 |$"Abmaj7" B c2 _A |"Dbmaj7" G2 _A2 | %31
+"Gm711" c4- |"C7" c3 z ||$"Fmaj7" c4 |"Dm7" F4 |"Gm7" G A B A |"C7" G4 |$"Fmaj7" A B"Eb13" c B | %38
+"D7" A4 |"Gm7" B c d c |"C7" B c d e |$ f4"Cm711" |"F7" F4 |"Bbmaj7" G A c B |"Gm7" A2"C7" G2 |$ %45
+"F6" F4"Dm7" |"Gm9" z4"C7" |"F6" z4"Dm7" |"Gm9" z4"C7" |] %49
+

@@ -1,0 +1,19 @@
+X:1
+T:My Heart Stood Still
+C:1927 - Richard Rodgers / Lorenz Hart
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+"F""^Verse" z A c F |"Eb" G2 F2 |"F" z A c F |"Eb" G4 |$"Eb" z G B _E |"Db" F2 F2 | %6
+"Gm7" F D"C7" A G |"F6" F4 |$"F" z A c F |"A" ^c2"A6" c2 |"Bm7" ^c A"E7" =B ^G |"C" E3 =G |$ %12
+"Dm7" A G"G7" =B G |"C6" A G"C7/Bb" A _B |"Am7" c4-"Fm/Ab" |"Gm7" c2"C7" z2 |:$"F" z F"Abdim" E D | %17
+"Gm7" G2"C7" F E |"F6" z A"F+7" G F |"Gm7" B2"C7" A G |$"Am7" z c"F+/A" B A |"Bb6" F2"C9" D2 |1 %22
+"Am7" C4-"D7" |"Gm7" C3"C7" z :|2"F6" F4"Bb" |"F" z C F G ||$"Fm6" _A B c d | d c B _A | %28
+"C#5" _A2 G G- |"Cmaj7" G C E G |$"Dm7b5" _A2 G G- |"G7" G D E F |"Db9" _A2 G G- | %33
+"Csus2" G4"C7" ||$"F6" z F"Abdim" E D |"Gm7" G2"C7" F E |"F6" z A"F+7/A" G F |"Bb6" d2 c B |$ %38
+"Gm7" A G F G |"Gm7" C2"C9" G2 |"F6" F4 |"Gm7" z4"C7" |] %42
+

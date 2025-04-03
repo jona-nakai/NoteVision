@@ -1,0 +1,17 @@
+X:1
+T:Anything Goes
+C:1934 - Cole Porter
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ G2 |:"C" G2 A2"G7" E2 G2 |"C" A2 GA-"G7" AG E2 |"C" G A2 E"G7" G2 Ac- |"C7" cA c2 d2 e2 |$ %5
+"F" d8- |"Fm" d2 z2 cc c2 |"C" c8- |1 c2 z2"G7" z2 G2 :|2"B7" z2 BB- BB B2 ||$"E" B2 BB- BB B2 | %11
+"B7" ^c2 BB- BB B2 |"Bm7" d2 BB- BB B2 |"B7" ^d2 BB- BB B2 |$"Em" e2 BB- B^ABA | %15
+"Em/D" B2 EE- E^D E2 |"C#m7b5" EE ^D2 E2 G2- |"G7" G4 z2 G2 ||$"C" G2 A2"G7" E2 G2 | %19
+"C" A2 GA-"G7" AG E2 |"C" G A2 E"G7" G2 Ac- |"C7" cA c2 d2 e2 |$"F" d8- |"Bb7" d2 z2 ed c2 | %24
+"C" c8 |"G7" z8 |] %26
+

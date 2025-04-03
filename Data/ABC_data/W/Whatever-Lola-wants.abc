@@ -1,0 +1,17 @@
+X:1
+T:Whatever Lola wants
+C:1955 - Richard Adler / Jerry Ross
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ E Ac |:"Am" e3 f e4- | e6 z2 |"B7" ^d3 e d4- | d4 z ^d e2 |$"Bm7b5" =d6 ed |"F7" c2 z2 z2 c2 | %7
+"E7" B6 z2 | z4 z E Ac ||$"Am" e3 f e4- | e6 z2 |"B7" ^d3 e d4- | d4 z2 ^d2 |$"Bm7b5" =d3 c B2 A2 | %14
+"F7" c3 B"E7" A2 ^G2 |"Am" A8- | A4 z A AA ||$"Bb" _B2 z2 z4 | z4 d2 f2 |"A" e4 A4- | A6 AA |$ %21
+"Bb" _BB B2 z4 | z2 d2 f2 _b2 |"A" a8 |"E7" e z z2 z E Ac ||$"Am" e3 f e4- | e6 z2 | %27
+"B7" ^d3 e d4- | d4 z ^d ed |$"Bm7b5" =d6 ed |"F7" c2 d2 z2 c2 |"E7" B6 z2 | z4 z B cB |$ %33
+"Am" A2 A2 A2 A2 |"F" A4- ABcB |"Am" A2 A2 A2 A2 |"Eb7" _B4"E7" ^G4 |"Am" A8- | A2 z2"E7" z4 |] %39
+

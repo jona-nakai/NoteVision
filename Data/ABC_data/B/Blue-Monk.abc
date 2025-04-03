@@ -1,0 +1,14 @@
+X:1
+T:Blue Monk
+C:1954 - Thelonious Monk
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm=" " snm=" "
+V:1
+"Bb7" DE=EF- F4 |"Eb7" G^GAB- B4 |"Bb7" F=GF=E"F7" _EF,^CD- |"Bb7" D _D2 =C- C4 |$ %4
+"Eb7" G_A=AB- B4 |"Edim7" B=Bc_d- d4 |"Bb7" FGF=E"F7" _EF,^C=D- |"Bb7" D6 (3FFF |$"F7" F F,3- F,4 | %9
+"Eb7" FGF=E _EF,^CD- |"Bb7" D2 FG"F7" F=E_EF, |"Bb7" ^C D3- D4 |] %12
+

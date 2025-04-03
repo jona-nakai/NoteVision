@@ -1,0 +1,19 @@
+X:1
+T:BITTERSWEET
+C:1975 - Sam Jones
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+"B743""^Intro" e^ge^c Aceg- | g2 e^c A2 z2 |"Bb743" _egec _Aceg- | g2 _ec _A2 z2 |$ %4
+"A743" d^f=dB GBdf- | f2 dB G2 z2 |"Ab743" z2 _df d_B _G2 |"G743" cecA F z fe- |:$"C" e2 cA defg | %9
+"F" e2 cA d2 BA |"C" z4 z c z B |"Gm7" _Bdfa"C13" z3 f |$"F7" a^abc' =afdc | _edcG _B2 cG- | %14
+"C7" G4"F6" z c z c- |"C/E" c2 Ac"Am7" ecfe- |$"Dm9" e2 cA defg | e2 cA"G7" d2 Bc |"C" z8 |1 %19
+ z4 z2 fe- :|2 z8 ||$ e"B743"^ge^c Aceg- | g2 e^c A2 z2 |"Bb743" _egec _Aceg- | g2 _ec _A2 z2 |$ %25
+"A743" d^f=dB GBdf- | f2 dB G2 z2 |"Ab743" z2 _df d_B _G2 |"G743" cecA F z fe- ||$"C" e2 cA defg | %30
+"F" e2 cA d2 BA |"C" z4 z c z B |"Gm7" _Bdfa"C13" z3 f |$"F7" a^abc' =afdc | _edcG _B2 cG- | %35
+"C7" G4"F6" z c z c- |"C/E" c2 Ac"Am7" ecfe- |$"Dm9" e2 cA defg | e2 cA"G7" d2 Bc |"C" z8 | z8 |] %41
+

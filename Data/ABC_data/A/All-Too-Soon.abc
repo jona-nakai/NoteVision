@@ -1,0 +1,19 @@
+X:1
+T:All Too Soon
+C:1940 - Duke Ellington / Carl Sigman
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble nm=" " snm=" "
+V:1
+"Abmaj7" =D2 EG-"Fm7" G3 F |"Bbm7" =E2 Fc-"Eb7" c4 |"Abmaj7" z B GA f3 c | %3
+"Dbm7" e2 Bd-"Gb7" d3 A |$"Cm7" (3:2:4c2 G2 BF"F7#9" A4- |"Bbm7" A4"Eb7" B2 F2 |"Ab6" A8"Fm7" | %7
+"Bbm7" z8"Eb7" ||$"Abmaj7" =D2 EG-"B7#5" G3 F |"Bbm7" =E2 Fc-"Eb7" c3 B |"Ab6" G2 af-"Ab7" f3 c | %11
+"Dbm7" eBcd-"Gb7" d4 |$"C7" z2 (3AcG-"F7" (3GBF A2- |"Bbm7" A3 =B"Eb7" _B2 F2 |"Ab" A8 | %15
+ z4 z A Bc ||$"Amaj7#11" ^d6 d^f- | f6 z c |"Ebm7" edB_G"Ab7#5" =E2 cB- |"Db" B4 z A Bc |$ %20
+"C6" c3 c- c3 _d- |"F7b9#5" d6 z d |"Bbm7" cAFE =D2 cB- |"Eb7" B6 z2 ||$ %24
+"Abmaj7" =D2 EG-"B7#5" G3 c |"Bbm7" c2 Bc-"Eb7" c3 B |"Abmaj7" G2 Gf- f3 c | %27
+"Db7" e2 _cd-"Gb7" d3 A |$"Cm7" =c2 GB"F7b9" F A3- |"Bbm7" A4"Eb7" B2 F2 |"Ab" A8 | z8 |] %32
+

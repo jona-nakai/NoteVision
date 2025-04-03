@@ -1,0 +1,15 @@
+X:1
+T:Little B's Poem
+C:Bobby Hutcherson
+Z:www.realbook.site
+L:1/8
+M:3/4
+I:linebreak $
+K:Fmin
+V:1 treble nm=" " snm=" "
+V:1
+|:"Gbmaj7b5" c4- cB |"Fm7" c4- cB |"Gbmaj7b5" c2 f2 e2 |"Fm7" c4 eA |$"Ebm7" B4- BA | %5
+"Dbmaj7" B4- BA |"Ebm7" B2 e2 c2 |"Gm7b5" B4"C7#9" cF ||$"Fm7" A4 FA |"F#m7" =A2 =e2"B7" ^d2 | %10
+"Emaj7" ^G4 ^F=E |"Fm7" B2 _e2"Bb7" =d2 |$"Ebmaj7" G4 FE |"Dbmaj7b5" G4 =BG | %14
+"Cmaj7" =B,2"C/D" C2"C/E" =D2 |"Fm7" E2"Fm/Ab" F2"Fm/Db" A2 :|"Gbmaj7b5" c6 |] %17
+

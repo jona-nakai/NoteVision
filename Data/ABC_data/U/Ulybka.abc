@@ -1,0 +1,21 @@
+X:1
+T:Ulybka
+C:V. Shainsky
+Z:www.realbook.site
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ G E |:"Cmaj7" A2 G2 |"Dm11" D F E D |"Cmaj9" C4-"Bb13#11" |"Am9" C z E G |$"Fmaj9" A A A B | %6
+"Dm7" d c B"Db9#11" A |"Cmaj7" c2 G2- |"Bb13#11" G z"Db9#11" A B |$"Fmaj9" c3 B | %10
+"Em9" A E"Eb9#11" G F |"D13" A4- |"D13#11" A z B A |$"C69" c G"Eb7#9#5" B A |"Dm9" A G D"G13b9" E | %15
+"C6" D2 C2- |"C6" C z C _E ||$[K:Cmin]"Cm6" G G"Db9#11" G G |"Cm69" G2"F#13#11" c C | %19
+"F9#11" E D"Ab7#11" D D |"F13#11" D2 D E |$"Bb13" G F"B13" G A |"Bb7" G F G A | %23
+"Eb69" c2"D7#9#5" B2- |"Db13#11" B z"C7#9#5" c G |$"Fm7" B A"F#13#11" A A |"Fm7" A2 c F | %27
+"Cm6" A G"A9#11" G G |"Abmaj13" G2 c E |$"G7b9#5" D E F"Ab13#11" A |"G7b9" G F E F | %31
+"Eb69" A2"D7#9#5" G2- |"Db13#11" G z"C7#9#5" c G ||$"Fm7" B A"F#13#11" A A |"Fm7" A2 c F | %35
+"Cm6" A G"A9#11" G G |"Abmaj13" G2 c E |$"G7b9#5" D E F"Ab13#11" A |"G7b9" G F E F |"Cm6" G2 c2- | %40
+ c z"G7" G =E :| %41
+

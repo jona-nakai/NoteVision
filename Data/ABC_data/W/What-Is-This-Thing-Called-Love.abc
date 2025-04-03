@@ -1,0 +1,17 @@
+X:1
+T:What Is This Thing Called Love
+C:1929 - Cole Porter
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ _B |:"Gm7b5" _B G G2- |"C7" G2 _B2 |"Fm" _A4 | z2 z _A |$"Dm7b5" _A/ G G/- G2- |"G7" G2 ^D2 | %7
+"Cmaj7" E4 | z2 z _B |$"Gm7b5" _B G G2- |"C7" G _B B3/2 A/ |"Fm" _A4 | z2 z _A |$ %13
+"Dm7b5" _A/ G G/- G2- |"G7" G _E E/ E3/2 |"Cmaj7" C4 | z2 z _e ||$"Cm7b5" _e c c2- | %18
+"F7" c _e (3e f e |"Bbmaj7" d4 | z2 z d |$"Ab7" c _A A2- | A c (3c _B _A |"G7" G4 | z _B B B ||$ %25
+"Gm7b5" _B G G2- |"C7" G _B B/ c B/ |"Fm" _A4 | z2 z _A |$"Dm7b5" _A G G2- |"G7" G2 _e2 |"C" c4 | %32
+ z4 |] %33
+

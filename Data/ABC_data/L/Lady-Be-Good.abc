@@ -1,0 +1,15 @@
+X:1
+T:Lady Be Good
+C:1924 - George Gershwin / Ira Gershwin
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm=" " snm=" "
+V:1
+|:"G6" d2 c B |"C9" d2 d2 |"G6" d/B/G/D/- (D2 | D2)"G#dim" e2 |$"D7" d/c/A/D/- (D2 | D2) B2 | %6
+"G6" G4- |1"Am" G2"D7" z2 :|2 G2"G7" z2 ||$"C6" e4 |"C#dim" z e e e |"G6" e2 d2- | d2"B7" z2 |$ %13
+"Em" z B B B |"Emaj" B B B B |"Am7" B2 A2 |"D7" z B c ^c ||$"G6" d2 =c B |"C9" d2 d2 | %19
+"G6" d/B/G/D/- D2- | D2"G#dim" e2 |$"D7" d/c/A/D/- (D2 | D2) B2 |"G6" G4- | G2 z2 |] %25
+

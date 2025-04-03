@@ -1,0 +1,24 @@
+X:1
+T:Hot House
+C:1945 - Tadd Dameron
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ _B- ||"Gm7b5" B2 A(_A G2) _G(F | E)F^F_B"C9#11" F2 z2 |"Fm7" _A2 G(_G =F2) E(_E | %4
+ D)_E=E_A"Fmaj9" E2 z2 |$"G+7" z G _A_B (3(ABA) G!>!=B |"G+7" z !>!!tenuto!_B z (_A G)(F_E)_D | %7
+"C6" C(_G F2-) F3 !>!=E |"C6" z !>!C z !>![=G,e] z !>![Cc] z2 ||$"Gm7b5" z (G _A)_B cB^FG | %10
+ (3_Bd=a ^fd-"C9#11" d2 z2 |"Fm7" z (=F G)_A _BAEF | (3_Acg ec-"Fmaj9" c2 z2 |$ %13
+"G+7" .G(GF)G"G9#11" _B_AGF |"G+7" .=B(B=A)B"G9#11" dc_B_A | %15
+"Cmaj7" G2"Dm7" (3(d/e/d/) =B"Em7" c2"Fmaj7" (3(=a/_b/a/) ^f | %16
+"Em7" g2"Dm7" z2"Cmaj7" z2 z"Cm7" !>!=F ||$"Cm7" z !>!C z (D _E)(F^F)_B | %18
+"F7b9#11" d(=B_G)D d2 (3(BGD) |"Bbmaj7" A(^F =G)A"Cm7" (3(c/d/c/) A _Bc | %20
+"Dm7" (3(=f/g/f/) d"Cm7" _eg"Bbmaj7" f2 z2 |$"Ab13b9#11" z !>!_G2 A !>!fd(AG) | !>!f2 dA- A2 z2 | %23
+"G13b9#11" z F z _A e_d(AF) | e2 _d_A- A2 z _B- ||$"Gm7b5" B2 =A(_A G2) _G(F | %26
+ E)F^F_B"C9#11" F2 z2 |"Fm7" _A2 G(_G =F2) E(_E | D)_E=E_A"Fmaj9" E2 z2 |$ %29
+ z"G+7" G _A_B"G9#11" (3(ABA) G!>!=B |"G+7" z !>!!tenuto!_B z"G9#11" (_A G)(F"G+7"_E)_D | %31
+"C6" C(_G F2-)"Dbmaj7" F3"Cmaj7" !>!=E | z"C6" !>!C z2 z4 |] %33
+

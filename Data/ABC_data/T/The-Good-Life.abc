@@ -1,0 +1,20 @@
+X:1
+T:The Good Life
+C:1962 - Sacha Distel / Jack Reardon
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble nm=" " snm=" "
+V:1
+ (3z"Eb7b9" dc ||"Abmaj7" E E3-"Ab6" E2- (3Edc |"Abmaj7" E2- (3Edc"Ab6" E2- (3EcB |"Gm7" C8- | %4
+"C7" C6 (3z BA |$"Fm7" C C3-"Fmaj" C2- (3CBA |"Fm7" C2- (3CBA"Fm6" C2- (3CBA |"Dm7b5" G8- | %8
+"G7" G6 (3z FG |$"Bbm7" A A3- A2- (3AGA |"Gb9" B4- BBAB |"Abmaj7" c3 E E4- | %12
+"Gm7b5" E4"C7b9" z2 (3z cB |$ A"Fm7" A3- A2- (3AcB |"Bb7" A4 (3A2 B2 c2 |"Bbm7" d3 E E4- | %16
+"Eb7" E6 (3z dc ||$ E"Abmaj7" E3-"Ab6" E2- (3Edc |"Abmaj7" E2- (3Edc"Ab6" E2- (3EcB |"Gm7" C8- | %20
+"C7" C6 (3z BA |$"Fm" C C3-"Fmaj" C2- (3CBA | C2-"Fm7" (3CBA"Fm6" C2- (3CBA |"Dm7b5" G8- | %24
+"G7" G6 (3z FG |$"Bbm7" A A3- A2- (3AGA |"Gb9" B B3- B2- (3BAB |"Cm7" c c3- c2- (3c=Bc | %28
+"F7b9" !fermata!e6- (3edc |$"Bbm7" A A3- A2- (3Adc |"Eb11" A A3-"Eb7b9" A2 B2 |"Ab" A8- | %32
+"Bbm7" A8"Eb7b9" |] %33
+

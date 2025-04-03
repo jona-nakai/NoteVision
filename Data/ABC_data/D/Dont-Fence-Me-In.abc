@@ -1,0 +1,19 @@
+X:1
+T:Don't Fence Me In
+C:1934 - Cole Porter / Robert Fletcher
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+ C2"C7" F2 G2 ||"F" A2 A^G"Fmaj7" A2 AG |"F6" A=GFG"Fmaj7" A4 |"F" A4 B2 AG- |"Gm7" G6"C7" EF |$ %5
+"Gm7" G2 G^F"C7" G2 GF |"Gm7" G=FEF"C7" G4 |"Gm7" c4"C7" c3 B |"Fmaj7" A6"F6" FG ||$ %9
+"F" A2 A^G"Fmaj7" A2 AG |"F7" A2 A2"F+7" =G F3 |"Bb6" BABA BABc |"Bbmaj7" d^c d2"Bbm6" =c B3 |$ %13
+"F" A^GAB"Cm/Eb" c=Bcd |"D7b9" _e2 d2"Bbm6/Db" c _B3 |"F/C" A4"Gm9/C" A2"C7b9" GF- | %16
+"F" F2 F2"F7#5" F2 F2 ||$"Bbmaj7" F2 DE FEDE | FEDE"Bb6" FEDE |"F" C8- |"F7" C2 F2"F7#5" F2 F2 |$ %21
+"Bbmaj7" F2 DE FEDE | FEDE"Bb6" FEDE |"F" C8-"F#dim7" |"Gm11" C2 C2"Gm7/C" F2"C7b9" G2 ||$ %25
+"F" A2 A^G"Fmaj7" A2 AG |"F7" A2 A2"F7#5" =G F3 |"Bb6" B2 BA B2 Bc |"Bbmaj7" d2 d2"Bbm6" c B3 |$ %29
+"F" A2 AB"Cm/Eb" c=Bcd |"D7" _e2 d2"Bbm6/Db" c _B3 |"F/C" A4"C7" A2 GF- |"F6" F6 z2 |] %33
+

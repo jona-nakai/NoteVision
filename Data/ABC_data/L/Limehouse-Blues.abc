@@ -1,0 +1,16 @@
+X:1
+T:Limehouse Blues
+C:1922 - Philip Braham / Douglas Furber
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm=" " snm=" "
+V:1
+"C7" E F G E- | E F2 G | E F G E- |"C7" E4"B7""A#7" |$"A7" E F G E- | E F2 G | E F G E- | E4 |$ %8
+"G" D E F G- | G A2 ^A |"B7" B ^A =A G |"Em7" G4 |$"A7" E F G ^G- | G A2 B |"D7" A ^G =G F- | %15
+ F"G7" =F2 E ||$"C7" E ^F G E- | E F2 G | E F G E- |"C7" E4"B7""A#7" |$"A7" E F G E- | E F2 G | %22
+ E F G E- | E4 |$"G" d c d e- |"E7" e d2 B |"Am" c B"E7" c A- |"Am" A4 |$"Am7b5" c B c d- | %29
+"D7" d B2 A |"G" G2 G G | G3 z |] %32
+

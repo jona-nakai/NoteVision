@@ -1,0 +1,18 @@
+X:1
+T:You Took Advantage Of Me
+C:1928 - Richard Rodgers / Lorenz Hart
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+|:"Eb" BBED"Edim7" _D c3 |"Fm7" c2 BB-"Bb7" B4 |"Gm" BBcB"F#dim7" =A e3 |"Fm" e2 dd-"Bb7" d2 f2 |$ %4
+"Eb" f2 ee-"Eb7" e2 B2 |"Ab" B2 AA-"Abm" A2 EF |"Eb" G2 G2"Bb7" FE F2 |1"Eb" E6 z2 :|2 %8
+"Eb" E6"G7" z2 ||$"Cm" eefe"D7" d d2 c |"G7" =B2 _dc-"C7" c3 _B |"F7" =A2 _cB-"Bb7" B2 F2 | %12
+"Eb" G6"G7" z B |$"Cm" eefe"D7" d d2 c |"G7" =B2 _dc-"C7" c3 _B |"F7" =A2 _cB-"Bb7" B2 F2 | %16
+"Eb" B6"Bb7" z2 ||$"Eb" BBED"Edim7" _D c3 |"Fm7" c2 BB-"Bb7" B4 |"Gm" BBcB"F#dim7" =A e3 | %20
+"Fm" e2 dd-"Bb7" d2 f2 |$"Eb" f2 ee-"Eb7" e2 B2 |"Ab" B2 AA-"Abm" A2 EF |"Eb" G2 G2"Bb7" FE F2 | %24
+"Eb" E6 z2 |] %25
+

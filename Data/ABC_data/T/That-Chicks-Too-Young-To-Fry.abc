@@ -1,0 +1,19 @@
+X:1
+T:That Chick's Too Young To Fry
+C:1945 -  Tommy Edwards / Jimmy Hilliard
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm=" " snm=" "
+V:1
+ _B2 G- ||"G6" G2 z2"Em7" z2 _BG |"Am7" _B2 B2"D7" B2 z G- |"G6" G G2 G2"Em7" G2 _B- | %4
+"Am7" B2 z2 z _B- BG |$"G6" _BA G2"G7" EGAB- |"C6" B2 AG"Cm6" AGEG- |"G6" G G2"D7" G2 G2 G- | %8
+"G6" G2"Eb7" z2"D7" z _B2 G- |$"G6" G2 z2"Em7" z2 DE |"Am7" G A2"D7" _B2 z z G- | %11
+"G6" G G2"Em7" G2 G2 G |"Am7" D2 z2"D7" z2 AG |$"G6" _B2 B2"G7" BG A2 |"C6" _B2 B2"Cm6" BE B2 | %15
+"G6" A G2"D7" G2 G2 G- |"G6" G2 z2"G7" z d2 d ||$"C9" d6 cG | dc- c4 z2 |"G6" B2 BG B G2 B- | %20
+ B d2 c2 z z2 |$"A9" B2 BB- BGEB | GE- E2 z2 B2 |"Am7" c2 c2 c2 B2 |"D7" AG- G F2 B2 G- ||$ %25
+"G6" G2 z2"Em7" z2 DE |"Am7" G A2"D7" _B2 z z2 |"G6" G2 G2"Em7" G2 G_B- |"Am7" B2 z2"D7" z2 _BB |$ %29
+"G6" _BG A2"G7" BG A2 |"C6" =B2 B2"Cm6" B E2 G |"G6" A A2"D7" A2 G G2- |"G6" G6 z2 |] %33
+

@@ -1,0 +1,16 @@
+X:1
+T:Have You Met Miss Jones?
+C:1937 - Richard Rodgers / Lorenz Hart
+Z:www.realbook.site
+L:1/4
+M:2/2
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+|: A"Fmaj7" D C D |"F#dim" C3 z |"Gm7" D E F G |"C7" A B c2 |$"Am7" d G"F/C" F G |"Dm7" F3"G7" A |1 %6
+ B4-"Gm7" |"C7" B3 z :|2"Cm7" c4- |"F7" c d d d ||$"Bbmaj7" c B F G |"Abm7" _A A"Db7" A A | %12
+"Gbmaj7" _A _G _D _E |"Em7" =E E"A7" E E |$"Dmaj7" E D ^F A |"Abm7" _d2"Db7" d2 |"Gbmaj7" B4- | %17
+"Gm7" B3"C7" B |$ A"Fmaj7" D C D |"F#dim" C3 z |"Gm7" D E F G |"C7" A B c d |$"Am7" e4-"D7" | %23
+"Gm7" e d"C7" A G |"F6" F4 | z4"Gm7""C7" |] %26
+

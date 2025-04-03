@@ -1,0 +1,16 @@
+X:1
+T:I'm Putting All My Eggs In One Basket
+C:1936 - Irving Berlin
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm=" " snm=" "
+V:1
+|:"Bb6" F2 B c |"Bb7" d d c B |"Eb6" c4 |"Ebm6" B E3 |$"Bb6" z F"Bdim" F D | %5
+"Cm7" F/d/F/=E/"F7" _E c |"Bb6" B4- |1"Cm7" B z"F7" z2 :|2"Bb6" B B"Bb7" c d ||$"Eb6" e2 B G | %10
+ E G B e |"Gb6" _d2 B _G | _D _G B _d |$"Db7" _c c _A F | _D D E/D/ E |"F13" F2 z _G | %16
+"Cm7" =G2"F+7" A2 ||$"Bb6" F2 B c |"Bb7" d d c B |"Eb6" c4 |"Ebm6" B E3 |$"Bb6" z F"Bdim" F D | %22
+"Cm7" F/d/F/=E/"F7" _E c |"Bb6" B4- | B z z2 |] %25
+

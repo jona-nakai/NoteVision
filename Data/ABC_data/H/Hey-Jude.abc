@@ -1,0 +1,18 @@
+X:1
+T:Hey Jude
+C:1968 - John Lennon / Paul McCartney
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+ c2 |:"F" A4 z A cd |"C7" G4 z2 GA | B2 f2- ffec |"F6" dc/B/ A2 z2 z c |$"Bb" d d2 d g/fe/- e/f/d | %6
+"F" c4 FGAd |"C7" c z z c BAEF |1$"F" F2 z2 z2 c2 :|2"F" F2 z2 z4 || %10
+"F7" z3/2 F/ f/dd/- dc cB/d/- ||$"Bb" d2 fd-"Bb/A" d2 fB- |"Bb/G" B2 fd-"Bb/F" dcBc- | %13
+"C7" c2 dc- c2 BA- |"F" AG F4 z2 |$"F7" z3/2 F/ f/dd/- dc cB/d/- |"Bb" d2 fd-"Bb/A" d2 fB- | %17
+"Bb/G" B2 fd-"Bb/F" dcBc- |"C7" c2 dc- c2 BA- |$"F" AG F2 z F cd | _e>d e2"C7" =ef g2 |"C7" g4 z4 | %22
+[M:2/4] z2 c2 ||$[M:4/4]"F" A4 z A cd |"C7" G4 z2 GA | B2 f2- ffec |"F6" dc/B/ A2 z2 z c |$ %27
+"Bb" d d2 d g/fe/- e/f/d |"F" c4 FGAd |"C7" c z z c BAEF |"F" F2 z2 z4 |] %31
+

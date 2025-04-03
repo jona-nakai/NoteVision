@@ -1,0 +1,18 @@
+X:1
+T:They Can't Take That Away From Me
+C:1937 - George Gershwin / Ira Gershwin
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+"Fm7" E EE"Bb743" E2 EG- |:"Eb6" G8 | z E EE"Ebdim" E2 EB,- |"Fm7" B,8 | z E EE"Bb743" E2 EB- |$ %5
+"Eb" B8- |"Bbm7" B z c2"Eb13" c2 c2 |1"Ab" ecBA"C7" B2"F7" GF |"Fm7" z E EE"Bb743" E2 EG :|2 %9
+"Ab" ecBA"Bb7" B2 GE- |"Eb6" E6 G=A ||$"Gm" B2 G2"D7b9" d2 c2 |"Gm" B2 G2"D7b9" d2 cB | %13
+"Gm" GG G4"A7" F2 |"Am7" D6"D7" G=A |$"Gm" B2 =A2"D7b9" d2 c2 |"Gm" B2 G2"C7" c2 c2 |"F7" F8"Bb7" | %18
+"Fm7" z E EE"Bb743" E2 EG- ||$"Eb6" G8 | z E EE"Ebdim" E2 EB,- |"Fm7" B,8 | %22
+"Fm7" z E EE"Bb743" E2 Ec- |$"Eb7" c8-"D7" |"Bbm7" c2 e2"Eb7" e2 e2 |"Ab" ecBA"Bb7" B2 GE- | %26
+"Cm" E z"Abm6" B4 A2 |$"Eb" G2 A2 G2 B2 |"Fm7" F4"Bb7" G4 |"Eb6" E8- | E6 z2 |] %31
+

@@ -1,0 +1,18 @@
+X:1
+T:Sing, Sing, Sing
+C:1936 - Louis Prima
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Amin
+V:1 treble nm=" " snm=" "
+V:1
+|:"Am" e4"E7/B" d4 |"Am/C" c3 d-"E7/B" d4 |"Am" z e z e"E7/B" d2 d2 |"Am/C" c2 de"E7" z e ee | %4
+"Am" a2 a2"E7/B" e3 a |$"Am/C" z a z a"E7/B" e3 e |"Am" z e c2"F7" dcde |1 %7
+"E7" d^c=cA"Am" z B cd :|2"E7" d^c=cA"Am" z _A"G7" G2 ||$"C" z c cc"G7" de z c | %10
+"C" z e d2"G7" (3z d^d (3ef^f |"Dm7" g2 g2"G7" gg z =f |"C6" ecAc- c2 z2 |$"C" z c cc"G7" de z c | %14
+"C" z e z e"G7" d3 e |"Dm7" z g z e"G7" g^g a2 |"C" e2 cc-"E7/B" c4 ||$"Am" e4"E7/B" d4 | %18
+"Am/C" c3 d-"E7/B" d4 |"Am" z e z e"E7/B" d2 d2 |"Am/C" c2 de"E7" z e ee |$"Am" a2 a2"E7/B" e3 a | %22
+"Am/C" z a z a"E7/B" e3 e |"Am" z e c2"F7" dcde |"E7" d^c=cA"Am" z4 |] %25
+

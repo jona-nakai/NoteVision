@@ -1,0 +1,60 @@
+X:1
+T:Alexander`s Ragtime Band
+C:Irvin Berlin
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+|:"C" z E/^D/ E/G/ z | z E/^D/ E/G/ z |"F" z F/E/ F/A/ z |"G7" G F E D |1$ z"C" E/^D/ E/G/ z | %5
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+ z E/^D/ E/G/ z |"D7" z D/E/ ^F/E/ D |"G7" z G/A/ B/A/ G :|2$"C" C z"C7" E z |"F" F z"F#dim" ^F z | %10
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+"G7" z G/A/ B/A/ G |"C" c z"C7" z/ ^G/ A/G/ |:$[K:F]"F" A z z/ ^G/ A/G/ | A z z/ A ^G/ | %14
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+w: |* * CHORUS *|||
+"G7" A =G"C7" E C |"F" F z"F7" z/ ^c/ d/c/ |$"Bb" d z z/ ^c/ d/c/ | d z z/ d ^c/ | d B F B | %19
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+ d z z A/B/ |1$ c"F" d c d || c d/c/ z2 |"Dm" F A F A | F A/F/ z2 |$"C" z G2 A |"G7" =B G A B | %26
+w: |||||||
+w: |||||||
+w: |||||||
+w: |||||||
+w: |||||||
+w: |||||||
+"C" c z z2 |"C7" c/ =B _B/ z/ ^G/ A/G/ :|2$ c"F" d c A ||"F7" G F A G |"Bb" F2 f2 | %31
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+"Bdim" d f z/ =B/ c/B/ |$"F" c z z/ ^c/ d/c/ |"D7" d z z/ =c ^c/ |"Gm7" d B"C7" e =c |"F" f z z2 |] %36
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+

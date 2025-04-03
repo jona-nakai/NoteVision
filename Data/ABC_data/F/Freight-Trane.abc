@@ -1,0 +1,16 @@
+X:1
+T:Freight Trane
+C:1958 - Tommy Flanagan
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Bbmin
+V:1 treble nm=" " snm=" "
+V:1
+ EF=G |:"Abmaj7" AE z2 z2 z =G |"Gm7b5" BA=GF"C7#9" =EdB=B |"Fm" c=BcB cA z2 | %4
+"Ebm" z =B cA"Ab7" _BAGA |$"Dbmaj7" F2- (3FAc ed z2 |"Dbm" z2 _cB- B2 _FE |"Cm" z B BB- BAE=D | %8
+"Bm" z B BB- BA=D_D |$"Bbm" z4 z2 _dA |"Eb7" =de z =A- A2 _A2 | %11
+"Cm" [^F=B]2 [EA]2"F7" [_DG]2 [_B,E]2 |1"Bbm" [DG]2 [=D=G][EA]"Eb7" z E =FG :|2 %13
+"Bbm" [_D_G]2 [=D=G][EA] z4 |] %14
+

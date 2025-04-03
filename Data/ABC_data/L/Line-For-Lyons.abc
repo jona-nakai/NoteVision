@@ -1,0 +1,18 @@
+X:1
+T:Line for Lyons
+C:1964 - Gerry Mulligan
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm=" " snm=" "
+V:1
+"G7" GBdg =f2 d_e- |"Cm7" e4"F7" z =f _ed |"Bm7" z _e dd"E7" z =e d_d |"Am7" c=dc"D7"c- c4 |$ %4
+"Gmaj7" BcBd-"E7" d2 G2 |"Am7" ABAc-"D7" c2 FG- |1"G" G3 d-"E7" d4- |"Am7" d6"D7" z2 :|2"G6" G8 || %9
+"G7" z2 GA Bcd^d ||$"Cmaj7" e8- |"C#m7" (3e2 ^d2 e2"F#7" g2 f2 |"Bm7" =d8- | %13
+"E7" (3d2 ^c2 d2 =f2 e2 |$"Am7" =c8 |"D7" z B c_e- e2 d2 |"Bm7" B4 z"E7" d cA- |"Am7" A6"D7" z2 ||$ %18
+"G7" GBdg =f2 d_e- |"Cm7" e4"F7" z =f _ed |"Bm7" z _e dd"E7" z =e d_d |"Am7" c=dc"D7"c- c4 |$ %22
+"Gmaj7" BcBd-"E7" d2 G2 |"Am7" ABAc-"D7" c2 FG- |O G8"G" |"Am7" z8"D7" :|$O G3"G" d-"E7" d4 | %27
+"Am7" z G AB"D7" c2 FG- |"F" G3 d-"E7" d4 |"Am7" z G AB"D7" c2 GF- |"Gmaj7" F8 |] %31
+

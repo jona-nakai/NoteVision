@@ -1,0 +1,25 @@
+X:1
+T:Ana Maria
+C:Wayne Shorter
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+U:s=!stemless!
+V:1 treble nm=" " snm=" "
+V:1
+"G7b943" sB sB sB sB |"Eb9/G" sB sB sB sB |"G7b943" sB sB sB sB |"Eb9/G" sB sB sB sB | %4
+"G7b943" sB sB sB sB |"Eb9/G" sB sB sB sB |"G7b943" sB sB sB sB |"Eb9/G" sB sB sB sB |:$ %8
+"Gmaj7" d4- |"Eb9/G" (3d _e d c/ _B A/- |"G133" A7/2 G/- |"Eb9/G" G4 |$"Dbmaj7/F" _d4- | %13
+"Gbmaj7#11" (3d c _B _A/ G _G/- |"Abm7" G4 |"Bb/Ab" F4 |$"Gm7" _B4 |"C943" (3z c G (3_B d e | %18
+"D/C" ^f2- (3f e d |"C943" d4 |$"Ab9/C" _e3/2 d/- d c- | c4 |"G7b943" sB sB sB sB | %23
+"Eb9/G" sB sB sB sB |"G7b943" sB sB sB sB |"Eb9/G" sB sB sB sB ||$"Gmaj7" d4- | %27
+"G133" (3d e d c/ B _B/- |"Eb/F" B4-"E7#9b5" |"Eb943" B4 |$"Dmaj7" ^c7/2"F7#5" =c/- | %31
+"Bbm9" c3/2 _B/ _A/ G _G/- |"Abm7" G4 |"Bb/Ab" F4 |$"Gm7" _B4- |"C943" (3B c G (3_B D G- | %36
+"Bbmaj7" G3/2 F/"Am7" e3/2 d/ |"Fm9" G2 F2 |$"Bb943" _E3/2 _A/- A2- | A4 |"Db133" sB sB sB sB | %41
+[I:repeat 1 1] z4 ||$"Bm9" ^c4- | (3c d ^c B/ A _A/- |"Ebm7" A7/2 _G/- | G4 |$ %46
+"Dmaj7" ^c7/2"F7#5" =c/- |"Bbm9" c3/2 _B/ _A/ G _G/- |"Abm7" G4 |"Bb/Ab" F4 |$"Gm7" _B4- | %51
+"C943" (3B c G (3_B d e |"Bbmaj7" f2"Am7" e3/2 d/ |"Fm9" _e2"Em7" d3/2 D/ |$ %54
+"G7b943" (3:2:5B/4c/4B/ G G G2- |"Ebmaj9/G" G4 |"G7b943" sB sB sB sB |"Ebmaj9/G" sB sB sB sB |] %58
+

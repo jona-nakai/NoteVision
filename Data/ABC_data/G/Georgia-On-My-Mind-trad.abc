@@ -1,0 +1,17 @@
+X:1
+T:Georgia On My Mind
+C:1930 -Â Hoagy CarmichaelÂ /Â Stuart Gorrell
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+|:"F" A/ c3/2- c2 |"Em" A/ G3/2-"A7" G2 |"Dm" z A"Dm/C" d A |"G/B" G3"Bbm6" F/G/ |$ %4
+"Am" A c"D7" e d |1"Gm" B/ c3/2"C7" A G |"F" c4"D7" |"G7" d/d/d/d/"C7#5" ^G2 :|2$"Gm" B D"C7" A A | %9
+"F" F4"Bbm" ||"F" z4"A7" ||$"Dm" D/ F G/-"Gm6" G A |"Dm" F/ D F/-"Bb7" F2 |"Dm" D/ F G/-"Gm6" G A | %14
+"Dm" c/ A =B/-"G7" B2 |$"Dm" D/ F G/-"C#dim7" G A |"Dm" c d"E7" e3/2 d/ |"Am" c A"F#dim7" c c | %18
+"Gm" A2"C7" G2 ||$"F" A/ c3/2- c2 |"Em" A3/2 G/-"A7" G2 |"Dm" z A"Dm/C" d A |"G/B" G3"Bbm6" F/G/ |$ %23
+"Am" A c"D7" e d |"Gm" B D"C7" A A |"F" F4- | F z z2 |] %27
+

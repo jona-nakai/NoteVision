@@ -1,0 +1,18 @@
+X:1
+T:Nothing's Gonna Change My Love for You
+C:1984 - Michael Masser / Gerry Goffin
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ EF |:"C" G2 EG- G2 EG- |"G/B" G2 EG- G2 d2 |"Am7" c2 E2 z2 z C |"G6" B2 cB- B2 G2 |$ %5
+"Fmaj7" E2 C6 |"C/E" z4 z2 z C |"Dm7" F2 GA- A2 G2 |"G743" D4"G7" z2 z C :|$"F" A2 Bc- c d2 c- | %10
+"C/E" c G2 G- G3 G |"Bb/C" f2 ef- f2 ee- |"Fmaj7" e2 dc- c4 |$"Dm7" A2 Bc- c4 |"C/E" G2 Bc- c4 | %15
+"F" A2 B2 c2 A2 |"C/G" e2 d2 c2 d2- |"G" d8 |:$"C" deee e2 GG- |"Fmaj7" G A2 A- A3 A | %20
+"G" dddd d2 F2 |"E" E2 f2 e2 d2 |1$"Am" z2 c2 B2 ce- |"D/F#" e2 d2 A2 d2 |"G743" z c cc c2 BB- | %25
+"G7" B2 A2 A2 G2 :|2$"Am" z c cc B2 ce- |"D/F#" e2 d2 A2 B2 |"G743" c2 c2 c2 cc- | %29
+"G7" c2 B2 A2 B2 ||"C" c8- | c6 z2 |] %32
+

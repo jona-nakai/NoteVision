@@ -1,0 +1,18 @@
+X:1
+T:I Was Doing All Right
+C:1937 - George Gershwin / Ira Gershwin
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm=" " snm=" "
+V:1
+|:"G" d2 d2"Abdim7" dBcd- |"Am7" d6"D7" z2 |"G" (3d2 d2 d2"Abdim7" B c2 d- |"Am7" d c2 A-"D7" A4 |$ %4
+"G7" (3z2 B2 B2 Bc d2 |"C" G4"Cm" z2 BD- |"G/D" D4"D7" C3 B,- |1"G" B,4"Am7" z4"D7" :|2 %8
+"G" B,4"B7" z2 ^D2 ||$"E6" E6 z E | BEEG- G4 |"A7" E2 E2 E2 E2 |"Em" BEEE"A7" F4 |$"E6" E6 z2 | %14
+"C#m" (3e2 ^d2 ^c2"B6" (3d2 c2 B2 |"F#m7" (3^c2 B2 A2"G#m7" B B2 =c- |"Am7" c3 ^c-"Bbdim7" c4 ||$ %17
+"G" d2 d2"Abdim7" dB=cd- |"Am7" d6"D7" z2 |"G" (3d2 d2 d2"Abdim7" B c2 d- |"Am7" d c2 A-"D7" A4 |$ %21
+"G7" (3z2 B2 B2 Bc d2 |"C" G4"Cm" z Bcd- |"G/D" dB- B2"D7" dBde- |"Am7" e4"D7" G3 G- | %25
+"G" G4"E7" z4 |"Am7" z8"D7" |] %27
+

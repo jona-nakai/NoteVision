@@ -1,0 +1,19 @@
+X:1
+T:Don't Let The Sun Catch You Cryin'
+C:1966 - Joe Greene
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+"F6""^Intro" AAFD"Gm7" F2 D2 |"Fdim" FF F2"C7" D C3 |"F6" AAFD"Gm7" F2 DF |"Gm9" A A2 G-"C7" G4 |:$ %4
+"Fmaj7" A c2 A"Ebmaj7" G2- (3GFG |"Fmaj7" A c3-"Ebmaj7" c4 |"Fmaj7" AcAG-"Ebmaj7" G3 F | %7
+"Fmaj7" A C3-"F6" C4 |$"Bb7" DFG_A"Bdim" G G3 |"Gm7" z G G_A"Bbm6" FCFF- |"F6" F8- |1 %11
+ F2 z2"C7b9" z4 :|2 F2 z2"E7" E2 ^F2 ||$"Am7" c2 c2 =B A3 |"Gm6" z4"A7" z2 A2 |"D7" d d3 d2 =B2 | %16
+ A6 DD |$"G7" A4 A2 A2 | A G3- G2 GG |"C7" c2 cG ccAG- |"Gm7" G6"C7#5" ^G2 ||$ %21
+"Fmaj7" A c2 A"Ebmaj7" =G2- (3GFG |"Fmaj7" A c3-"Ebmaj7" c4 |"Fmaj7" AcAG-"Ebmaj7" G3 F | %24
+"Fmaj7" A C3-"F6" C4 |$"Bb7" DFG_A"Bdim" G G3 |"Gm7" z G G_A"Bbm6" FCFF- |"F6" F8- | %28
+"Gm7" F2 z2"C7#5" z4 |] %29
+

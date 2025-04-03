@@ -1,0 +1,18 @@
+X:1
+T:Countdown
+C:1959 - John Coltrane
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:2/2
+I:linebreak $
+K:Bb
+V:1 treble nm=" " snm=" "
+V:1
+|:"Em11" A4"F13" A4 |"Bbmaj7" A4"C#13" B4 |"F#maj7" ^c4"A7b9" =c2 B2 |"Dmaj7" A8 |$ %4
+"Dm11" G4"Eb13" G4 |"Abmaj7" G4"B13" _A4 |"Emaj7" =B4"G9" =A4 |"Cmaj7" G8 |$ %8
+"Cm11" E2 F2"C#13" B2 _A2 |"F#maj7" ^c4"A13" =B4 |"Dmaj7" d4"F7" =c4 |"Bbmaj7" F4 G c2 B |$ %12
+"Em11" A8- |"F7" A2 GA cBFG |"Bbmaj7" A8- |"Eb7#11" A8 :|$"Em11""^Coda" A4"F13" A4 | %17
+"Bbmaj7" A4"C#13" B4 |"F#maj7" ^c4"F943" =c2 B2 |"Bbmaj7" A4"A7" G4 |$"Dmaj7" A8 |"Bbmaj7" d8 | %22
+"F#maj7" ^c8 |"Dmaj7""^rit." A8 |$"Bbmaj7" !fermata!d8 |"F#maj7" !fermata!^c8 | %26
+"Dmaj7" !fermata!^c6 =BA | !fermata!^F6 =E^C | !fermata!=B,3 =E !fermata!^C4 |] %29
+

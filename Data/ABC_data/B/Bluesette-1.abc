@@ -1,0 +1,15 @@
+X:1
+T:Bluesette
+C:T. Thielemans
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:3/4
+I:linebreak $
+K:Bb
+V:1 treble nm=" " snm=" "
+V:1
+"Bbmaj7" F G A | B c d |"Am7b5" e2 G |"D7" ^F3 |$"Gm7" d2 =F |"C7" =E3 |"Fm7" c2 _E |"Bb7" D3 |$ %8
+"Ebmaj7" B2 D |"Eb6" E3/2 F/ _G/_A/ |"Ebm7" B2 _g |"Ab7" f2 e |$"Dbmaj7" _A2 f | e2 _d | %14
+"Dbm7" _A2 _f |"Gb7" e2 _d |$"Cbmaj7" _G _A B | _c _d e |"Cm7b5" f2 e |"F7" =d2 =c |$"Dm7" F3- | %21
+"G7" F3- |"Cm7" F3- |"F7" F3 |] %24
+

@@ -1,0 +1,16 @@
+X:1
+T:African Queen
+C:1966 - Horace Silver
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Cmin
+V:1 treble nm=" " snm=" "
+V:1
+ c'd' |:"Cm9" c'c'b"Db9"c' bbgb |"Cm" ggf"Db9"g f2 ef |"Cm9" eec"Db9"e cc B2 | %4
+"Cm9" C E2"Db9" F- F4 |$"Cm9" z2 D"Db9"E- E4 |"Cm9" z2 D"Db9"E- E4 |"C9" z2 D"Db9"E- E4 |1 %8
+ z2"Cm9" D"Db9"E- E2 c'd' :|2 z2"Cm9" D"Db9"E- E4 ||$"Bb7" z d (3fac'"A7" gfec | %11
+"Ab7" (3f/^f/=f/e fc"G7" e z cd- |"Cm9" d8"Db9" |$"Cm9" z2 D"Db9"E- E4 |"Cm9" z2 D"Db9"E- E4 | %15
+"Cm9" z2 D"Db9"E- E4 ||"Cm11" !fermata!F8 |] %17
+

@@ -1,0 +1,26 @@
+X:1
+T:Goodbye
+C:1935 - Gordon Jenkins
+Z:Copyright Â© www.realbook.site
+%%score ( 1 2 )
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:2 treble 
+V:1
+ C |:"Ab7" _E E2 C D C3- | C6 z C |"G7#5" _E E2 F E D3- | D6 z G |$ %5
+"Cm7" (3c2 c2 c2"Cm7/Bb" (3d2 d2 d2 |"Am7b5" (3G2 G2 G2"Ab7" _B3 B | %7
+"Cm/G" (3_E2 E2 E2"Ab7/Gb" (3_A2 A2 A2 |"G7/F" (3B2 c2 d2"Cm/Eb" c3 C |$"Fm6" D D2 _B/A/ _A4- | %10
+ A6"G7" GG- |"Cmaj7" G8- |1"Dm7b5" G6"G7" z C :|2"Bb7" G2 z c"A7" ccdc ||$"Dm7" e8 | %15
+"G7" (3d2 d2 c2 (3B2 c2 d2 |"C6" c8- | c2 z C CCCC |$"Fm7" G8 |"Bb7" (3F2 F2 _E2 D2- (3DEF | %20
+"Eb" G6 F_E |"Dm7b5" D6"G7" z C ||$"Ab7" _E E2 C D C3- | C6 z C |"G7#5" _E E2 F E D3- | D6 z G |$ %26
+"Cm7" (3c2 c2 c2"Cm7/Bb" (3d2 d2 d2 |"Am7b5" (3G2 G2 G2"Ab7" _B3 B | %28
+"Cm/G" (3_E2 E2 E2"Ab7/Gb" (3_A2 A2 A2 |"G7/F" (3B2 c2 d2"Cm/Eb" c3 C |$"Fm6" D D2 _B/A/ _A4- | %31
+ A6"G7" GG- |"Cmaj7" G8- | G6 z2 |] %34
+V:2
+ x |: x7 f/f/ | =e3 f/f/ e4 | x7 _b/b/ | _a3 _b/b/ a4 |$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 |1 %12
+ x8 :|2 x8 ||$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 ||$ x7 f/f/ | =e3 f/f/ e4 | x7 _b/b/ | %25
+ _a3 _b/b/ a4 |$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |] %34
+

@@ -1,0 +1,32 @@
+X:1
+T:KLACTOVEESEDSTENE
+C:1947 - Charlie Parker
+C:
+Z:Copyright ÐÂ© www.realbook.site
+%%score ( 1 2 )
+L:1/8
+M:4/4
+I:linebreak $
+K:Bb
+U:s=!stemless!
+V:1 treble nm=" " snm=" "
+V:2 treble 
+V:1
+"Bb""^Intro" f2 z2 z4 |"Eb" !slide!b3 g z e z c |"Bb" f2 z2 z2 z _a |"Cb" z _g z d f2 ef |$ %4
+"Bb" d2 z2 z4 |"Cb" e3 _c z _d2 c |"Bb" =d7 =c/_c/ |!fine! B8 ||$"^drums solo" sB2 sB2 sB2 sB2 | %9
+ sB2 sB2 sB2 sB2 | sB2 sB2 sB2 sB2 | sB2 sB2 sB2 sB2 | sB2 sB2 sB2 sB2 | sB2 sB2 sB2 sB2 | %14
+ sB2 sB2 sB2 sB2 | sB2 sB2 sB2 sB2 |:$"Cm7" e4 d2 c2- |"F7" c2 _G2 d2 A2 |"Bb" c2 z F z E2 ^C | %19
+"G743" DFGA-"G7" A3 G |$"Cm7" FE B2- BG z E |"F13" D2 z C E^CDF |"Bb" z B AG c3 A | %23
+"Dm7b5" dAcG"G7" z _G z F ||$"Cm7" e4 d2 c2- |"F7" c2 _G2 d2 A2 |"Bb" c2 z F z E2 ^C | %27
+"G743" DFGA-"G7" A3 G |$"Cm7" FE B2- BG z E |"F13" D2 z C E^CDF |"Bb" z3 G/A/ BcBB | %31
+"Bm7" z d/c/ B/_A/G/F/"E7" _FDFE ||$"Eb" sB2 sB2 sB2 sB2 |"Ab7" sB2 sB2 sB2 sB2 | %34
+"Bb" sB2 sB2 sB2 sB2 |"G7" sB2 sB2 sB2 sB2 |$"C9" sB2 sB2 sB2 sB2 | sB2 sB2 sB2 sB2 | %38
+"Cm7" sB2 sB2 sB2 sB2 |"F7" sB2 sB2 sB2 sB2 ||$"Cm7" e4 d2 c2- |"F7" c2 _G2 d2 A2 | %42
+"Bb" c2 z F z E2 ^C |"G743" DFGA-"G7" A3 G |$"Cm7" FE B2- BG z E |"F13" D2 z C E^CDF |"Bb" z8 | %47
+ z8 :| %48
+V:2
+ d2 z2 z4 | !slide!g3 e z c z G | d2 z2 z2 z f | z e z F d2 cd |$ B2 z2 z4 | _c3 _G z _A2 G | %6
+ B7 =G/_G/ | F8 ||$ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |:$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | %23
+ x8 ||$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 ||$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 ||$ x8 | %41
+ x8 | x8 | x8 |$ x8 | x8 | x8 | x8 :| %48
+

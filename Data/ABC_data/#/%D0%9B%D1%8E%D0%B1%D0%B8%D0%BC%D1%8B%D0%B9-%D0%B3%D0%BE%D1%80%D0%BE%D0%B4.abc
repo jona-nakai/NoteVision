@@ -1,0 +1,17 @@
+X:1
+T:Lubimiy gorod
+C:1939 - N.Bogoslovsky / E. Dolmatovsky
+Z:www.realbook.site
+L:1/8
+M:2/4
+I:linebreak $
+K:Dmin
+V:1 treble nm=" " snm=" "
+V:1
+ z f ed ||"Am" e2 c2 |"Gm" dd (3dcB |"Dm/F" d2 A2 |"Gm6/E" z D cB |$"Dm/A" AA,"Gm6/Bb" AG | %6
+"C#7/B" F^G,"A7" FE |"Dm" D2 z2 |"C7" z C FG |:$"F" A2 c2 |"Gm" d(c/B/) AG |"Dm" (FE) D2 | %12
+"D7" z c c(B/A/) |$"Gm" G3 D |"C7" AB A>G |"F" F4 |"Bm7b5" z f ed ||$"Am" e c2 z |"Gm" dd (3dcB | %19
+"Dm/F" d2 A2 |"Gm6/E" z D cB |$"F" AA, AG |"C#7/B" FA,"A7/C#" FE |"Dm" D f ed |$"Am" e2 c2 | %25
+"Gm" dd (3dcB |"Dm/F" d2 A2 |"Gm6/E" z D cB |$"F/A" AC AG |"C#7/B" F^C"A7/C#" FE |"Dm" D4 | %31
+"C7" z C FG |] %32
+

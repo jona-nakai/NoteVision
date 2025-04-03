@@ -1,0 +1,18 @@
+X:1
+T:Sophisticated Lady
+C:1932 - Duke Ellington / Irving Mills / Mitchell Parish
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Fmin
+V:1 treble nm=" " snm=" "
+V:1
+ _G2 |:"Bbm" F4- FAce |"Gb7" _g2"F7" f2"E7" =e2"Eb7" _ec |"Ab" =G4- GFAc | %4
+"Ab7" e2"G7" =d2"Gb7" _d2"F7" cf |$"Bb7" F4- FGAc |"Bbm" (3ece"Eb7" c4 e2 |1"Ab" G6 e2 | %8
+"Adim" _G8 :|2"Ab" FE A6 ||"Am" z8"D7" ||$"G" z =D2"Em" =B, =E2 B,G- |"Am" G=E =B2"D7" ^F =e2 _B | %13
+"Bm7b5" =B2 =F2-"E7" F4 |"Am" =Ec"D7b9" _E6 |$"G" z =D2"Em" =B, =E2 B,G- | %16
+"Am" G=E =B2"D7" ^F =e2 _B |"G7" =B2 =F"Bdim7"_A"Cm" G_E C2 |"Eb7" FG_Bd"F7" ce ^F2 ||$ %19
+"Bbm" =F4- FAce |"Gb7" _g2"F7" f2"E7" =e2"Eb7" _ec |"Ab" =G4- GFAc | %22
+"Ab7" e2"G7" =d2"Gb7" _d2"F7" cf |$"Bb7" F4- FGAc |"Bbm" (3ece"Eb7" c4 e2 |"Ab" FE A6 | z8 |] %27
+

@@ -1,0 +1,17 @@
+X:1
+T:I'm Beginning To See The Light
+C:1944 -  Duke Ellington / Johnny Hodges / Harry James / Don George
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm=" " snm=" "
+V:1
+ _E |:"G6" =EG E2"C9" G2 A2 |"G6" B E2 E- E3 _E | =EG E2 G2 A2 |"Eb7" _B _E2 E- E3 E |$ %5
+"G6" =EG E2"C9" G2 A2 |"Bm7" B d2 d-"E7" d2 dc |"A9" BG E2"D7" G A2 G- |1"G" G4"D7" z2 z _E :|2 %9
+"G" G6 z2 ||$"B9" z B2 F B2 F2 | _E F2 B- B4 |"Bb9" z _B2 =F B2 F2 | D =F2 _B- B4 |$ %14
+"A9" z A2 E A2 E2 | ^C E2 A- A2 AA |"Bbm7" _BB B2"Ebmaj7" B G2 A- |"D7" A6 z _E ||$ %18
+"G6" =EG E2"C9" G2 A2 |"G6" B E2 E- E3 _E | =EG E2 G2 A2 |"Eb7" _B _E2 E- E3 E |$ %22
+"G6" =EG E2"C9" G2 A2 |"Bm7" B d2 d-"E7" d2 dc |"A9" BG E2"D7" G A2 G- |"G6" G6 z2 |] %26
+

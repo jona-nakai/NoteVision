@@ -1,0 +1,21 @@
+X:1
+T:One Note Samba
+C:A. C. Jobim
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ G2 G ||"Em7" G2 GG- G G2 G- |"Eb7" G G3 .z G2 G |"Dm7" G2 GG- G G2 G- |"C#7b5" G4 .z G2 G |$ %5
+"Em7" G2 GG- G G2 G- |"Eb7" G G3 .z G2 G |"Dm7" G2 GG- G G2 G- |"C#7b5" G4 .z c2 c |$ %9
+"Gm7" c2 cc- c c2 c- |"C7" c c3 .z c2 c |"Fmaj7" c2 cc- c c2 c- |"Bb7" c4 z G2 G |$ %13
+"Em7" G2 GG- G G2 G- |"Eb7" G G2 G- GG G2 |"Dm7" G2 GG-"C#7b5" G G2 c | z8"C6" ||$ %17
+"Fm7" cd_ef edc_B |"Bb7" _AGF_E DEFG |"Ebmaj7" D3 C z D _EG | D3 C z4 |$"Ebm7" _Bc_d_e dcB_A | %22
+"Ab7" _GF_E_D CDEF |"Dbmaj7" C3 _B, z C _DF |"Dm7b5" _A3 G"G7b5" z G2 G ||$"Em7" G2 GG- G G2 G- | %26
+"Eb7" G G3 .z G2 G |"Dm7" G2 GG- G G2 G- |"C#7b5" G4 .z G2 G |$"Em7" G2 GG- G G2 G- | %30
+"Eb7" G G3 .z G2 G |"Dm7" G2 GG- G G2 G- |"C#7b5" G4 .z c2 c |$"Gm7" c2 cc- c c2 c- | %34
+"C7" c c3 .z c2 c |"Fmaj7" c2 cc- c c2 c- |"Bb7" c4 .z c2 c |$"Eb6" c2 cc- c c2 c- | %38
+"D7" c c2 c c2 c2- |"C#maj7" c2 cc- c c2 c | z8"C6" |] %41
+

@@ -1,0 +1,18 @@
+X:1
+T:Call Me Irresponsible
+C:1962 - Jimmy Van Heusen / Sammy Cahn
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+"F" C2"F6" D2 |"F#dim7" =B, C/ D _D/ C |"Gm7" =D2"Gm6" E2 |"G#dim7" ^C D/ E _E/ D |$ %4
+"Fmaj7/A" =E2 F2 |"A7#5" E F/ G _G/ F |"D7#5" B4- |"D7#5" B2 z2 ||$"Gm7" c2 d2 | %9
+"C7" =B c/ d _d/ c |"Am7b5" G4 |"D7#5" ^F4 |$"Dm7" =F2 G2 |"G7" E F/ G _G/ F |"Gm7" B,3 C | %15
+"C7" D2 E2 ||$"F" C2"F6" D2 |"F#dim7" =B, C/ D _D/ C |"Gm7" =D2"Gm6" E2 |"G#dim7" ^C D/ E _E/ D |$ %20
+"Fmaj7/A" =E2 F2 |"A7#5" E F/ G _G/ F |"D7#5" d4- |"D7#5" d2 z2 ||$"Gm7" c2 d2 | %25
+"C7" =B c/ d _d/ c |"Am7b5" c2 =d2 |"D7#5" =B c/ d _d/ c |$"Gm7" c2 =d2 |"C7" =B c/ d _d/ c | %30
+"A7#5" A4- |"D7b9" A2 z A |$"Gm7" c =B/_B/- (3B A _A |"C7" G3 F |"F6" F4- |"Gm7" F2"C7" z2 |] %36
+

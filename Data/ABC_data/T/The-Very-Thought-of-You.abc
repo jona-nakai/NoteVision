@@ -1,0 +1,16 @@
+X:1
+T:The Very Thought of You
+C:1934 - Ray Noble
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble nm=" " snm=" "
+V:1
+"Eb7" C EC |:"Abmaj7" EE E6- |"Eb+7" E4- ECEC |"Abmaj7" FF F6- |"Eb+7" F4- FFAF |$ %5
+"Ab" A3 F"Bbm7" A3 F |"Bdim7" A3 F"Ab/C" (3A2 F2 A2 |"Fm9" cc c6- |"Bb9" c4- ccec ||$ %9
+"Bbm7" e3 c"Eb7" e3 c |"Gm7b5" B2 B4"C7" A2 |"Fm7" c3 A"Fm7/Eb" c3 A |1$"Dm7b5" G6"G7b9" F2 | %13
+"Cm7" E3 C E3 F |"Fm9" G2 G4"Bb9" A2 |"Bbm7" B4- BAFD |"Eb7" B,4 z C EC :|2$ %17
+"Dm7b5" F4"Dbmaj7" z C EC ||"Cm7" EE E2-"F7" ECEC |"Bbm7" EE"Eb7b9" E4 c2 |"Ab69" A8- | A6 z2 |] %22
+

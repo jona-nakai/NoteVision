@@ -1,0 +1,18 @@
+X:1
+T:I've Got A Feeling I'm Falling
+C:1929 - Fats Waller / Harry Link / Billy Rose
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+"Eb6" G4 B c2 d- |"D7" d6 c2 |"Gm7b5" BBcB- B=B c2 |"C+7" A4"C7" G4 |$"F7" F^FG=F- F^F G2 | %5
+"Fm7" C4"Bb7" D4 |"Eb6" G8-"Edim" |"Fm7" G4"Bb7" z4 ||$"Eb6" G4 B c2 d- |"D7" d6 c2 | %10
+"Gm7b5" B=Bc_B- B=B c2 |"C+7" A4"C7" G4 |$"F7" F^FG=F- F^F G2 |"Fm7" C4"Bb7" G4 |"Eb6" E8-"Ab7" | %15
+"Eb6" E2 G2"Eb7" F2 E2 ||$"Bbm7" F4"E7" ^F4 |"Eb7" G c3 z2 B2 |"Abmaj7" F4"C7" G4 | %19
+"Fm7" A B3 z2 A2 |$"G7" G4"Gb7" A4 |"F7" =Ad- d2 d2 c2 |"Fm7" B8- |"Bb7" B2 B2 F2 ^F2 ||$ %24
+"Eb6" G4 B c2 d- |"D7" d6 c2 |"Gm7b5" B=Bc_B- BB c2 |"C+7" A4"C7" G4 |$"F7" F^FG=F- F^F G2 | %29
+"Fm7" c4"Bb7" B4 |"Eb6" e8- | e4 z4 |] %32
+

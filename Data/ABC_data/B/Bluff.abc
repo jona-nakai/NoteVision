@@ -1,0 +1,18 @@
+X:1
+T:Bluff
+C:Lelio Luttazzi
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:2/2
+I:linebreak $
+K:Fmin
+V:1 treble nm=" " snm=" "
+V:1
+"Ab" z =B cB c_B A z |"C7" z =A BA B_A G z |"Fm" z G AG AG F z |"Bdim" z G AG AG F z |$ %4
+"Ab/C" E2 F2"Fm7" A F3 |"Bbm7" A4"Eb7" B4 |1"Ab" c8 |"Eb+"{/d=d} e8 :|2"Ab" c8 ||{/B__B} A8 ||$ %10
+"Cm" GA z G =A z G_B | z G _c z G=c z G | _c z GB z G =A z |"Ab" _A4 z4 |$"G7" z2 G2 ^F2 G2 | %15
+ e2 =d2 =B2 G2 |"C7" =E4"Dm7" F4 |"Ebdim" _G4"C7/E" =G4 |$"F7" FG z F A z F=A | z F B z F_c z F | %20
+ =c z F_c z F B z | =A8 |$"Bb7" _A2 z2 z4 | z4 z2"Bb7" A2 |"Eb7" G2 z2 z4 | z8 ||$ %26
+"Ab" z =B cB c_B A z |"C7" z =A BA B_A G z |"Fm" z G AG AG F z |"Bdim" z G AG AG F z |$ %30
+"Ab/C" E2 F2"Fm7" A F3 |"Bbm7" A4"Eb7" B4 |"Ab" A8- | A8 |] %34
+

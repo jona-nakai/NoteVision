@@ -1,0 +1,21 @@
+X:1
+T:Cow-Cow Boogie
+C:1942 - Don Raye / Benny Carter / Gene De Paul
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+ (3F^FG ||"Eb6" c6 ^FG | c2 ^FG- G2 (3=F^FG | cc- c4 (3=F^FG | c2 _G=F-"Eb9" F2 (3EFE |$ %5
+"Ab9" B2 EA- A4 | z A BA B B3 |"Eb6" z ^F GB c c3 | (3_G=FE- EE- E2 (3BcB |$ %9
+"Bb9"{/^c} d d3 z B (3BAB |"Ab9" AA- A4 (3F^FG |"Eb6" c c3{/_G} E z (3=F^F=G | %12
+ c (3c/B/G/ _GE- E2 (3=GEG- ||$"Eb6" G6- GG | c2 ^FG E=F (3GEG- | G6 (3BcB | %16
+"Eb7" _d B2 G- G2 (3cAc- |$"Ab6" c6 z c | f2 =Bc AF (3cGc- |"Eb6" cc _G2 E3 _B | %20
+ c2 _GE- E2 (3BcB |$"Bb9"{/^c} d{/c} d3 B/=c/-c (3z cB |"Ab9" (3_dB{/d}c- c4 (3F^FG | %23
+"Eb6" c c3{/_G} E z (3=F^F=G | c (3c/B/G/ _GE- E2 (3BcB ||$"Eb9" e _d2 B- B3 B | e _d3 B2 (3BcB | %27
+ e_dcB A _G3- |"Eb7" G3 _G/G/ =G _G2 F- |$"Ab9" F2 EE B3 E | B E2 B- B2 z2 |"Eb6" z2 (3EFE B3 E | %32
+ B B2 B- B2 (3BcB |$"Bb9"{/^c} d{/c} d3 B/=c/-c (3z cB |"Ab9" (3_dB{/d}c- c4 (3F^FG | %35
+"Eb6" c c3{/_G} E z (3=F^F=G | c (3c/B/G/ _GE- E4 |] %37
+

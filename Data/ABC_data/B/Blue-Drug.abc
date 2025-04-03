@@ -1,0 +1,17 @@
+X:1
+T:Blue Drug
+C:1932 - J.Myrow
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:Emin
+V:1 treble nm=" " snm=" "
+V:1
+"Em6" E E z2 | z B B B | B/G/E/B/- B z | z B B B |$"B7" B/A/ F/ ^D z/ z | z ^D/D/ D/D/- D | %6
+"Em6" E E E/E/ E |"C7" G2"B7" F2 |$"Em6" E E z2 | z B B B | B/G/E/B,/- B, z | z B/B/ B B |$ %12
+"B7" B A/F/ ^D G | F G F F |"Em6" E E z2 | z2 B B ||$"Am6" A/ A A/ G/ G G/ | F/ F F/ E/ E E/ | %18
+"Em6" B E/ B z/ z | z4 |$"Am6" A/ A A/ G/ G G/ | F/ F z/ E E |"Em6" B B B B |"B7" ^d B/B/ A/A/ G |$ %24
+"Em6" E2 E2 | z B B B | B/G/E/B,/- B, z | z B B B |$"B7" B A/F/ ^D z | F G F F |"Em6" E E z2 | %31
+ z4 |] %32
+

@@ -1,0 +1,17 @@
+X:1
+T:Virgo
+C:1964 - Wayne Shorter
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+|:"Fmaj7" z c- c2 F3 G |"Bbm" _AD- D4"Eb7" _E=E- |"Dm7b5" E2- (3E_A,C"Bb7#11" EG- G2 |"Amaj7" E8 |$ %4
+"Am" z E- E2 A,3 B, |"Fm" CF,- F,4"Bb7" G,A,- |"Em7b5" A,2- (3A,"Eb7#11"DF Ac- c2 |1"Dmaj7" A8 ||$ %8
+"Dm" z A- A2"Dm/G" A2- (3AGF |"Cm" Gc- c4-"F7b9" (3cBA |"Eb7#5" G_e- e4"D7#9#5" ^Fd- | %11
+"Gm" d4"Ab7#11" B4 |$"Dbmaj7" F6- (3F_G_A |"Dm" =Ad- d2"G7" B2 =Gc- |"Gm" c6 (3z dc | %15
+"Dbm" B3 _A"Gb7" _d3 B :|2$"Dm" =A=A,-"Db7#5" (3A,=DF Ac- c2 ||"Cm" AA,-"F7b9" (3A,DF Ac- c2 | %18
+"Bbmaj7" A8 |$"E7#9" z c- (3cAF"A7#9#5" GF^CE- |"Dm" E8- |"Gm" E4"C7" z4 |] %22
+

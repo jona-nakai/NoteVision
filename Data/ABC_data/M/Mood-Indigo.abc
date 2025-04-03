@@ -1,0 +1,17 @@
+X:1
+T:Mood Indigo
+C:1930- Duke Ellington / Barney Bigard / Irving Mills
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+"F" A4 ^G2 A2 |"G9" A8 |"Cm" c4"C+" ^G4 |"F" A8 |$"F" A4 ^G2 A2 |"G9" A8 |"Db7" _A2 A2 G2 F2 | %7
+"C7" E4 D^D E2 |$"F" z2 F2 F2 F2 |"F9" z2 c2- cd c2 |"Bb6" B4 B2 B2 |"Eb9" G6"C+" ^G2 |$ %12
+"F" A4 ^G2 A2 |"G9" A8 |"Cm" c4"C+" ^G4 |"F" A8 ||$"F" z2 C^C D3 =C |"G9" =B,A_AG- G4 | %18
+"Gm7" =AGFD"C7" E2 G2 |"F" C8"C7" |$"F" z2 C^C D3 =C |"G9" =B,A_AG- G4 |"G7b9" _AGAG"Db7" A2 A2 | %23
+"C7" G8 |$"F" z F GC F G2 C |"F9" FGCF- F4 |"Bb6" z F GF _A3 F |"Eb7" _AFGF- F _D2 C |$ %28
+"F" z2 C^C =D3 =C |"G9" =B,A_AG- G4 |"Gm7" =AGFD"C7" E2 G2 |"F" F4 z4 |] %32
+

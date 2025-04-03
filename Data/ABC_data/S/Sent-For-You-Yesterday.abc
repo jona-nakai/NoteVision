@@ -1,0 +1,19 @@
+X:1
+T:Sent For You Yesterday
+C:1938 - C. Basie / E. Durham / J. Rushing
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm=" " snm=" "
+V:1
+"G" [Bdg]2 [Bdg]2"G7" [Bd=f]2 [Bdf]2 |"C" [Gce]2 [Gce]2"Cm" [Gc_e]2 [Gce]2 | %2
+"G" [GBd]2 [GBd]2"Gdim" [G_B^c]2 [GBc]2 |"D7" [FA=c]2 [FAc]2"G" [DG=B]2 z2 |$"G" d g2 =f-"G7" f4 | %5
+"C" e g2 _e-"Cm" e4 |"G" d g2 ^c-"Gdim" c4 |"D7" d g2 B-"G" B d2 B ||$"G6" d2 c2 _B G2 _d- | %9
+"C7" d c3 _B2 G=D- |"G6" D8- | D4 z d2 G |$"C9" d2 c_B- B G2 d- | d c3 _B2 GD- |"G6" D8- | %15
+ D2 z2 z E2 G |$"D7" _B2 AG- GDEG |"C7" _BBAG- G G2 G- |"G6" G8- | G2 z2 z B BG ||$ %20
+"G6" B2 GD- D3 G |"C9" _B A2 G- G2 =FD- |"G6" D8- | D4 z B BG |$"C9" _B2 GE- E3 G | %25
+ _B2 AG- G2 GE- |"G6" E D3- D4- | D4 z B2 G |$"D7" B2 B2 G G2 G |"C7" _B2 B2 G G2 G- |"G6" G8- | %31
+ G2 z2 z4 |] %32
+

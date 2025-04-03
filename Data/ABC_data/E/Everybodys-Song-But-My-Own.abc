@@ -1,0 +1,20 @@
+X:1
+T:Everybody's Song But My Own
+C:1988 - Kenny Wheeler / Norma Winstone
+Z:www.realbook.site
+L:1/8
+M:3/4
+I:linebreak $
+K:Bb
+V:1 treble nm=" " snm=" "
+V:1
+"Bb743" z2 z _A3 |"Bdim" G3 D3 |"Cm7" F4 ED |"Cm7/Bb" E4 z2 |$"Am7b5" z2 z _e3 |"D7" d3 A3 | %6
+"Gm7" c4 BA |"Cbmaj7#11/Bb" B4 z2 |$"Bb743" z2 z _A3 |"Bdim" G3 D3 |"Cm7" F4 ED |"Cm7/Bb" E4 z2 |$ %12
+"Am7b5" z2 z _e3 |"D7" d3 A3 |"Gm7" c4 BA |"Em7b5" B4"A7" z2 ||$"Dmaj7" z4 AD |"Em7/D" =E3 ^F G=B | %18
+"Dmaj7" ^c=B A4 | z6"Em7/D" |$"Dmaj7" z4 AD |"C#m7b5" =E^F (3G2"F#7" _B2 ^c2 |"Bm7" =e3 d ^cd | %23
+"Bm7/A" =B4 z2 |$"G#m7b5" z4 d^c |"C#7" d^c =B3 c |"F#maj7" ^A6 |"C743" z2 (3c2 F2"C7" G2 | %28
+"Fmaj7" A4 z2 |"B743" z2 (3=B2 =E2"B7" ^F2 | _A6"Bb743" ||$"Bdim" z2 G2 D2 |"Cm7" F2 D2 E2 | %33
+"Cm7/Bb" e6- |"Am7b5" e2 z4 |$"D7" e2 d2 A2 |"Gm7" c2 A2 B2 |"Em7b5" a2 b2"A7" z2 |$ %38
+"Dm7" z2 f2 d2 |"C#7#11" B3 G3 |"Cm7" e6 |"F7" z3 c AF |:$"Bbmaj7" B6- |"Cbmaj7#11/Bb" B6- | %44
+"Bbmaj7" B6- |"Cbmaj7#11/Bb" B6 :| %46
+

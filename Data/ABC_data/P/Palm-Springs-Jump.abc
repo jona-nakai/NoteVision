@@ -1,0 +1,16 @@
+X:1
+T:Palm Springs Jump
+C:1942 - Slim Gaillard
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ GGAG |:"C" e e2 e3 z2 | z4 eedc |"Cdim7" _e e2 e3 z2 | z4 _eeee |$"D7" =ec- c2 A4 | %6
+"Dm7" efgf"G13" ecAG |"C" c3 c2 z z2 |1"G7" z4 GGAG :|2"C9" z8 ||$"Fm6" d3 c d _A2 c- | c d3 z4 | %12
+"C" z2 dc d A2 c- | c2 z2 z4 |$"Fm6" d3 c d _A2 c- | c d3 z4 |"Ab7" _e3 e e c2 d- | %17
+"G7" d2 z2 GGAG ||$"C" e e2 e3 z2 | z4 eedc |"Cdim7" _e e2 e3 z2 | z4 _eeee |$"D7" =ec- c2 A4 | %23
+"Dm7" efgf"G13" ecAG |"C" c3 c2 z z2 | z8 |] %26
+

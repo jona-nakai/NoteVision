@@ -1,0 +1,16 @@
+X:1
+T:Ace in the Hole
+C:1941 - Cole Porter
+Z:www.realbook.site
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+"Am" c3 c- | c3 E |"B7" ^D =D ^D B- | B2 z2 |$"E7" B3 B- | B3 D |"A7" ^C =C ^C _B- |"A7b9" B2 z2 |$ %8
+"D7" A3 A- | A3 C |"G7" B, _B, =B, _A- |"G7b9" A2 z2 |$"C7" G _B2 G |"C#dim" _B2 B G- |"G7" G4- | %15
+ G z z2 ||$"Am" c3 c- | c3 E |"B7" ^D =D ^D B- | B2 z B |$"Bm7b5" d3 d- |"E7" d3 F | %22
+"A7" E ^D E ^c- | c3 A |$"F#m7b5" e3 e- |"Fdim" e3 B |"C/E" B d c G- |"Em7b5/Bb" G3"A7" z |$ %28
+"Dm7" A B c"Dm7b5/Ab" d |"Gsus4" e ^d"G7" e c- |"C" c4- | c3 z |] %32
+

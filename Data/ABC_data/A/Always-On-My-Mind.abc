@@ -1,0 +1,21 @@
+X:1
+T:Always On My Mind
+C:1972 - Wayne Carson / Mark JamesJohnny / Christopher
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:E
+V:1 treble nm=" " snm=" "
+V:1
+"^intro" z8"Emaj7" | z8"A/B" |"Emaj7" z8 | z8"A/B" |:$"E"S z2 (3z GA B2- (3BAG |"B7" GF- F2 z4 | %6
+"C#m7" z2 (3z EF GFED |"Amaj7" DC- C2 z4 |$"E" z2 (3z GA B2- (3BAG |"B7" GF- F2"G#7" z4 | %10
+"C#m7" z2 (3z EF"C#m/B" GFED |"F#/A#" DC- C2 z4 |$"Amaj7" z2 (3z AB cBAA |"E" (3BEG- G2 z4 | %14
+"Amaj7" z2 FG"E/G#" AGFE |"F#m" C4!dacoda! z4 ||$"Bsus4" z2 FF"C#m" GG"B/D#"AA | %17
+"E" B4"F#m" z4"E/G#" |"A" z2 FF"B7" AAGG |1"E" E4"A/B" z4 :|2"E" E4"A" z4"B7" ||$ %21
+"E" B6"G#m/D#" c2 |"C#m" E4"C#m/B" z4 |"A" AGFE"E/G#" AGFE |"F#m7" F4"B7" z4 |$"E" B4"G#m/D#" c4 | %26
+"C#m" E4"C#m/B" z2 (3z FG |"A" AGFE"E/G#" AGFE |"F#m7"S F4"B7" z4 ||$ %29
+"Bsus4""^Ã CODA" z2 FF"C#m" GG"B/D#"AA |"E" B4"F#m" z4"E/G#" |"A" z2 FF"B7" AAGG |"E" E4 z4 |$ %33
+"Bsus4" z2 FF"C#m" GG"B/D#"AA |"E" B4"F#m""_rit." z4"E/G#" |"A" !fermata!z2 FF"B7" AAGG | %36
+"E" !fermata!E4 z4 |] %37
+

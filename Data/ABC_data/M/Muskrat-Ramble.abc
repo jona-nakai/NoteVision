@@ -1,0 +1,18 @@
+X:1
+T:Muskrat Ramble
+C:1926 - Ray Gilbert / Edward "Kid" Ory
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:2/2
+I:linebreak $
+K:Ab
+V:1 treble nm=" " snm=" "
+V:1
+|:"Ab" ACEA- ACEA |"Eb7" GDEG- G2 z2 | GDEG- GDEG |"Ab" ACEA- A2 z2 |$"Ab" ACEA- ACEA | %5
+"Eb7" GDEG- G2 z2 |"G7" G^FGA G=FE=D |"Cm" C2 E6"Eb7" |$"Ab" ACEA- ACEA |"Eb7" GDEG- G2 z2 | %10
+ GDEG- GDEG |"Ab" ACEA- A2 z2 |$"F7" F =A2 F A3 F |"Bbm7" B2 _AF- F2 =Bc- | %14
+"Bb9" c=Bc_B"Eb7" AA G2 |"Ab" A2 z2 z E E=E ||$"Eb7/Bb" F2 z2"D7" ^F2 z2 |"Eb7" G2 z2 c2 z2 | %18
+"Ab" B2 A2 A4 | z A GA BAGF |$"Eb7" A2 GG- G4 | z2 =Bc- c_BAE |"Ab" F2 EE- E4 | z c2 B AA G2 |$ %24
+"Eb7/Bb" F2 z2"D7" ^F2 z2 |"Eb7" G3 G cBec |"Ab" B2 A2 A4 | z A2 A GG _G2 |$"F7" F F2 F =AF A2 | %29
+"Bbm7" B2 _AF- F4 |"Bb9" c c2 =B"Eb7" cA _B2 |"Ab" A6 z2 :| %32
+

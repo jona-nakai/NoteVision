@@ -1,0 +1,20 @@
+X:1
+T:Li'l Darlin'
+C:1957 - Neal Hefti / Jon Hendricks
+Z:Copyright ÐÂ© www.realbook.site
+L:1/8
+M:2/2
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+"G9" z d3 .A2 .G2 |"C743" .F2 .D2 !tenuto!F2"C7b9" GA- |"Am7" A8- |"D7b9" A6 z2 |$ %4
+"G9" z d3 .A2 .G2 |"C743" .F2 .D2 !tenuto!F2"C7b9" GA- |"F13" A8- |"F+7" A6 z"A6" ^F ||$ %8
+"Bb6" G2 G^F"Bbm6" G_AG=F |"F6" z C3-"F9" C2 z"A6" ^F |"Bb6" G2 G^F"Bbm6" GABc- | %11
+"Am7b5" c8"D7b9#11" |$"G9" z d3 .A2 .G2 |"G9" .F2 .D2 FGAG- |"Gm7" G6"C9" z ^G | %15
+"Am7" Acd_e-"D7b9#11" e4 ||$"G9" z d3 .A2 .G2 |"C743" .F2 .D2 !tenuto!F2"C7b9" GA- |"Am7" A8- | %19
+"D7b9" A6 z2 |$"G9" z d3 .A2 .G2 |"C943" .F2 .D2 !tenuto!F2"C7b9" GA- |"F13" A8- | %23
+"F+7" A6 z"A6" ^F ||$"Bb6" G2 G^F"Bbm6" G_AG=F |"F6" z C3-"F9" C2 z"A6" ^F | %26
+"Bb6" G2 G^F"Bbm6" GABc- |"Am7b5" c8"D7b9#11" |$"G9" z d3 .A2 .G2 |"C743" .F2 .D2"C7b9" EFGF- | %30
+"F6" F8 |"Am7b5" z8"D7" |] %32
+

@@ -1,0 +1,17 @@
+X:1
+T:Et si tu n'existais pas
+C:1975 - Pierre DelanoÃ« / Claude Lemesle / Vito Pallavicini / Toto Cutugno / Pasquale Losito
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Bmin
+V:1 treble nm=" " snm=" "
+V:1
+"Bm" FBcd cBcB- | B8 | FBcd cBcB- | B8 |:$"Bm" F,B,CD C2 B,F,- | F,3 F, B,CDF |"Em" A2 GC- C4 | %7
+ z4 z C DE- |$ E^DEF- FEFG- |"F#7" G4 FE=DC |"Bm" C2 B,D- D4 | z8 ||$"Bm" F,B,CD C2 B,F,- | %13
+ F,3 F, B,CDF |"Em" A2 GC- C4 | z4 z C DE- |$ E^DEF- FEFG- |"A7" G4 FE=DC |"D" C2 DA,- A,4- | %19
+ A,3 A, E2 D2 |"F#7" C2 B,^A,- A,4- | A,6 z2 :|$"Bm" F/B/c z2 F/B/e z2 | F/B/c F/B/c F/B/e z2 | %24
+"Em" G/B/c z2 G/B/e z2 | G/B/c G/B/c G/B/e z2 |$"Bm" F/B/c z2 F/B/e z2 | F/B/c F/B/c F/B/e z2 | %28
+"Em" G/B/c z2 G/B/e z2 |"A7" G/B/c G/B/c G/B/e z2 |] %30
+

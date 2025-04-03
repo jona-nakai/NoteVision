@@ -1,0 +1,23 @@
+X:1
+T:Come Fly with Me
+C:1958 - Jimmy Van Heusen / Sammy Cahn
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ G2 |:"Cmaj7" d c2 c-"C6" c2 Gd- |"Em7" d2 cd-"Ebdim7" d2 cF- |"Dm7" F8- |"G7" F6 G2 |$ %5
+"Cmaj7" B A2 A-"C6" A B2 _B |"Gm7" A G2 G-"C13" G A2 _A |"Fmaj7" G2 z F c2 c2 |"Bb13" c6 C2 |1$ %9
+"Cmaj7" E2 GC-"C6" C2 D_E- |"F9" E2 GC- C2 D=E- |"E7" E8-"A7b9" |"D9" E6"G13" G2 :|2$ %13
+"Cmaj7" E2 GC-"C6" C2 D_E- |"F9" E2 GC- C2 DC- |"C" C8"F7" ||"C" z2 CD E2 G2 ||$"Abmaj7" c3 c- c4 | %18
+"Ab+" z c2 _B _A2 B2 |"Dbmaj7" c4 c2 _D2- |"Db6" D8 |$"Bbm7" _B4 B2 _D2- |"Eb7" D8 | %23
+"Ab6" _A4 A2 C2- |"Bbm7" C2 C_D"Eb11" _E2 _A2 ||$"Ab" c3 c-"Ab+" c4 |"Ab6" z c2 B c2 _d2 | %27
+"Gmaj7" =d4 d2 =D2- | D8"E7b9" |$"Am11" d4 d2 D2- |"D13" D8 |"G7" d2 _d2"G11" c2 z B- | %32
+"G7" B=d"Bb/G#" _B2"Dm7/A" A2"G7b9" =B2 ||$"Cmaj7" d c2 c-"C6" c2 Gd- |"Em7" d2 cd"Ebdim7" d2 cF- | %35
+"Dm7" F8- |"G7" F6 G2 |$"Cmaj7" B A2 A-"C6" A B2 _B |"Gm7" A G2 G-"C13" G A2 _A | %39
+"Fmaj7" G2 z F c2 c2 |"Bb13" c6 C2 |$"Cmaj7" E2 GC-"C6" C2 D_E- |"F9" E2 GC- C2 D2 | %43
+"Em7b5" =E4"Bb9" F4 |"A7b9" G4 A4 |$"D9" c2 eA- A2 Bc- |"Dm7" c2 eA-"G7" A2 B2 |"C" c8- | %48
+"Dm7" c4"G7" z4 |] %49
+

@@ -1,0 +1,18 @@
+X:1
+T:I Could Write a Book
+C:1940 - Lorenz Hart / Richard Rodgers
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ E F ||"Cmaj7" G2"Am7" B2 |"Dm7" A G"G13" E D |"Cmaj7" E4-"Am7" |"Dm7" E G"G7" E D |$ %5
+"Cmaj7" E G E D |"Am7" E c2 E |"Dm11" G4 |"G7" z2"G7/F" A B |$"C/E" c2"Ebdim7" c2 | %10
+"Dm7" c d2"G7" B |"F#m7b5" A2"B7b9" A2 |"Em7" G2 E ^F |$"G/B" G2"Bbdim7" G2 |"Am7" G A2"D7" ^F | %15
+"Dm11" G4 |"G7" z2 E F ||$"Cmaj7" G2"Am7" B2 |"Dm7" A G"G13" E D |"Cmaj7" E4-"Am7" | %20
+"Dm7" E G"G7" E D |$"Cmaj7" E G E D |"Am7" E c2 E |"Dm11" G4 |"G7" z2"G7/F" A B |$ %25
+"C/E" c2"Ebdim7" c2 |"Dm7" c d2"G7" B |"Gm7" _B2"C7b9" B2 |"Fmaj7" A2"Bb13" G F |$ %29
+"C/G" E2"E+7" E2 |"Dm7/F" D c2"G7b9" B |"C69" c4- |"Dm7" c z"G7" z2 |] %33
+

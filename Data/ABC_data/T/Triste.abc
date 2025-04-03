@@ -1,0 +1,18 @@
+X:1
+T:Triste
+C:1966 - AntÐÒnio Carlos Jobim
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm=" " snm=" "
+V:1
+"Bbmaj7" z2 z B- B A2 B | A2 GD- D E2 F- |"Gbmaj7" F8- |"B7b5" F8 |$"Bbmaj7" z2 z B- B A2 B | %5
+"Eb7b5" A2 GD- D E2 F- |"Dm7" F8- |"G7" F8 ||$"Cm7" z2 z G F G2 F- |"Am7" F E2 D-"D7" D A,2 C- | %10
+"Gm7" CA,B,D F A2 c- |"Em7" c4-"A7" c B2 ^c- |$"Dmaj7" cAAA- A4 |"Em7" A^FFF-"A7" F3 =E- | %14
+"Dm7" EDDD-"G7" D2 G2- |"Cm7" GFFF-"F7" F4 ||$"Bbmaj7" z2 z B- B A2 B | A2 GD- D E2 F- | %18
+"Bbm7" F8- | F8 |$"Bbmaj7" z2 z B- B A2 B | A2 GD- D E2 F- |"Fm7" F8- |"Bb7" F8 ||$ %24
+"Ebmaj7" z B B,C D E2 F- |"Ab7b5" F =E2 _E- E2 F2- |"Dm7" F2 ED"G7" C B,2 C- |"C7" C8 |$ %28
+"Cm7" z2 z E- E D2 E |"F7" C2 DB,- B, C2 B,- |"Bbm7" B,8-"Eb7" |"Bbm7" B,8"Eb7" |] %32
+

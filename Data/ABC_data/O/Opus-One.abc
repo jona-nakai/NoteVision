@@ -1,0 +1,19 @@
+X:1
+T:Opus One
+C:1943 - Sy Oliver / Sid Garris
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ G ||"C6" Ac B2 A3 G | AcBA- A3 G |"F9" Ac B2 A3 G | AcBA- A3 G |$"D9" Ac B2 A3 G | %6
+"Dm7" AcBA-"G9" A3 G |"C6" Ac B2"Cdim" Ac B2 |"Dm7" AcBA-"G9" A3"G+" G |$"C6" Ac B2 A3 G | %10
+ AcBA- A3 G |"F9" Ac B2 A3 G | AcBA- A3 G |$"D9" Ac B2 A3 G |"Dm7" AcBA-"G9" A3 G | %15
+"C6" AcAG"F9" AcAc- |"C6" c3 e- egec ||$"Eb" _B _e2 z"Cm7" e3 c |"Fm7" f2 f2"Bb7b9" f g2 _e- | %19
+"Eb6" e3 c-"C+7" c3 c- |"F9" c3 c-"Bb9#5" c3 c |$"Gb" _d _g2 z"Ebm7" g3 _e | %22
+"Abm7" _a2 a2"Db7b9" a _b2 _g- |"Gb6" g4-"C" g3 _g- |"G13" g =g3- g3 =G ||$"C6" Ac B2 A3 G | %26
+ AcBA- A3 G |"F9" Ac B2 A3 G | AcBA- A3 G |$"D9" Ac B2 A3 G |"Dm7" AcBA-"G9" A3 G | %31
+"C6" AcAG"F9" AcAc- |"C6" c4- c z z2 |] %33
+

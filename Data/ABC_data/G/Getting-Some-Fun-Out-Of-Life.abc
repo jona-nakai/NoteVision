@@ -1,0 +1,16 @@
+X:1
+T:Getting Some Fun Out Of Life
+C:1937 - E. Leslie / J. Burke
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ G/^F/G/F/ |:"C" G3 G | E z"C#dim" G/^F/G/F/ |"Dm7" G3 G |"G7" F z A/_A/=A/_A/ |$ %5
+"Dm7" =A F2"G7" D |"Em7" G E2"A7" z |"Dm7" z E"G7" E/E/ E |1"C" C2"G7" G/^F/G/F/ :|2"C" C3 z ||$ %10
+"C9" C D2 C | A c A A/G/ |"F6" G/ G G G F/- | F3 z |$"D7" z2 E/E/ E | A3 z |"Dm7" E/_E/ =E E E | %17
+"G7" D2"G7#5" G/^F/G/F/ ||$"C" G3 G | E z"C#dim" G/^F/G/F/ |"Dm7" G3 G |"G7" F z A/_A/ =A |$ %22
+"Dm7" A F2"G7" D |"Em7" G E2"A7" z |"Dm7" z E"G7" E/E/ E |"C" C3 z |] %26
+

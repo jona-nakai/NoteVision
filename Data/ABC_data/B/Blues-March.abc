@@ -1,0 +1,15 @@
+X:1
+T:Blues March
+C:1958 - Benny Golson
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm=" " snm=" "
+V:1
+ F |:"Bb7" B4 dB z B |"Eb7" _d4 ed z F |"Bb7" B6 =d>d | B4 _A2 z F |$ %5
+"Eb7" B>B _d>d"Ab7" (3e=e_e (3dBd |"Db7" B>B _A>A"Gb7" (3_G_EG _DE |"Gm7b5" F4"Ab7" z F (3_AFA | %8
+"A7" _G4"Bb7" z G B>_d |$"Cm7b5" B2- (3B_A_G B2- (3BAG |"F7" =A2 f>f (3ecA FE |"Bb7" DB- B6-"Db7" | %12
+"Gb7" B6"B7" z F :| %13
+

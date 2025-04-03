@@ -1,0 +1,18 @@
+X:1
+T:Chicago
+C:Fred Fisher
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+ e2 |:"Eb" d3 c- c2 e2 |"Gbdim" d3 c- c2 G2 |"Fm7" AGFB-"Bb7" B2 z2 |"Fm7" AGFB-"Bb7" B2 A2 |$ %5
+"Fm7" G3 F- F2 A2 |"Bb7" G3 F- F2 D2 |"Eb" EDCE- E4 |"Eb" z G3"Bb7" G2 F2 |$"Eb" EFGA B c2 B | %10
+ d2 Bc- cB d2 |"F7" G3 F- F2 c2 | G3 F- F3 G |$"Fm7" A2 B2"Bb7" G F3 |"Fm7" A B2 A"Bb7" G2 F2 | %15
+"Eb" B8-"Gbdim" |"Fm7" B6"Bb7" e2 ||$"Eb" d3 c- c2 e2 |"Gbdim" d3 c- c2 G2 | %19
+"Fm7" AGFB-"Bb7" B2 z2 |"Fm7" AGFB-"Bb7" B2 A2 |$"Fm6" G3 F- F2 A2 |"G7" G2 G2 F2 G2 |"Cm7" E8 | %24
+"C7" =E8 |$"Fm" G F2 G F2 GF- |"Abm" FG F2 F2 z2 |"Eb" c B2 c B2 cB- |"Gbdim" Bc B2 B2 ee |$ %29
+"Fm7" d3 c- c2 e2 |"Bb7" d2 d2 c2 d2 |"Eb" e8-"Ebdim" |"Fm7" e6"Bb7" z2 |] %33
+

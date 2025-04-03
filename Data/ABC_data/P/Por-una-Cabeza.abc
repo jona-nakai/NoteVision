@@ -1,0 +1,18 @@
+X:1
+T:Por una Cabeza
+C:1935 -Carlos Gardel / Alfredo Le Pera
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm=" " snm=" "
+V:1
+ Bc^cd ||"G" ed z2 ^cdef | ag z2 B=cAB |"G" GAFG F3"Gdim" D |"Am" C4 cBdc |$"Am" A4 A^G"Ebdim7"BA | %6
+"D" F2 z2 ^F=G^GA |"D7" BAFD ^DFEC |"G" B,2 z2 Bc^c=d ||$"G" ed z2 ^cdef | ag z2 gabg | %11
+"F/G" agab"G7" a3 g |"C" e4 agec |$"Cm" BABc _eg=fe |"G" g2 d2 gabg |"A7" a4"D7" fgaf | %16
+"G" g2 z D .G2 .D2 ||$[K:Gmin]"Gm" G,2 B2 (3B2 c2 d2 |"Dm" d4 A4 |"Eb" z2 G2 (3G2 A2 B2 | %20
+"Bb" B4 F4 |$"Cm" z2 E2 (3E2 F2 G2 |"Gm/Bb" G4 GA"Gm/D"BG |"A7/E" A4 GABG |"A7b9/Eb" B4"D7" A4 ||$ %25
+"Gm" z2 B2 (3B2 c2 d2 |"Dm" d4 A4 |"Eb" z2 G2 (3G2 A2 B2 |"Bb" B4 F4 |$"Cm" z2 E2 (3E2 F2 G2 | %30
+"Gm" G2 D2 GABG |"A7" A4"D7" ^FGAF |"G" G4 z4 |] %33
+

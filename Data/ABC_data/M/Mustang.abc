@@ -1,0 +1,17 @@
+X:1
+T:Mustang
+C:Gennadiy Bondarev
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:2/2
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+"^A""F6" c z/ c/ =B/B/ c | =B c/ d c/ z | c z/ c/ =B/B/ c | =B c/ d c/ z |$"F" f z z c | %5
+"Am" d c"Abdim" c =B |"Gm" _B2 z2 | z4 |$"Gm" d z/ d/ ^c/c/ d | ^c d/ e d/ z | d z/ d/ ^c/c/ d | %11
+ ^c d/ e d/ z |$"C7" e z z c | e d d _d |"F" c2 z2 | z4 ||$"^B""F6" c z/ c/ =B/B/ c | %17
+ =B c/ d c/ z | c z/ c/ =B/B/ c | =B c/ d c/ z |$"A7" e2 z2 | z g f e |"Bb" d2 z2 | z4 |$ %24
+"Bb" d z/ d/ ^c/c/ d |"Bdim" ^c d/ e d/ z |"F" =c z/ c/ =B/B/ c |"D7" =B c/ d c/ z |$ %28
+"Gm7" e z z d |"C7" c B A G |"F6" F2 z2 | z4 |] %32
+

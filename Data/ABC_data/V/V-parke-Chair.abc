@@ -1,0 +1,16 @@
+X:1
+T:Ð Ð¿Ð°ÑÐºÐµ Ð§Ð°Ð¸Ñ
+C:1938 - Ð. ÐÐ¸ÑÑÐ¾Ð² / Ð. ÐÑÑÐºÐ¸Ð¹
+Z:www.realbook.site
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+|:"C" (3G A c e2 | (3z c A (3G A c |"D9" e2 ^F2 | z4 |$"G9" (3A d B A2 | (3z d B (3A G A | %6
+"C" E2 z2 | z4 |$"C" (3E F ^F G2 | (3z A B (3c B c |"D9" e2 d2 | z4 |$"C" (3c A G (3A c e | %13
+"G7" d A2 B |"C" c2 z2 | z4 ||$"Am" (3A G F E E | (3z A c (3A c A |"Dm6" c2 B2 | z4 |$ %20
+"E7" (3d B A ^G G | (3z B c (3d e f |"Am" e2 z2 | z4 |$"A7" (3A e ^c A A | z A (3e ^c A | %26
+"Dm" G2 F2 | z4 |$"Am6" (3e c A ^F F |"E7" z ^F (3^G e c |"Am" A2 z2 |"Dm" z4"G7" :| %32
+

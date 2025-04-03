@@ -1,0 +1,24 @@
+X:1
+T:Vals rasstavania
+C:1965 - Yan Frenkel / K. Vanshenkin
+Z:www.realbook.site
+%%score ( 1 2 )
+L:1/4
+M:3/4
+I:linebreak $
+K:Emin
+V:1 treble nm=" " snm=" "
+V:2 treble 
+V:1
+"Em" B, G F |"Em/G" E F G |"Am/F#" B A E |"Am6/C" F3 |"Am" C A G |"Am6/C" F A G |"B7" F E F | %7
+"Em" G3 |$"Em" [GB] [GB] [GB] |"Em/D" [GB] [GB] [GB] |"Am/C" [GB] A B |"Am" [Ac]3 | %12
+"D7" [FA] [FA] [FA] |"D7" [FA] [FA] [FA] |"G" [FA] G A | [GB]3 |$"Am" A3 | C2 A |"Em" G3 | B,3 | %20
+"C7" G F E |"B7" ^D E F |$"Em" E3- | E z z |"Em" E3- | E .G/.F/ .G/.A/ ||$"Em" .B z .[eg] | %27
+ z .[eg] z/ .g/ |"Am" .f z c | z (F/G/) .F/.G/ |$"B7" .A z .f | z .f z/ .f/ |"Em" .e z .B | %33
+ z .G/.F/ .G/.A/ |$"Em" .B z .e | z .B z/ .e/ |"Am" .d z .c | z d/c/ A/F/ |$"Em/B" B3/2 G/ E/B,/ | %39
+"B7" G2 F |"Em" E3- | E z z |] %42
+V:2
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | %19
+ x3 | x3 | x3 |$ z C B, | A, G, F, | x3 | x3 ||$ x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 |$ x3 | %35
+ x3 | x3 | x3 |$ x3 | x3 | x3 | x3 |] %42
+

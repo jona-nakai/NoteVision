@@ -1,0 +1,22 @@
+X:1
+T:Jeeves & Wooster
+C:Anne Dudley
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:2/2
+I:linebreak $
+K:D
+V:1 treble nm=" " snm=" "
+V:1
+[I:repeat 1 4]"Em" z4"F#dim" |"Em/G" z4"F#dim" |"Em" z4"F#dim" |"Em/G" z4"F#dim" |:$ %4
+"Em" B3"F#dim" E |"Em/G" G F"F#dim" E =C/B,/- |"Em" B,4-"F#dim" |"Em/G" B,4"F#dim" |$ %8
+"Em" B3"F#dim" E |"Em/G" G F"F#dim" E =c/B/- |"Em" B4-"F#dim7" |"Em/G" B4"E7/G#" |$ %12
+"Am" =c3"C7/Bb" E |"Em/B" G2"B" F z |"Em" B3"F#dim" E |"Gmaj7" F2"E/G#" E z |$"Am" A3 E | %17
+"F#7/A#" G F ^E F/B/- |"B7" B4-"B7/A" |"Em/G" B4"B7/F#" |:$[K:Ab]"Fm" c =E"Gdim" F G | %21
+"Fm/Ab" A G"Gdim" F D/C/- |"Fm" C4-"Gdim" |"Fm/Ab" C4"Gdim" |$"Fm" c =E"Gdim" F G | %25
+"Fm/Ab" A G"Gdim" F d/c/- |"Fm" c4-"Gdim" |"Fm/Ab" c4"F7/A" |$"Bbm" d3"Db7/B" F | %29
+"Fm/C" A2"C" (3G A B |"Fm" c3"Gdim" F |"Abmaj7" G3/2 F/"F7/A" z2 |$"Bbm" B3 B | %33
+"G7/B" A G ^F/=G/ z |"C" c4-"C7/Bb" |"Fm/Ab" c4"C7/G" |$"Bbm" d d2"Db/Cb" F | %37
+"C7#5" A/G/A/G/-"C/Bb" G2 |"Fm" c c2"Gm7b5" F |"Fm" G/F/G/F/-"F7/A" F2 |$"Bbm" B4 |"C7" c4 | %42
+"Fm" F G A B |"C7" c =e f g |"Fm" a z"C7" c' z |"Fm" !>!f' z z2 |] %46
+

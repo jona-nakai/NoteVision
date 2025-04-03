@@ -1,0 +1,18 @@
+X:1
+T:Five Brothers
+C:Gerry Mulligan
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ c |:"C" BcBc G2 E2 |"Dm" A2 FD"G7" z2 z G |"C" ^FGFG E2 C2 |"Dm7" =F2 DB,"G7" z2 CA, |$ %5
+"Gm7" (3_B,2 A2 A2"C7" (3A2 G2 E2 |"F" C3 G-"Bb7" G F3 |1"C" z E Gc-"Eb7" c _B2 G |$ %8
+"Dm7" ^GAFD"G7" =G F2 c :|2"Dm7" z ^D (3EGA"Db7" _BA_AG- ||"C" G4"B7" =B3 =A ||$"E" ^G8- | %12
+"Fm7" G4"Bb7" ^A^G=GF |"Eb" G8- |"Em7" G4"A7" A3 G |$"D" ^F8- |"Ebm7" F4"Ab7" ^G^F=F_E |"Db" F8 | %18
+"Dm7" z E (3F^FG"Db7" _A2 z c ||$"C" BcBc G2 E2 |"Dm7" A2 FD"G7" z2 z G |"C" ^FGFG E2 C2 | %22
+"Dm7" =F2 DB,"G7" z2 CA, |$"Gm7" (3_B,2 A2 A2"C7" (3A2 G2 E2 |"F" C3 G-"Bb7" G F3 | %25
+"Dm7" z ^D (3EGA"Db7" _BA_AG- |"C" G6 z2 |] %27
+

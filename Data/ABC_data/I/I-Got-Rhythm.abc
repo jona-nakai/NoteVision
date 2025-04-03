@@ -1,0 +1,17 @@
+X:1
+T:I Got Rhythm
+C:1930 - George Gershwin / Ira Gershwin
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm=" " snm=" "
+V:1
+|:"Bb" z2 F2-"Bdim" F G3 |"Cm7" B3 c-"F7" c4 |"Bb" z2 c2-"Bdim" c B3 |"Cm7" G3 F-"F7" F4 |$ %4
+"Bb" z2 F2-"Bb9" F G3 |"Eb" B3 c- c"Edim" e2 c |"Bb" d2 d2"F7" cd c2 |"Bb" B4- B2 z2 :|$ %8
+"D7" z2 d2- d d3 | d3 =e- e4 |"G7" z2 d2- d d3 | d3 G- G4 |$"C7" z2 c2- c c3 | c3 d- d4 | %14
+"F7" z2 c2- c c3 | c8 ||$"Bb" z2 F2-"Bdim" F G3 |"Cm7" B3 c-"F7" c4 |"Bb" z2 c2-"Bdim" c B3 | %19
+"Cm7" G3 F-"F9" F4 |$"Bb" z2 F2-"Bb9" F G3 |"Eb" B3 c-"Edim" c e2 c |"Bb" d2 d2"Fm" cd e2 | %23
+"G7" f4- f2 ec |"C7" d2 d2"F7" cd c2 |"Bb" B8 |] %26
+

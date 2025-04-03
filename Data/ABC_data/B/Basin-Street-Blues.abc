@@ -1,0 +1,19 @@
+X:1
+T:Basin Street Blues
+C:S. Williams
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm=" " snm=" "
+V:1
+"F7" FF |:"Bb" DD"Cm7"EE"C#dim7" =E"Bb/D" F3 |"Bb" DD"Cm7"_EE"C#dim7" =E"Bb/D" F3 |$ %3
+"Bb/D" BB"Dbm6"_AG"Cm7" F"F7" G3 |"Bb/D" BB"Dbm6"_AG"Cm7" F"F7" G3 |$"Bb" F B2 F"Bb7/D" B2 FF | %6
+"Eb7" B B2 c-"Edim7" c4 |"Bb/F" B2 _AG FDE=E |1$"F13" F D2 B,-"Bb" B,2"F7#5" (3F=E_E :|2 %9
+ F"F943"B"F7#5" (3_dcB-"Bb6" B2"F13" F2 ||$"Bb" =D2 DD- D4 |"D7" D D2 D- D4 |"G9" D A2 D- D3 D | %13
+ A A2 G- G2 D2 |$"C9" D D2 D- D4 |"F13" D F2 D- D2"F7#5" F2 |"Bb/D" ccBB"Dbdim7" AAGG | %17
+"Cm7" BBAA"F7" GG F2 |$"Bb" D D2 D- D4 |"D7" A A2 ^F- F2 D2 |"G9" D A2 G- G4 | %21
+"Ab7" E E2"G7" D- D2 D2 |$"C133" D A2 G- G4 |"F133" z2 D2"F7b9" FDC"Bb"B,- | B,8"Eb""Ebm" | %25
+"Bb" z8 |] %26
+

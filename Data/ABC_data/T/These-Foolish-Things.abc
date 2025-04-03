@@ -1,0 +1,18 @@
+X:1
+T:These Foolish Things
+C:1935 - Jack Strachey / Harry Link / Eric Maschwitz
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+|:"Eb" z E FG"Cm" FECE |"Fm7" G2 G2"Bb7" G F3 |"Eb" z E FG"Cm7" FECE |"F9" c2 c2"Bb7" c B3 |$ %4
+"Bbm7" z B cB"Eb9" e2 ee- |"Abmaj7" e4"C7" (3G2 A2 B2 |1"F9" c3 C (3C2 E2 G2 |"Fm7" F8"Bb7" :|2 %8
+"F9" c3 C"Bb7" (3D2 E2 F2 ||"Eb" E8"D7" ||$"Gm" z2 B2"Em7b5" G4 |"Am7b5" z2 c2"D7" =A4 | %12
+"Gm" z2 B2 c2 d2 |"C7" d8 |$"Bbmaj7" z2 d2"Gm7" c2 B2 |"Cm7" cd c4"F7" F2 | %16
+"Gm7" B2 B2"C7b9" B2 =A2 |"Fm7" _AB"Bb7" A6 ||$"Eb" z E FG"Cm" FECE |"Fm7" G2 G2"Bb7" G F3 | %20
+"Eb" z E FG"Cm7" FECE |"F9" c2 c2"Bb7" c B3 |$"Bbm7" z B cB"Eb9" (3e2 e2 e2 | %23
+"Ab" g4"C7" (3G2 A2 B2 |"F9" c3 C"Bb7" (3D2 E2 F2 |"Eb" E6 z2 |] %26
+

@@ -1,0 +1,19 @@
+X:1
+T:Poinciana
+C:1936 - Nat Simon / Buddy Bernier
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm=" " snm=" "
+V:1
+"G/D" d8- | d4"Am7/D" c2 e2 |"G/D" d8- | d4"Am7/D" c2 e2 |$"G/D" d8- | d4"D7" c2 A2 |"G" G8 |1 %7
+ z8 :|2"G" z4"D7" d3 B |:$"Gmaj7" A4 A4- | AGAB dBAG |"Dm7" =F8- |"G7" F8 |$"Cm7" _E4 E4- | %14
+ E_E=FG _BGFE |"G" D8- |1"G" D4"D7" d3 B :|2"G" D4- D2 z2 ||$"Am7b5" _E=FGA _B2 A2 | %19
+"Eb7" c3 _B AG^FG |"Am7" A8- |"D7" A4 z4 |$"Am7b5" _E=FGA _B2 A2 |"Eb" c3 _B AG^FG |"Am7" d8- | %25
+"D7" d4 d3 B |:$"Gmaj7" A4 A4- | AGAB dBAG |"Dm7" =F8- |"G7" F8 |$"Cm7" _E4 E4- | E_E=FG _BGFE |1 %32
+"G" D2 z2"E7" z4 |"Am7" z4"D7" d3 B :|2"G" D8 || z8 |:$"G/D" d8- | d4"Am7/D" c2 e2 |"G/D" d8- | %39
+ d4"Am7/D" c2 e2 |$"G/D" d8- |1"D7" d4 c2 A2 |"G" G8- | G8 :|2"D7" d4 d2 d2 ||"G" d8- | d8- | %47
+ d2 z2 z4 |] %48
+

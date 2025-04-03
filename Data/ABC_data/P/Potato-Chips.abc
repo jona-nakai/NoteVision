@@ -1,0 +1,19 @@
+X:1
+T:Potato Chips
+C:Slim Gaillard
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm=" " snm=" "
+V:1
+ GGG ||"G6" G2 z _B-"Gdim" B B2 B- |"Am7" B _B2 B-"D7" BGGG |"G6" G2 z _B-"Gdim" B B2 B- | %4
+"Am7" B _B2 B"D7" z4 |$"G6" =B2 z B- BB B2 |"F9" c c2 c"E9" z2 BB |"A7" B2 BG"D13" B B2 G- | %8
+"G6" G2 z2"D7" z G GG ||$"G6" G2 z E-"Gdim" E G2 B- |"Am7" B d2 D-"D7" DGGG | %11
+"G6" G2 z _B-"Gdim" B B2 B- |"Am7" B _B2 B"D7" z4 |$"G9" _B2 z B- BG =B2 |"F9" c c2 B-"E9" B z BB | %15
+"A7" B B2 E"D13" B B2 G- |"G6" G2 z2 z2 B2 ||$"B7" B ^G3 B2 G2 | F4 z2 z B |"E9" B B2 B2 ^G2 G | %20
+ FF ^C2 z4 |$"A7" z4 A2 AA | A E2 A A2 z2 |"D7" G"^(break-spoken)"G G2 G G2 G- | G2 z2 z G GG ||$ %25
+"G6" G2 z2"Gdim" z2 _BG |"Am7" =BE- E2"D7" z G GG |"G6" G2 z2"Gdim" z2 _BG |"Am7" =BE- E2"D7" z4 |$ %29
+"G6" B2 B2 B2 d^c |"F9" =c c2 B-"E9" B z BB |"A7" B2 EE"D7" B B2 G- |"G6" G4 z4 |] %33
+

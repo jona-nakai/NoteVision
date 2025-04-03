@@ -1,0 +1,20 @@
+X:1
+T:SÐÑ DanÐÂ§o Samba
+C:1962 - Antonio Carlos Jobim / Vinicius DeMoraes
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+U:s=!stemless!
+V:1 treble nm=" " snm=" "
+V:1
+"C" sB2 sB2 sB2 sB2 |"Dm7/G" sB2 sB2"G7" sB2 sB2 |"C" sB2 sB2 sB2 sB2 | %3
+"Dm7/G" sB2 sB2"G7" sB2 z G ||$"C" AGAA z G AG |"A7#5" AA z2 z4 |"D7" (3z2 e2 _e2 (3d2 B2 A2- | %7
+ A6 z G |$"Dm7" AGAA z G AG |"G7" AA z2 z2"Cmaj7" c2- | c8- |"Dm7/G" c2 z2"G7" z2 z G ||$ %12
+"C" AGAA z G AG |"A7#5" AA z2 z4 |"D7" (3z2 e2 _e2 (3d2 B2 A2- | A6 z G |$"Dm7" AGAA z G AG | %17
+"G7" AA z2 z2"C" c2- | c8- | c2 z2 z4 ||$"Gm7" D D2 D- D D2"C7" A- | A A2 _A- A E2"F6" D- | D8- | %23
+ D4 z4 |$"Am7" E E2 E- E D3 |"D7" B _B2 A- A2 DD |"Dm7" G2 G_G FE D2- |"G7" D z z2 z2 z =G ||$ %28
+"C" A2 GA- A A2 G |"A7#5" A2 GA- A A3 |"D7" (3z2 e2 _e2 (3d2 B2 A2- | A6 z G |$ %32
+"Dm7" A2 GA- A A2 G |"G7" A2 GA- A A3 |"C" z2 c6- |"Dm7/G" c z z2"G7" z4 |] %36
+

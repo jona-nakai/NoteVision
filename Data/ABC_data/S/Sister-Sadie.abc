@@ -1,0 +1,17 @@
+X:1
+T:Sister Sadie
+C:1959 - Horace Silver
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm=" " snm=" "
+V:1
+|:"G7" z .G2 ^A Bded | g3 _b z4"Ab7" |"G7" z .G2 ^A =Bded | g3 e z4"Ab7" |$"G7" z .G2 ^A Bded | %5
+ e' _b3 .g2"Ab7" z g |"G7" ^a=bab g=fdc | (3dc_B G=F G2"Ab7" z2 :|$"C7" z4 z .G2 _B | %9
+ (3dc_B G=F G4- |"G7" G2 z2 z .d2 =f | (3ag=f dc d4- |$"C7" d2 z2 z .G2 _B |"Bb7" (3dc_B G=F G4- | %14
+"A7" G2 z2 z .D2 =F |"Ab7" (3AG=F DC- C2 z2 ||$"G7" z .G2 ^A Bded | g3 _b z4"Ab7" | %18
+"G7" z .G2 ^A =Bded | g3 e z4"Ab7" |$"G7" z .G2 ^A Bded | e' _b3 .g2"Ab7" z g |"G7" ^a=bab g=fdc | %23
+ (3dc_B G=F G2"Ab7" z2 |] %24
+

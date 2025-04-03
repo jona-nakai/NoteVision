@@ -1,0 +1,18 @@
+X:1
+T:Offshore
+C:Booker Little
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble nm=" " snm=" "
+V:1
+ E2 |:"Abmaj7" G4- GCEG |"Gbmaj7" FD- D4 E2 |"Abmaj7" G4- GCEG |"Db9#11" AF- F4 D2 |$ %5
+"Gbmaj7" B4 (3D2 _G2 B2 |"E9#11" ^G=E- E2- E^FE_E- |1"Bbm7" E2 EE E2 EE- |"Eb7" E6 E2 :|2 %9
+"Bbm7" E2 EE"Eb7" E2 FA- ||"Abmaj7" A6"Ab7b9#9b5#5" A2 ||$"Bbm" e3 d (3e2 d2 e2 | %12
+"Ab7b9#9b5#5" =e2 =A4 _A2 |"Dbm7" _eded"Gb7" A2 Bc- |"Abmaj7" c6 A2 |$"Dbm7" e3 d"Gb7" (3e2 d2 e2 | %16
+"Abmaj7" cc- c2- cAB=B- |"Bm7" B3 =E-"E7" E4 |"Bbm7" c3 F-"Eb7" F2 _EG- ||$"Abmaj7" G4- GCEG | %20
+"Gbmaj7" FD- D4 E2 |"Abmaj7" G4- GCEG |"Db9#11" AF- F4 D2 |$"Gbmaj7" B4 (3D2 _G2 B2 | %24
+"E9#11" ^G=E- E2- E^FE_E- |"Bbm7" E2 EE"Eb7" E2 =FA- |"Abmaj7" A8 |] %27
+

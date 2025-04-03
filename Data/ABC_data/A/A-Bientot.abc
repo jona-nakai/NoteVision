@@ -1,0 +1,34 @@
+X:1
+T:A Bientot
+C:1988 - Billy Taylor
+Z:www.realbook.site
+%%score ( 1 2 )
+L:1/4
+Q:1/4=144
+M:4/4
+I:linebreak $
+K:Cmin
+U:s=!stemless!
+V:1 treble nm=" " snm=" "
+V:2 treble 
+L:1/8
+V:1
+"Cm7" B2"Dm7/G" B3/2 B/- | sB sB sB sB |[I:repeat 2 2] z4 | z4 |$ z4 | z4 | %6
+"Cm7" B2"Dm7/G" B3/2 B/- | sB sB (3c e g |:$"Cm7" f4-"B7#9" |"Bbm7" f2"A7b5" e2 | %10
+"Abmaj7" c4-"D7b5" |"Dm7/G" c2"Dbmaj7b5" (3c e g |$"Cm7" f4- |"F7b5" f2 e2 |"Bbm7" c'4- | %15
+"A7#9" c'2 (3e g c' ||$"Abmaj7" (3b2 a2 g2 |"Am7b5" (3f2 g2 a2 |"D7#9" (3b2 a2 g2 | %19
+"G7b5" f3/2 g/ (3G B d |1$"Cm6" c4- |"Am7b5" c4- |"D7#9" c4 |"G7b5" z2 (3c e g :|2$"Cm7" c4- | %25
+"F7" c4- |"Cm7" c4 |"G7b5" z2 (3c e g ||$"Fm7" b3 g |"F#7" b3 c |"Fm7" (3g a b g2- | %31
+"Bb7b9" g2- (3g f e |$"Ebmaj7" d3 c |"Abmaj7b5" d3 c |"Gm7" d4- |"F#7b9" d2 (3c e g ||$"Fm7" b3 g | %37
+"F#7" b3 c |"Fm7" (3g a b g2- |"Bb7b9" g2- (3g f e |$"Ebmaj7" d3 c |"Abmaj7" b2- (3b a b | %42
+"Dm7/G" g4- |"G7#9" g z (3c e g ||$"Cm7" f4-"B7#9" |"Bbm7" f2"A7b5" e2 |"Abmaj7" c4-"D7b5" | %47
+"Dm7/G" c2"Dbmaj7b5" (3c e g |$"Cm7" f4- |"F7b5" f2 e2 |"Bbm7" c'4- |"A7#9" c'2 (3e g c' ||$ %52
+"Abmaj7" (3b2 a2 g2 |"Am7b5" (3f2 g2 a2 |"D7#9" (3b2 a2 g2 |"G7#9" f3/2 g/ (3G B d |$ %56
+"Cm7" c4-"Dm7/G" | c4- |"Cm7" c4"Dm7/G" | sB sB sB sB |$"Cm7" sB sB"Dm7/G" B3/2 B/- | sB sB sB sB | %62
+"Cm7" sB sB"Dm7/G" B3/2 B/- | sB sB sB"^to solos" sB |] %64
+V:2
+ x8 | x8 |[I:repeat 2 2] x8 | x8 |$ x8 | x8 | x8 | x8 |:$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | %15
+ x8 ||$ x8 | x8 | x8 | x8 |1$ x8 | x8 | x8 | x8 :|2$ x8 | x8 | x8 | x8 ||$ x8 | x8 | x8 | x8 |$ %32
+ x8 | x8 | x8 | x8 ||$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 ||$ x8 | x8 | x8 | x8 |$ x8 | x8 | %50
+ x8 | x8 ||$ x8 | x8 | x8 | x8 |$ z4 F3 F- | z4 F3 F- | x8 | x8 |$ x8 | x8 | x8 | x8 |] %64
+

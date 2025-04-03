@@ -1,0 +1,17 @@
+X:1
+T:Sometime Ago
+C:1962 - Sergio Mihanovitch
+Z:www.realbook.site
+L:1/4
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+"Cmaj7" G B d |"G7" F2 A/c/ |"Cmaj7" G B d |"G7" F2 E/F/ |$"Cmaj7" G B d |"G7" F A3/2 c/ | %6
+"Em7b5" _B d f |"A7" A3 |$"Dm7" A a g |"G7" f e d |"E7" e2 e/g/ |"Am7" c3 |$"D7" A- A/e/- e | %13
+ d/ c B A/ |"Ebm7" _B- B/"Ab7"f/- f |"Dm7" A2"G7" E/F/ ||$"Cmaj7" G B d |"G7" F2 A/c/ | %18
+"Cmaj7" G B d |"G7" F2 E/F/ |$"Cmaj7" G B d |"G7" F A3/2 c/ |"Em7b5" _B d f |"A7" A3 |$ %24
+"Dm7" A a3/2 g/ |"G7" f/ e d/- d |"Em7" B3/2 b/ a |"A7" g f e |$"Dm7" g2 f/e/ |"G7" f/ e c d/ | %30
+"Bb7" e3- |"A7" e2 e |$"Dm7" g- g/f/- f/e/ |"G7" f/ e c d/ |"C" c3 |"Dm7" z3"G7" |] %36
+

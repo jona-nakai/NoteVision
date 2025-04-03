@@ -1,0 +1,16 @@
+X:1
+T:Love Walked In
+C:1930 - George Gershwin / Ira Gershwin
+Z:www.realbook.site
+L:1/4
+M:2/2
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+"Eb6" G4 | B, E G B |"F7" =A A A/G/ A |"Bb7" B4 |$"Eb6" G4 |"Cm7" B, E G B |"F7" c c c/B/ c | %7
+"Bb7" d4 |$"Eb6" e4 | E G B"Eb7#5" e |"Ab6" d d d/c/ d |"C7#5" c4 |$"Fm" z B"C7" B/A/ B |"Fm" A4 | %14
+"Bb7" z G A B |"F9" =B c"Bb7" E F |$"Eb6" G4 | B, E G B |"F7" =A A A/G/ A |"Bb7" B4 |$"Eb6" G4 | %21
+"Cm7" B, E G B |"F7" c c c/B/ c |"Bb7" d4 |$"Eb6" e4 | E G B"Eb7#5" e |"Ab6" f2"Abmaj7" e2 | %27
+"Fm7" d c"Abm6" B A |$"Eb6" G3"C7b9" G |"Fm7" B A"Bb7" G F |"Eb6" E4-"Gb""Bb9" |"Eb6" E z z2 |] %32
+

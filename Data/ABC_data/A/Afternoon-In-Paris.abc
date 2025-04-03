@@ -1,0 +1,17 @@
+X:1
+T:Afternoon In Paris
+C:1949 - John Lewis
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ eg |:"C" z d2 c Bc de |"Cm7" _eG _Bd"F7" c2 df | z"Bb" c2 _B AB cd |"Bbm7" _dF _Ac"Eb7" _B2 c_e |$ %5
+"Ab" z c _A_E G_B AF- |"Dm7b5" F4"G7" (3G2 F2 G2 |1"C" EG Bd"Am7" cd eg | %8
+ f"Dm7" A ce"G7" d2 eg :|2$"C" E8 || z4 A2 B2 || c6"Dm7" d2 |"G7" e6 d2 |"C" c6 e2 |"Am7" A6 B2 |$ %15
+"Dm7" c6 d2 |"G7" e6 d2 |"Dm7" e8 |"G7" f6 eg ||$ z"C" d2 c Bc de |"Cm7" _e G _Bd"F7" c2 df | %21
+"Bb" z c2 _B AB cd |"Bbm7" _d F _Ac"Eb7" _B2 c_e |$"Ab" z c _A_E G_B AF- | %24
+"Dm7b5" F4"G7" (3G2 F2 G2 |"C" E8"Am7" |"Dm7" z8"G7" |] %27
+

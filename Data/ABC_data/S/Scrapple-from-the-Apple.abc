@@ -1,0 +1,19 @@
+X:1
+T:Scrapple From The Apple
+C:1947 - Charlie Parker
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+U:s=!stemless!
+V:1 treble nm=" " snm=" "
+V:1
+"Gm7" z ^F GB AG=FD |"C7" Ec z2 z B2 A |"Gm7" Bf (3dBG AFG_D- |"C7" D2 z A- A B2 A |$ %4
+"Fmaj7" cA (3GFG- G2 z f |"Gm7" d2 z2"C7" ed (3AB=B |"Fmaj7" c3 A"Gm7" _BA^GA |1 %7
+"Am7" cABc"D7" z4 :|2"F" FCEF z4 ||$"A7" sB2 sB2 sB2 sB2 | sB2 sB2 sB2 sB2 |"D7" sB2 sB2 sB2 sB2 | %12
+ sB2 sB2 sB2 sB2 |$"G7" sB2 sB2 sB2 sB2 | sB2 sB2 sB2 sB2 |"C7" sB2 sB2 sB2 sB2 | %16
+ sB2 sB2 sB2 sB2 ||$"Gm7" z ^F GB AG=FD |"C7" Ec z2 z B2 A |"Gm7" Bf (3dBG AFG_D- | %20
+"C7" D2 z A- A B2 A |$"Fmaj7" cA (3GFG- G2 z f |"Gm7" d2 z2 ed (3AB=B |"C7" c3 A _BA^GA | %24
+"F" FCEF z4 |] %25
+

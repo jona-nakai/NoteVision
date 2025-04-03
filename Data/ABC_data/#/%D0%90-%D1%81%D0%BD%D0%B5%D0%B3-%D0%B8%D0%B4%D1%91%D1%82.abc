@@ -1,0 +1,14 @@
+X:1
+T:Ð ÑÐ½ÐµÐ³ Ð¸Ð´ÑÑ
+C:1961 - ÐÐ½Ð´ÑÐµÐ¹ Ð­ÑÐ¿Ð°Ð¹ / ÐÐ²Ð³ÐµÐ½Ð¸Ð¹ ÐÐ²ÑÑÑÐµÐ½ÐºÐ¾
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:Dmin
+V:1 treble nm=" " snm=" "
+V:1
+ A, |:"Dmaj" E3 D |"Dm6" F3 D |"Gm7" A B"Em7b5" G2- | G2"A7" z A, |$"Dmaj" E3"Dm" D |"Dm6" F3 D | %7
+"Am7b5" c d"Cm/D" A2- | A2"D7" z c |$"Gm7" B2 D2 |"C7" E2 B2 |"Fmaj7" A2 c D- |"Bb7" D2 z F | %13
+"E7" E3 F |1$"Gm6" D2 E2 |"A7" A4- | A2 z A, :|2"Gm/A" D2"A7" E2 ||"Dm" D4- | D2 z2 |] %20
+

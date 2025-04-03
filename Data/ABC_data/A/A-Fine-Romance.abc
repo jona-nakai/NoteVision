@@ -1,0 +1,15 @@
+X:1
+T:A Fine Romance
+C:1936 - Jerome Kern / Dorothy Fields
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ E |:"C" C4 |"C#dim7" A G2 A |"Dm6" B,4 |"D#dim7" B A2 B |$"Em7" E4 |"Am7" d c2 E |"Dm7" G4 | %8
+"G7" e d2 G |1$"C" c B c d ||"Ebdim7" (3c B _B A _A |"Dm7" G2 G2- |"G7" G3 G |$"Em7" A ^G A B | %14
+"A7" (3A _A =G _G F |"D7" E2 E2- |"G7" E3 E :|2$"C" c B c d ||"C7" (3e d c B _B |"F" A4 | %20
+"F#m7b5" (3c B _B"B7" A _A |$"Em7" G4"A7" |"Dm7" (3B A _A"G7" G d |"C" c4- | c2 z2 |] %25
+

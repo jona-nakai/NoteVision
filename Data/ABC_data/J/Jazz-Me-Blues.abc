@@ -1,0 +1,18 @@
+X:1
+T:Jazz Me Blues
+C:1921 - Tom Delaney
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+|:"Eb" G^FGB cBGE | G A2 B- B2 B,2 | G^FGA B=AB=B |"F7" c =F2 F-"Bb7" F2 _B,2 |$"Eb" G^FGB cBGE | %5
+ G A2 B- B2 cd | e=BcB _BGFE |1"F7" F"Bb7" G2 E-"Eb" E2"Bb7" _B,2 :|2 %8
+"F7" F"Bb7" G2 E-"Eb" E2 z2 ||$"Bb7" B B2 B- BF B2 |"Bbdim7" B B2 B- BG B2 | %11
+"Bb7" d2 _d2"F7" c2 F2 |"Bb7" B4"G7" =B4 |:$"C7" c3 G- G4 | z =B cB cBcB |"F7" c3 F- F4 | %16
+ c3 F- F2 F2 |$"Bb7" BBcF BBcF | B c2 B- Bccd |"Eb" e2 cB cB G2 | F G2 B- B=AB=B |$"C7" c3 G- G4 | %22
+ z =B cB cBcB |"F7" c3 F- F4 | c3 F- F2 z2 |$"Eb" z G GG G4 |"G7" z G GG G4 |"Cm" GFGF GFGF | %28
+"C7" B B2 B- B=AB=B |$"F7" c2 c2 c2 c2 |"Bb7" c d2 c- c2 B2 |"Eb" e8- | e4 z4 |] %33
+

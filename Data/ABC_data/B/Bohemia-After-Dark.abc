@@ -1,0 +1,17 @@
+X:1
+T:Bohemia After Dark
+C:1955 - Oscar Pettiford
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Gmin
+V:1 treble nm=" " snm=" "
+V:1
+|:"Gm" z ^F,G,A, B,DGB |"Am7b5" d2 c4"D7b9" z2 |"Gm" z ^F,G,A, B,DGB |"Am7b5" _dcBG"D7b9" cBG z |$ %4
+"Gm" z ^F,G,A, B,=DGB |"Am7b5" d2 c4"D7b9" z B |"Gm" ^cdgc =cBGB |1 %7
+"Eb9" c2"D7b9" BG-"Gm" G2"^D7" z2 :|2"Gm" G4"D7b9""Gm6" z GBG ||$"Gm11/C" cGBG cB G2- | G4 z GdG | %11
+ BGcG dG F2- | F4 z GcG |$ BGcG cG d2- | d4 z cGc | dGcG DG A2- |"A7b5" A8"D7b9" ||$ %17
+"Gm" z ^F,G,A, B,DGB |"Am7b5" d2 c4"D7b9" z2 |"Gm" z ^F,G,A, B,DGB |"Am7b5" _dcBG"D7b9" cBG z |$ %21
+"Gm" z ^F,G,A, B,=DGB |"Am7b5" d2 c4"D7b9" z B |"Gm" ^cdgc =cBGB |"Gm" G4"D7b9""Gm6" z4 |] %25
+

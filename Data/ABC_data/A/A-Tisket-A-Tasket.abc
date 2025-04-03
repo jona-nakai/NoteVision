@@ -1,0 +1,18 @@
+X:1
+T:A-Tisket, A-Tasket
+C:1938 - Ella Fitzgerald / Al Feldman
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+ x6 B2 |:"Eb" B4 G2 AB | z G3 z2 B2 |"Eb" e2 d2"Ab" cB z B |"Gm7" z G3"C7" z2 G2 |$ %5
+"Fm7" AA z A z F z A |"Bb7" z A z A z F3 |"Fm7" A2 BG-"Bb7" G F2 G |1"Eb" z B3"Bb7" z2 G2 :|2 %9
+"Eb" z E3"Eb7" z2 EE ||$"Ab6" AA A2 c2 c=B |"Abm6" z _B A4 z A |"Eb" GB z G z B z G- | %13
+"Eb7" GE z F- FE G2 |$"Ab6" A2 A2 AA z =B- |"Abm6" B2 A=B- B4 |"Gm7" G2 _B2"C7" B2 c2 | %17
+"Fm7" _G2 EF-"Bb7" F2 B2 ||$"Eb" B4 =G2 B2 | B4 G2 B2 |"Eb" BB z B"Ab" z c3 | %21
+"Gm7" B3 G"C7" z2 G2 |$"Fm7" A2 A2 AF z A |"Bb7" z A z A z B3 |"Fm7" B2 A2"Bb7" G2 F2 | %25
+"Eb" E6 z2 |] %26
+

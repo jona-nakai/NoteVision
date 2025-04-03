@@ -1,0 +1,18 @@
+X:1
+T:Lulu's Back In Town
+C:1935 - Al Dubin / Harry Warren
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+|:"C7" BcBG"F7" =A2 F2 |"Bb7" _A B2 G-"Eb" G4 |"C7" BcBG"F7" =A2 F2 | %3
+"Bb7" _A B2 G2"Eb" G2"Eb7" E |$"Ab" F2 E2"Adim" _G2 E2 |"Eb" F E2 =G-"C7" G4 | %6
+"F9" G E3"Bb7" E F2 E- |1"Eb" E6 z2 :|2"Eb" E4"Eb7" z e2 c ||$"Ab" e4 d2 c2 |"Eb" B4"Eb7" z e2 c | %11
+"Ab" e4 d2 c2 |"Eb" B4"Eb7" z e2 c |$"Ab" e4 d2 c2 |"Eb" B6"Db7""C7" G2 |"F9" G2 G2 F E2 F- | %16
+"Bb7" F8 ||$"Eb" BcBG"F7" =A2 F2 |"Bb7" _A B2"Eb" G- G4 |"C7" BcBG"F7" =A2 F2 | %20
+"Bb7" _A B2 G2"E7" G2 E |$"Ab" F2 E2"Adim" _G2 E2 |"Eb" F E2"C7" =G- G4 |"F9" G E3"Bb7" E F2 E- | %24
+"Eb" E6 z2 |] %25
+

@@ -1,0 +1,22 @@
+X:1
+T:Bird Alone
+C:Abbey Lincoln, Max Roach
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+"Cmaj7" e3 ^d e4 |"Bm7b5" z2 (3z =dd"E7b9" d4 |"Am" z2 (3z cc-"Am/G" c c2 E | %3
+"F#m7b5" B3 B"B7b9" B4 |$"Dm" (3z2 f2 f2 f2 A2 |"Gm7" z2 (3z ff f4 | %6
+"Dm" z2 (3z fe-"Dm/C" e2- (3efe- |"Bm7b5" e2- (3edf"Ab7" f4"G7" ||$"Cmaj7" z2 (3z e^d e4 | %9
+"Bm7b5" z2 (3z Ge"E7b9" =d4 |"Am" z2 (3z cB"Am/G" c2- cE- |"F#m7b5" E2- (3EBB"B7b9" B4 |$ %12
+"Dm" z2 (3z ff"Dm/C" fe- e2 |"Bm7b5" d2- df"G7b9" f4 |"Dm" z2 fe"Dm/C" d2 c2 | %15
+"Bm7b5" B2 _A2"G7b9" G4 ||$"C#m7" z2 (3z eB"C#m/B" e2 ^d2 |"A#m7b5" ^c2 e2"G13" e4"F#7" | %18
+"Bmaj7" z2 (3z ^d^c"F+7" B2 c2 |"Emaj7#11" ^d2 B6 |$"Bbm7b5" z2 (3z _dd d2 B2 | %21
+"Eb7b9" _B2 _AA- AG- G<_E |"Bbm7" z2 (3z _EG"Eb7" _B2 _d2 |"Abmaj7" c2 _A6"G7" ||$ %24
+"Cmaj7" e3 ^d e4 |"Bm7b5" z2 (3z =dd"E7b9" d4 |"Am7" z2 (3z cB"Am/G" c2 E2 | %27
+"F#m7b5" B3 B"B7b9" B4 |$"Dm7" z2 (3z ff f3 e |"G7" d2 f2 f2 z2 |"Dm7" f2 A2 B2 f2 |"G7" e4 d4 | %32
+"Ab13" c8- |"G743" c8"G7" |] %34
+

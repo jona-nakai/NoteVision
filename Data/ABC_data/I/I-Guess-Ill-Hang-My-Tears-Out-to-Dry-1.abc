@@ -1,0 +1,28 @@
+X:1
+T:I Guess I'll Hang My Tears Out to Dry
+C:1944 - Sammy Cahn / Jule Styne
+Z:www.realbook.site
+%%score ( 1 2 )
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:2 treble 
+V:1
+"C6""^Verse" z C GC"G7/C" B, G2 B, |"C6" A,G- G6"G7/C" |"C6" z C GC"G7/C" B, G2 B, | %3
+"Gm9/C" _B, A3-"C13b9" AAGA |$"F" C2 C2"Em" G3"Ab/Eb" ^G |"Dm7" A2 =GF"G743" EDCB, | %6
+"C" C C2 C-"C/G" C4- |"Dm7" C2 z2"G7" z4 |:$"Em7""^A" ddd_d-"Ebm7" d4 |"Dm7" c=DEF"G+97" G A3 | %10
+"Cmaj7" z B BB"Am7" ACDE- | E8"Fmaj7""F#7""G13" |$"Gm7" AAGA-"C7b9" A3 _B |"F" =Bc=B,C"Fm6" E D3 |1 %14
+"C/G" ECDC"Fmaj7" EC"Dm7b5"CC- |"C" C4"Fmaj7" z4"G7" :|2"C/G" ECDC"Fmaj7" ECCC- ||"C6" C4 z4 ||$ %18
+"Gm7""^B" _B2 cc"C7" B2 c2 |"Gm7" _B2 cc"C7" B2 c2 |"F" AGFE"F6" D2"C+97" D2 |"F6" D8 |$ %22
+"Em" G2 AA"A7" G A3 |"Em7b5" G2 AA"A7" G A2 ^G |"Dm7" A=GFE"Fm6" D2 D2 |"G7" D8 ||$ %26
+"Em7""^A" ddd_d-"Ebm7" d4 |"Dm7" c=DEF"G+97" G A3 |"Cmaj7" z B BB"Am7" ACDE- | %29
+ E8"Fmaj7""F#7""G13" |$"Gm7" AAGA-"C7" A3 _B |"F" =Bc=B,C"Fm6" E D3 | %32
+"C/G" EC"Dm7"DC"Em7" EG"Fmaj7"AB- |"F#m7b5911" B6"Fm7" c2 |$"Em7" d6"Ebm7" _d2 | %35
+"Dm7" cCCC"G943" ECCC- |"C" C8- |"Dm7" C6"D#dim" z2 |] %38
+V:2
+ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | CDEF G^GAB |:$ x8 | x8 | x8 | z g gg- g4 |$ x8 | x8 |1 x8 | %15
+ x8 :|2 x8 || x8 ||$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 ||$ x8 | x8 | x8 | z g gg- g4 |$ x8 | %31
+ x8 | x8 | x8 |$ x8 | x8 | x8 | x8 |] %38
+

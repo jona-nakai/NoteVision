@@ -1,0 +1,19 @@
+X:1
+T:Autumn in NY
+C:Vermon Duke
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+"Dm7" edcA"Em7" G4 |"F6" z A cf"G7" a a2 g |"Cmaj7" a4"Dm7" e4 |"Em7" z8"A7b9" |$ %4
+"Dm7" edcA"Em7" G4 |"F6" z A cf"G7" a a2 g |"Em7b5" a4 e4 |"A7" z8 |$"Dm7" ^f g2 e d3 c | %9
+"Fm7" _e e2 c"Bb7" _B3 _A |"Ebmaj7" _B ^F2 G"Bb7" B4- |"Ebmaj7" B4"Am7b5" c4"D7" |$ %12
+"Gm7" d A2 _B d4- |"Am7" d4"D7b9" ^f4 |"Gmaj7" d8- |"G7" d6"G+7" ^d2 ||$"Dm7" e=dcA"Em7" G4"Eb7" | %17
+"Dm7" z A cf"G7" a a2 g |"Cmaj7" a4"Dm7" e4 | z8"Em7""A7""Ab7" |$ a"Gm7"gfd"Am7" c4-"D7" | %21
+"Bbm6/G" c_dfg"C7" _a _b2 g |"Fm" _a8- |"Fm6" a6"G7" z2 |$"Cmaj7" g g2 g"G7" b2 b2 | %25
+"Cmaj7" g6"Bmaj7""Bbmaj7""Eb9" f2 |"Abmaj7" _e c2 e"Eb7" g2 g2 |"Abmaj7" _e6"A7b5" e2 |$ %28
+"Dm7" =edcA"Em7" G4- |"Fmaj7" GAcd"G7b9" _e f2 d |"Cm" c8 | z8 |] %32
+

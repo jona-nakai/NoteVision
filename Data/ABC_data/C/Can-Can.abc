@@ -1,0 +1,27 @@
+X:1
+T:Can Can
+C:J.Offenbach
+Z:www.realbook.site
+L:1/8
+M:2/4
+I:linebreak $
+K:D
+V:1 treble nm=" " snm=" "
+V:1
+"A7" z4 | z4 |:"A7" !>!Ae ef |"D"{f} ed df |"G" gb d'b |"D" ba a2 |$"A7" bc cb |"D" ad df |1 %8
+"E7"{^g} fe fe |"A"{^g} fe fe :|2"A7"{^g} fe fe |"D" ed d2 |:$"D" f2 d2 | B2 A2 |"A7" AE FG | %15
+"D" FE D2 | f2 d2 | B2 A2 |"A7" ^GA Bc |1"D" ed d2 :|2$"D"!p! dA"A7" cA ||"D" dA"A7" cA | %22
+"D" dA"A7" cA |"D" dA"A7" cA |"D" d>D D>D | D>D D>D | D>D D>D | D>D D>D ||$[K:G]"G" !>!G4 | %29
+"D7" Ac BA |"G" d2 d2 | de Bc |"D7" A2 A2 | Ac BA |"G" G.g .f.e |"D7" .d.c .B.A |$"G" G4 | %37
+"D7" Ac BA |"G" d2 d2 | de Bc |"D7" A2 A2 | Ac BA |"G" Gd"D7" AB |"G" G2"D" [Dd]2 |$"G" !>![Gg]4 | %45
+"D7" Ac BA |"G" d2 d2 | de Bc |"D7" A2 A2 | Ac BA |"G" G.g .f.e |"D7" .d.c .B.A |$"G" G4 | %53
+"D7" Ac BA |"G" d2 d2 | de Bc |"D7" A2 A2 | Ac BA |"G" Gd"D7" AB |"G" G4 ||$[K:D]"A7" Ae ef | %61
+"D"{f} ed df |"G" gb d'b |"D" ba a2 |"A7" bc cb |"D" ad df |"E7"{^g} fe fe |"A"{^g} fe fe |$ %68
+"A7" Ae ef |"D"{f} ed df |"G" gb d'b |"D" ba a2 |"A" ba a2 |"Dm/A" ba a2 |"D#dim/A" ba a2 | %75
+"A7" ba a2 |$"A" ba a2 |"Dm/A" ba a2 |"D#dim/A" ba a2 |"A7" ba ba | ba ba | ba ba |:$"D" !>!D4 | %83
+"A" EG FE |"D" A2 A2 | AB FG |"A" E2 E2 | EG FE |"D" .D.d .c.B | .A.G .F.E |$"D" D4 |"A" EG FE | %92
+"D" A2 A2 | AB FG |"A" E2 E2 | EG FE |1"D" DA"A" EF |"D" D2 A,2 :|2$"D" d2 D2 || %99
+"A/C#" E2"D7/C" F2 |"G/B" G3"G" G |"A7" EG FE |"D" d2 D2 |"A/C#" E2"D7/C" F2 |"G/B" G3"G" G | %105
+"A7" EG FE |$"D" FA"A" EF |"D" DA"A" EF |"D" DA"A" EF |"D" DA"A" EF |"D" D4 | F2 D2 | A2 D2 | %113
+ F2 A2 |$ [FAd]2 z2 | [FAd]2 z2 | [FA]2 z2 | [Adf]2 z2 | ([Ad]2 D2 | !fermata![Ad]2) z2 |] %120
+

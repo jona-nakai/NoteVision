@@ -1,0 +1,16 @@
+X:1
+T:Summer Samba
+C:1964 -  Marcos Valle / Norman Gimbel / Paulo SÐÂ©rgio Valle
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+|:"Fmaj7" A,C D2 E_E D2 | A,CD=E- E_E D2 |"Bm7b5" A,C D2 =E_E D2 |"E7#9" ^G,CD=E- E_E D2 |$ %4
+"Bbmaj7" DF =G2 A_A G2 | DFG=A- A_A G2 |"Eb7" _DF G2 =A_A G2 | _DFG=A- A_A G2 ||$"Am7" z2 c2 C4- | %9
+"D7b9" C4 _edcB |"Gm7" A8- |1$"Em7b5" A4"A7#9" c=B_BA |"Dm7" G8- |"G7" G4 A_AG_G | %14
+"Gm7" FDFD FDF_A- |"Db7" AF"C7" G2 z4 :|2$"C7b9" =A8 |"Fmaj7" G_G F2 F^F =G2 | %18
+"Bb7" G_G =F2 F^F =G2 |"F" =F8 || z8 |] %21
+

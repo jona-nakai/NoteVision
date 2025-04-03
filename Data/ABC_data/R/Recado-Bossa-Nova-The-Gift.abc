@@ -1,0 +1,20 @@
+X:1
+T:Recado Bossa Nova (The Gift)
+C:1959 - Djalma Ferreira / Luiz Antonio
+Z:www.realbook.site 2024
+L:1/4
+M:4/4
+I:linebreak $
+K:Dmin
+V:1 treble nm=" " snm=" "
+V:1
+ A, D/- |:"Dm" (D2 D/) B A/- | A2 F/ D ^C/- |"A7b9" C3 B | A4 |"D7b9" z C D/ ^F A/- |$ %6
+ A ^F D/ C B,/- |"Gm7" (B,2 B,/) A G/- |"Gm7/F" G4 |"Em7b5" z G A/ B c/- |"A7" c2 B/ A G/- | %11
+"Dm7" G2 F/ E D/- |1$ D2 F/ F E/- |"Bm7b5" E =B, E2- |"E7b9" E2 z/ E E/- |"Em7b5" E B, E2- | %16
+"A7b9" E2 z/ A, (D/ :|2$"Dm7" D) E F/ D _E/- |"Eb7#11" E B G/ _E D/ |"A7b9" ^C2- C/D/=E/F/ | %20
+"Dm" D4- | D2 z D ||$"Am7b5" _E D ^C/ D G/- |"D7b9" G ^F =F/ ^F A/- |"Gm7" A4 | G2 z E |$ %26
+"Bm7b5" F E _E/ =E A/- |"E7b9" A _A G/ A B/- |"Am7" B4 |"A7b9" A2 z/ E D/- ||$"Dm" D2- D/ B A/- | %31
+ A2 F/ D ^C/- |"A7b9" C3 B | A4 |$"D7b9" z C D/ ^F A/- | A ^F D/ C B,/- |"Gm7" (B,2 B,/) A G/- | %37
+"Gm7/F" G4 |$"Em7b5" z G A/ B c/- |"A7" c2 B/ A G/- |"Dm7" G2 F/ E D/- | D E F/ D _E/- |$ %42
+"Eb7#11" E B G/ _E D/ |"A7b9" ^C2- C/D/=E/F/ |"Dm" D4- |"Em7b5" D2"A7b9" z2 |] %46
+

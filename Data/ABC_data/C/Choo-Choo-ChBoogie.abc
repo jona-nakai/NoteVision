@@ -1,0 +1,16 @@
+X:1
+T:Choo Choo Ch'Boogie
+C:1945 - V. Horten / D. Darling / M. Gabler
+Z:www.realbook.site
+L:1/8
+M:2/2
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+ _A |:"F6" =A^GAG AFDC | FEFA- A2 z _A | =A^GAG AFDC |"F7" FEFA- A2 z _A |$"Bb9" _AGAG AFDC | %6
+ FEF_A- A2 z A |"F6" =A^GAG AFDC | FEFA- A2 z A |$"C7" BABA BGEC | GEGB- B2 z A | %11
+"F6" (3F2 F2 F2"Bb9" (3F2 F2 F2 |"F" F2 z2 F2 z2 ||$"Bb9" _AA- A6 | _A A2 A F G3 |"F6" =AA- A6 | %16
+ A A2 A F G3 |$"Bb9" _AA- A6 | _A A2 A F G3 |1"C7" (3c2 c2 c2"Cdim" (3c2 c2 c2 | %20
+"C7" c2 z2 c2 z _A :|2"C7" (3c2 c2 c2 (3c2 d2 e2 |"F6" f2 z2 F2 z2 :| %23
+

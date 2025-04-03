@@ -1,0 +1,18 @@
+X:1
+T:Embraceable You
+C:1928 - George Gershwin / Ira Gershwin
+Z:www.realbook.site
+L:1/4
+M:2/2
+I:linebreak $
+K:G
+V:1 treble nm=" " snm=" "
+V:1
+"G6" z E F G |"Gdim7" z E F G | A/"D7" z D/ D D- | D4 |$"Am" z A B c |"F/Eb" z A"D7" B c | %6
+"G69" d/ z G/ G G- |"C9" G4"B7#5" |$"Em7" B G"Em/D" A G |"C#m7b5" B G"F#7b9" A G | %10
+"Bm" B/ z F/"Bmaj" F F- |"Bm7" F4"E9" |$"D/A" A F"D#dim7" G F |"Em7" G A"A9" B ^c | %14
+"D13" d/ z D/ D D- |"Am7" D4"D7" ||$"G6" z E F G |"Gdim7" z E F G | A/"D7" z D/ D D- | D4 |$ %20
+"Am" z A B c |"F/Eb" z A"D7" B c |"Gmaj7" d/ z G/ G G- |"Dm7" G4"G+7" |$"Cmaj7" z d c B | %25
+"F#m7b5" c B"B7" A B |"Em" z G/G/"Emaj" G/G/G/G/ |"Em7" G/G/ B3"A9/C#" |$"G/D" z B c d | %29
+"Cm6" _e/ z G/"D7b9" F2 |"G69" G4- |"Am7" G4"D7" |] %32
+

@@ -1,0 +1,18 @@
+X:1
+T:How About You?
+C:1941 - Burton Lane / Ralph Freed
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm=" " snm=" "
+V:1
+"G" G2"Gmaj7" A F |"G/B" G A"Bbdim7" F2 |"Am7" E z/ E/ E B- |"D13" B4 |$"G" G2"Gmaj7" A F | %5
+"G/B" G A"F#7/A#" F2 |"Bm7b5" =F z/ F/"E7" F c- | c4 |$"A9" B2 A G |"Cm6" A B"Am7b5" G2 | %10
+"D6" A/B/"G" G"Gdim7" G"G" G- | G4 |$"B/F#" F F/F/"B6/F#" F/F/ F |"C#m7/F#" F F/F/"F#7" F/F/ F | %14
+"B" ^d z/ B/ B B- |"Am7" B4"D13" ||$"G" G2"Gmaj7" A F |"G/B" G A"Bbdim7" F2 |"Am7" E z/ E/ E B- | %19
+"D13" B4 |$"G9" d2"Dm9" e c |"G9" d e"Dm7" c2 |"Cmaj7" B z/ B/ B"C6" A- | A2"Am7b5" B c |$ %24
+"G/D" d G/G/ G/G/ G | ^d"Eb7/Bb" G/G/ G/G/ G | z"Am7" e =d c |"B7" B3 A |$"Em7" G2"Em7/D" A F | %29
+"Cmaj7" G e"D7" F2 |"G" G4"Em7" |"Am7" z4"D7" |] %32
+

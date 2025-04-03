@@ -1,0 +1,18 @@
+X:1
+T:Get Out of Town
+C:1938 - Cole Porter
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Gmin
+V:1 treble nm=" " snm=" "
+V:1
+"Gm" DDDD- D4 | z2 DD- DD D2 |"Gm6" =E2 EE- E4- | E2 z2 z4 |$"Gm" GGGG- G4 | z2 GG- G^F G2 | d8- | %7
+"Gm2/F" d2 z2 z4 ||$"Em7b5" dddd- d4 |"Ebdim" z2 A2 ^G2 A2 |"Dm7" cccc- c4 |"Dbdim" z2 G2 ^F2 G2 |$ %12
+"Cm7" BBBB- B4 |"A7" z2 Ac-"A7b9" c c2 B |"D" A8- |"D7" A2 z2 z4 ||$"G" DDDD- D4 | z2 DD- DD D2 | %18
+"Gm6" =E2 EE- E4- | E2 z2 z4 |$"Gm" GGGG- G4 | GGG^F- F2 G2 |"Dm7b5/G" d2 dd- d4 |"G7" z4 z2 d2 ||$ %24
+"Ddim/C" (3=d2 =B2 c2 f3"Cm" e |"Ebm" (3_G2 F2 G2"Ebmaj/Gb" d3 c |"Bbmaj9/F" A c2 B ^CDF_A- | %27
+"Dm7b5" A6"G7" G2 |$"Cm" e2 ee- e2 e2 |"Cm7b5" e2 z2"F7" (3d2 _d2 c2 |"Bb" B8- | %31
+"F#dim" B2 z2"D7b9" z4 |] %32
+

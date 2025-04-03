@@ -1,0 +1,17 @@
+X:1
+T:Softly, as in a Morning Sunrise
+C:1928 - Sigmund Romberg / Oscar Hammerstein II
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Cmin
+V:1 treble nm=" " snm=" "
+V:1
+|:"Cm" c3 G- G4 |"Dm7b5" z F GF"G7" G2 F2 |"Cm" c3 E- E4 |"Dm7b5" z D ED"G7" E2 D2 |$ %4
+"Cm" G3 C- C4 |"Dm7b5" z G AG"G7" E2 D2 |"Cm" C8 |1"Dm7b5" G8"G7" :|2 %8
+"Fm7" (3z2 D2 E2"Bb7" (3F2 G2 A2 ||$"Eb" B3 E- E4 | z B cB c2 B2 |"C7" c3 =E- E4 | %12
+ (3z2 =E2 F2 (3G2 A2 B2 |$"Fm" c3 F- F4 |"F#dim7" z c dc d2 c2 |"Dm7b5" d6 d2 |"G7" f2 f2 e2 d2 ||$ %17
+"Cm" c3 G- G4 |"Dm7b5" z F GF"G7" G2 F2 |"Cm" c3 E- E4 |"Dm7b5" z D ED"G7" E2 D2 |$"Cm" G3 C- C4 | %22
+"Dm7b5" z G AG"G7" E2 D2 |"Cm" C8 | z8 |] %25
+

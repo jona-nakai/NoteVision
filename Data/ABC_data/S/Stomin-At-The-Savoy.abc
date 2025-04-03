@@ -1,0 +1,25 @@
+X:1
+T:Stomin` At The Savoy
+C:E. Sampson,
+C:C. Webb,
+C:B.Goodman
+Z:Copyright Â© www.realbook.site
+%%score ( 1 2 )
+L:1/8
+M:4/4
+I:linebreak $
+K:Db
+V:1 treble nm=" " snm=" "
+V:2 treble 
+V:1
+ x4"Ab7" F3 A- |:"Dbmaj7" A8 | z4"Ab7" F3 A- |"Dbmaj7" A8"Gb7" |"Fm7" z4"Bb7b9" F3 A- |$"Ebm7" A8 | %6
+"Ab7" z4 F3 D- |1"Db6" D8-"Bb7" |"Ebm7" D2 z2"Ab7" F3 A :|2"Db6" D8- || D2 z2"Db7" z4 ||$ %11
+"Gb7" A G3"G7" =A3 =G |"Gb7" _A2 _G6 |"B7" ^G ^F3"D7" =B3 =A |"B7" ^G2 ^F6 |$ %15
+"E7" ^F =E3"F7" =G3 =F |"E7" ^F2 =E6 |"Em7" ^F=AAA-"A7" A4 |"Ebm7" =F_AAA-"Ab7" A2 FA- ||$ %19
+"Dbmaj7" A8 | z4"Ab7" F3 A- |"Dbmaj7" A8"Gb7" |"Fm7" z4"Bb7b9" F3 A- |$"Ebm7" A8 |"Ab7" z4 F3 D- | %25
+"Db6" D8-"Bb7" |"Ebm7" D2 z2"Ab7" F3 A |] %27
+V:2
+ x8 |: z A, B,F C2 A,B,- | B,4 z4 | z A, B,F C2 A,B,- | B,4 z4 |$ z A, B,D G2 DC- | C4 z4 |1 x8 | %8
+ x8 :|2 x8 || x8 ||$ x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 ||$ z A, B,F C2 A,B,- | B,4 z4 | %21
+ z A, B,F C2 A,B,- | B,4 z4 |$ z A, B,D G2 DC- | C4 z4 | x8 | x8 |] %27
+

@@ -1,0 +1,19 @@
+X:1
+T:On the Street Where You Live
+C:1956 - Frederick Loewe / Alan Jay Lerner
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ C D |:"C" E A A2 |"G7" z2 G F |"C" E C C2 |"G7" z2 C D |$"C" E B B B |"D#dim" B c B c | %7
+"Dm7" A G G2 |"G7" z2 D E |$"Dm7" F e e2 |"Bb7" z2 d e |"C" d c c2 |"Am7" z2 e d |1$"D7" c2 d c | %14
+"G7" B2 c B |"C" A2 z2 |"G7" z2 C D :|2$"D7" c2 d c |"G7" B2 c d |"C" c4 || z2 d c ||$"Bm7" e4 | %22
+"E7" z d (3d c B |"F" d2 A2 | z2 B c |$"Dm7b5" d3/2 d/ d d | d c (3c B A |"C" c4 | z2 B A |$ %29
+"F#m7b5" c4 | z B (3B A ^G |"B7" B2 ^F2 | z ^F G A |$"Em" B B B B |"B7" B3/2 ^F/ G A |"Em7" B4 | %36
+"G7" z2 C D ||$"C" E A A2 |"G7" z2 G F |"C" E C C2 |"G7" z2 C D |$"C" E B B B |"D#dim" B c B c | %43
+"Dm7" A G G2 |"G7" z2 D E |$"Dm7" F e e2 |"Bb7" z2 d e |"C" d c c2 |"Am7" z2 e d |$"D7" c2 d c | %50
+"G7" B2 c d |"Em7b5" e4 |"A7" z2 e d |$"Dm7" c2 d c |"G7" B2 c d |"C" c4 | z4 |] %57
+

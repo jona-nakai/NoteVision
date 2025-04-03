@@ -1,0 +1,23 @@
+X:1
+T:All Or Nothing At All
+C:1939 - Arthur Altman / Jack Lawrence
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+"Am" E4- | E E (3E F C |"Am7" E4- |"Am6" E3 z |$"Am" E2"Am6" E2 |"Am" E2 (3E G C | %6
+"B" D3/2 D/"Bb6" D2- |"Bb+" D3"Bb7" z |$"Gm" D2 D2 |"Em7b5" D2"A7b9" (3E ^C D |"Dm" A3/2 A/ A2- | %11
+ A2 B A |$"G7" G G2 G | G G2"G7" G |"C" G4 |"Bm7b5" z4"E7b9" ||$"Am" E4- | E E (3E F C |"Am7" E4- | %19
+"Am6" E3"Am" z |$ E2"Am6" E2 |"Am" E2 (3E G C |"Bb9" D3/2 D/"Bb6" D2- |"Bb+" D3"Bb7" z |$ %24
+"Gm" D3/2 D/ D3/2 D/ |"Em7b5" D3/2 D/"A7" (3E ^C D |"Dm" A3/2 A/ A2- | A2 B A |$"G7" G G2 G | %29
+ G G2"G+7" G |"Cmaj7" G4- |"Bbm7" G z"Eb7" z _E ||$"Ab" c c"Ab+" c c | %33
+"Ab6" c3/2 c/"Ab+" (3c _d _A |"Ab" c4-"Ab+" |"Ab6" c3"Ab+""Eb7" _E |$"Ab" c3/2 c/"Ab+" c3/2 c/ | %37
+"Db" _d2"Ab" (3c _B _A |"Eb9" G4- |"Eb+" G3"Eb7" _E |$"Bbm7" (3_B B B"Eb7" B3/2 B/ | %41
+"Bbm7" _B B"Eb7" (3B c G |"Bbm7" _B4"Eb7" |"Gm7b5" =B2"C7" c _B |$"Fm" _A2 A A |"Db7" _A A2 A | %46
+"C7" G4 |"E7" z D C B, ||$"Am" E4 | (3E F C (3E F C |"Am7" E4- |"Am6" E3 z |$"Am" E2 E2 | %53
+ E2 (3E G C |"Bb9" D3/2"Bb6" D/ D2- |"Bb+" D3"Bb7" z |$"Gm" D2 D2 |"Em7b5" D3/2 D/"A7b9" (3E ^C D | %58
+"Dm" A4 |"Bm7b5" B4"E7" |$"Am" c4- |"Dm7b5" c c"G743" (3c c c |"C" c4 |"C6" c3 z |] %64
+

@@ -1,0 +1,18 @@
+X:1
+T:I'll Be Seeing You
+C:1938 - Sammy Fain / Irving Kahal
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+"Eb" G6 F2 |"G7" F E2 D- D2 E2 |"Fm" A3 G"C7" G3 F |"Fm" F3 =E E2 F2 |$ A3 G"C7" G3 F | %5
+"Fm" F3 =E"Bb7" E2 F2 |"Eb6" ^F G2 c-"Fm7" c4- |"F#dim" c4"Eb/G" z4 |$"Cm7" e6 d2 | %9
+ d c2 =B- B2 c2 |"Fm7" e6 d2 | d c2 =B- B2 c2 |$"Bb7" c6 _B2 |"Bb7#5" B ^F2 F- F2 d2 | %14
+"Eb6" c G2 G- G2 c2 |"Bb9#5" ^F C2 C- C4 ||$"Eb" G6 =F2 |"G7" F E2 D- D2 E2 |"Fm" A3 G"C7" G3 F | %19
+"Fm" F3 =E E2 F2 |$ A3 G"C7" G3 F |"Fm" F3 =E"Bb7" E2 F2 |"Gm7b5" B3 A A3 G |"C7" G3 ^F F2 G2 |$ %24
+"Fm" cc- c2"Dm7b5" z2 BA |"G7" d d2 c- c2 z =B |"Cm7" e2 e2 d2 c2 |"F9" G6 FG |$"Fm7" AAAA A4- | %29
+"Abm6" AAB_c B2 A2 |"Eb" e6"Fm7" z2 |"Bb7" z8 |] %32
+

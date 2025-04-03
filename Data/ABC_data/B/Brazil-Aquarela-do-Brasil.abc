@@ -1,0 +1,17 @@
+X:1
+T:Brazil (Aquarela do Brasil)
+C:1939 - Ary Barroso / Bob Russell
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ G ||"C6" e4- | e4 | z g g e | e d d c |$"Dm7" d4- | d4 | z g g e | e d d c |$ d4- | d4 | %11
+"G7" z g g e | e d d c |$"C" e4- | e2 B2 |"Dm7" A4- |"G7" A2 B2 |"C" e4-"C7" |"B7" e2"Bb7" z2 ||$ %19
+"A7" g4- | g4 | z g g ^f | =f e ^d e |$ g4- | g4 | z g g ^f | =f e ^d e |$ g4- | g4 | z g g ^f | %30
+ =f e d e |$"Dm" f4- | (f4 | (f4) | f4) ||$"Fm6" f4- | f4 |"Bb7" z f f e | e d c B |$"Em7" d4- | %40
+ d4 |"Am7" z c d e | g2 e2 |$"D7" c4- | c4 |"Dm7" d4- |"G7" d2 c2 |$"C" e4- | e2 B2 |"Dm7" A4- | %50
+"G7" A2 B2 |$"C" e4- | e2 B2 |"Dm7" A4- |"G7" A2 B2 |$"C" e4- | e4 |"Dm7" z4 |"G7" z4 |] %59
+

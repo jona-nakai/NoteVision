@@ -1,0 +1,19 @@
+X:1
+T:I Mean You
+C:1946 - Thelonius Monk / Coleman Hawkins
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ _E- ||"Eb7" E>F G>_B c>B c>B | _d2 c_B z _E2 ^F | G>_B c>B _d2 cB | z _E z _e z2 z f- |:$ %5
+"F" fdcA FD C2 | F2 z2 z C D2 |"Db7" F2 z2 z _D2 _E- |"D7" E _D2 ^F- F2 z =f- |$ %9
+"Gm" f=dcA =F=D C2 |"C7" F2 z2{/^Gc} A2{/Gc} A2 |"F" F2 z2 z C- C2 |1"Gm" F2 z2"C7" z2 z f :|2 %13
+"F" F2 z2 z C- C2 ||$"Eb7" F8 | z4 (3c2 G2 _D2 |"F" C8 | z4 z C- C2 |$"Db7" F8 | z4 (3c2 G2 _D2 | %20
+"Gb7" =D ^D2 E- E4 |"Gm" z4"C7" z2 z f- |$"F" fdcA FD C2 | F2 z2 z C- C2 |"Db7" F2 z2 z _D2 _E- | %25
+"D7" E _D2 ^F- F2 z =f- |$"Gm" f=dcA =F=D C2 |"C7" F2 z2{/^Gc} A2{/Gc} A2 |"F" F2 z2 z C- C2 | %29
+[M:2/4] F2 z _E- ||$[M:4/4]"Eb7" E>F G>_B c>B c>B | _d2 c_B z _E2 F | G>_B c>B _d2 cB | %33
+ z _E z _e z4 |] %34
+

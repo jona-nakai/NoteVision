@@ -1,0 +1,16 @@
+X:1
+T:Close To You (They Long To Be)
+C:1970 - Burt Bacharach / Hal David
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+ C2 E2 |:"Abmaj7" B4 BABc |"Dm7" G6"G7" GB |"Gm7" d6 GB |"Cm7" e6 CE |$"Fm7" B4 C E2 c | %6
+"Bb7" B4 C2 E2 |"Ebmaj7" B8 |1 z4 C2 E2 :|2 z8 ||$"Abmaj7" EEFF GGFF |"Abm6" EEFF GGFE | %12
+"Gm7" BBcc ddcB |"C7" d6 cd |$"Abmaj7" eeee eeee |"Fm7" eeee ecde |"Bb7" f8 | z4 C2 E2 ||$ %18
+"Abmaj7" B4 BABc |"Dm7" G6"G7" GB |"Gm7" d6 GB |"Cm7" e6 CE |$"Fm7" B4 C E2 c |"Bb7" B4 C2 E2 | %24
+"Eb" B8 | z8 |] %26
+

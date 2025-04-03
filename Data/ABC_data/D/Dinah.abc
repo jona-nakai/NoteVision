@@ -1,0 +1,16 @@
+X:1
+T:Dinah
+C:Harry Akst
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+|:"F" C4 D4- | D2 CD FG A2 | c2 A6- |"F" A2 FG"F#dim" AFGA |$"C7" c2 A6- | A2 GA cA G2 |1 %6
+"F" F2 D6"D7" |"Gm7" DCCC-"C7" C4 :|2"F" F8-"Bb7" ||"F" F2 z2 z4 ||$"Dm" A F2 A- A4 | %11
+ A"Dmaj" F2 A- A4 |"Dm7" A F2 A- A4- |"Dm6" A2 A2 c2 B2 |$"Dm" A F2 A-"Dmaj" A4 | %15
+"Dm7" A F2 F-"Dm6" FG A2 |"G7" G8- |"C7" G6 z2 ||$"F" C4 D4- | D2 CD FG A2 | c2 A6- | %21
+"F" A2 FG"F#dim" AFGA |$"C7" c2 A6- | A2 GA cA G2 |"F" F8- | F2 z2 z4 |] %26
+

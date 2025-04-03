@@ -1,0 +1,18 @@
+X:1
+T:Scotch and Soda
+C:1958 - Dave Guard
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+|:"Abmaj7" z G FG- G F3 |"Db9" z2 (3=B,EF G4 |"Eb6" z2 (3EFG _B c3 |"Gm7" d2 cB-"C7" Bc c2 |$ %4
+"F7" C8 |"Fm7" z B GB-"Bb7" B G3 |1"Bbm7" F8- |"Eb7" F6"A7" z2 :|2"Eb7" F8-"Bbm7" || %9
+"Eb7" F6"Eb+7" z2 ||$"Abmaj7" z E FA- A B3 | c3 E- E3 A |"Eb" B3 c"Fm" A2"Bb7" BG- | %13
+"Ebmaj7" GB- B2- B3 G |$"F9" G G2 F-"Cm7" F3 C |"F9" G G2 F-"Cm7" F3 F |"Fm7" c2 B2 A2 G2 | %17
+"Bb7" F3 B- B4 ||$"Abmaj7" z G FG- G F3 |"Db9" z2 (3=B,EF G4 |"Eb6" z2 (3EFG _B c3 | %21
+"Gm7" d2 cB-"C7" Bc c2 |$"F7" C8 |"Fm7" z B GB-"Bb7" B G3 |"Gm7" BB (3BBB- B G3 |$"C7" dc c6 | %26
+"Fm7" z e2 c e c3 |"Bb7" B c3"Ab7" _G2 EE- |"Eb" E8 |] %29
+

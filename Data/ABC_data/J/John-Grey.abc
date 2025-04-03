@@ -1,0 +1,38 @@
+X:1
+T:ÐÐ¶Ð¾Ð½ ÐÑÐµÐ¹
+C:ÐÐ°ÑÐ²ÐµÐ¹ ÐÐ»Ð°Ð½ÑÐµÑ
+Z:Copyright Â© www.realbook.site
+%%score ( 1 2 )
+L:1/4
+M:2/2
+I:linebreak $
+K:Cmin
+U:s=!stemless!
+V:1 treble nm=" " snm=" "
+V:2 treble 
+V:1
+{g=a=b} !>!c' g !>!_a3/2 e/ | .c G !>!_A3/2 E/ | .C G, !>!A,3/2 E,/ | .C, z"G7" !>!G2 | %4
+ .z"Cm" sB z sB | z sB z sB ||$"Cm" e d2 c | =B c d c | _B A2 G | ^F G A G |$"D7" =A2 =B z | %11
+ z c =B =A |"G7" !slide!d =B2 _A- | A G ^F G |$"Cm" e d2 c | =B c d c | _B A2 G | ^F G A G |$ %18
+"Fm" !>!D2"F#dim" E z | z"G7" F .E .D |"Cm" .C z/ A/"G7" .G .E |"Cm" .C z"G7" z2 ||$ %22
+"Cm" .e .d z c/c/ | =B/B/c/c/ d/d/ .c | ._B .A z G/^F/ | z/ ^F/ .G (!tenuto!A .G) |$ %26
+"D7" d c =A ^F |{C^C} D4 |"G7" .G !>!G3 |{d=e^f} !>!g"G7" =B/B/"Dm7" c/c/"G7" .d |$ %30
+"Cm" ._e .d z .c | z =B/c/ z/ d/ .c | ._B .A z .G | z ^F/G/ z/ A/ .G |$"Fm6"{=Bc} d2"F#dim" c2 | %35
+"G7" .=B f e d |"Cm" .c z/ (A/ .G) .E | .C D E ^F ||$ A"G7" G2 ^F- | F G A G |"Cm" A G2 ^F- | %41
+ F G A G |$"C7" _d c2 =B- | B c _d c |"Fm" _d c2 =B |"Fm" c z"G7" =d2 |$"Cm" .e d2 .c | %47
+ .=B .c .d .c | ._B A2 .G | .^F .G .A .G |$"Fm6" (!>!d2)"F#dim" .e2 |"G7" z f e d |"Cm" .c z z2 | %53
+ z4 ||$"Cm" e d z c | .=B .c .d .c | _B A2 G | ^F G A G |$"D7" =A z d ^c | =c =A/A/ ^F/F/ D | %60
+"G7" G G,- G,/=B,/4D/4 =F/4G/4=B/4d/4 | .g"G7" G"D7" ^F"G7" G |$"Cm" e d2 c | =B c d/d/ c | %64
+ _B A z G | ^F G/G/ A .G |$"Fm6" !>!D3"F#dim" D |"G7" .F .F .E .D |"Cm" .C z/ A/ .G .E | %69
+ .C D E ^F ||$"G7" A/G/^F/G/ A/G/A/G/ | z/ G/ A/G/ A/G/^F/G/ |"Cm" A/G/^F/G/ A/G/A/G/ | %73
+ z/ G/ A/G/ A/G/^F/G/ |$"C7" _d/c/=B/c/ d/c/d/c/ | z/ c/ _d/c/ d/c/=B/c/ | %76
+"Fm" _d/c/=B/c/ d/c/B/d/ |"Fm" .c z"G7"!f! !>!!fermata![g=b]2 ||$"Cm" .c' .=b ._b .=a | %79
+ ._a .g .^f .=f | .=e ._e .d ._d | .c .=B ._B .=A |$"Fm6" !>![_Ad]2"F#dim" .[=Ae]2 |"G7" z f e d | %84
+"Cm" .c z/ (A/ .G) .E | .C z"Cm" .c z |] %86
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 ||$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ %18
+ x4 | x4 | x4 | x4 ||$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | %36
+ x4 | x4 ||$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 ||$ %54
+ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 ||$ x4 | x4 | %72
+ x4 | x4 |$ x4 | x4 | x4 | x4 ||$ e d2 c | =B c d c | _B A2 G | ^F G A G |$ x4 | x4 | x4 | x4 |] %86
+

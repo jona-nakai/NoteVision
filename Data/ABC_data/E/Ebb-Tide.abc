@@ -1,0 +1,17 @@
+X:1
+T:Ebb Tide
+C:1953 - Carl Sigman / Robert Maxwell
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+"G7" G3 E ||"Cmaj7" B,6- B,C/D/ |"Am7" B,6- B,C/D/ |"Dm9" E6- EF/G/ |"G13" E6 D2 |"C" G6- GG/F/ |$ %6
+"Bb6" G6- GA/_B/ |1"A7" G4- GFEG |"Dm7b5" F3 E"G7" D2 G>E ||2"A7" G6- GF/E/ | %10
+"A7/E" A6"A7b5/Eb" z A ||$"Dm" A6 (3A_BA |"E7" =B6 (3EEE |"Am" c6"Am/G" (3cdc |"Fm6" d6 cd |$ %15
+"C/G" e6 dc |"C+/G#" e6 cd |"Am7" e6 dc |"Dm9" e4"G13" e3 e ||$"C" c6- cB/A/ |"Am7" c6- cB/A/ | %21
+"Fm7" c6 _B_A |"Dm11" G4"G13" G3 E |$"Cmaj7" B,6- B,C/D/ |"Am7" B,6- B,C/D/ |"Dm9" E6- EF/G/ | %26
+"G13" E6 DC |"C" G8-"Am7" |"Dm7" G4"G7" z4 |] %29
+

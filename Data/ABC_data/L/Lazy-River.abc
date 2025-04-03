@@ -1,0 +1,18 @@
+X:1
+T:Lazy River
+C:1930 -  Hoagy Carmichael / Sidney Arodin
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+"F" FDFD"Bbm7" _D"C7" C3 |"F" F=D"Fdim7"FD"Bb" G4"C7" |"F" FGAF"A7" EFGE |"Bb" D8"D7" |$ %4
+"Gm" BGBG"D7" A ^F3 |"Gm" GAG=F"D7" D4 |"G7" GA=BF"D7" E2"G7" D2 | %7
+"C7" G2"F7" F2"E7" E2"Eb7" _E2 |:$"^A""D7" D^FA_e dc^CD | =c2 =B2 _B3 A |"G7" =B,DFA GF^A,B, | %11
+ E2 _E2 D4 |$"C7" =Edc=B _B2 ^CD | A2 _A2 G4 |"F" ^G=AC=B,"C7" _B,=GDE |"F" F2 A,C-"E7" C4"Eb7" ||$ %16
+"^B""D7" D^FA_e dc^CD | =c2 =B2 _B3 A |"G7" =B,DFA GF^A,B, | E2 _E2 D4 |$"Bb" dcBA"Bdim7" _A4 | %21
+"F/C" fed_d"D7" c4 |"G7" =dfdA"C7" c A2 C |$"F" FFEF"D7" ^F4 |"G7" d=fdA"C7" c A2 C | %25
+"F" F4"E7" z4"Eb7" |] %26
+

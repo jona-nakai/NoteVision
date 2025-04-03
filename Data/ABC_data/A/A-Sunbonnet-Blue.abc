@@ -1,0 +1,18 @@
+X:1
+T:A Sunbonnet Blue
+C:1937 - Sammy Fain / Irviung Kahal
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+ C=B,C |:"F" cc c2"C7" _B2 cB |"F" AA A2"A7" G2 AG |"Dm" F2 F2"A7" E2 A2 |"Bb" D4"D7" z D_D=D |$ %5
+"Gm" B2 B2 B2 A2 |"C7" c4"A7" G4 |1"Dm" A2 A2"G7" A2 GF |"Gm7" G6"C7" z C :|2 %9
+"Dm" A2 F2"G7" A2"C7" A2 |"F" F8 ||$"Dm6" F2 =B,2"E7" E4 |"E7" =BB _B2"Am" A4 | %13
+"Dm" z2 F=B,"E7" E2 c2 |"Am" A4 z ^CDF |$"Dm7" AA ^G2"G7" =G2 z D |"C" F_E=EG z2 G^F | %17
+"D7" AD^FA"G7" =B2 =ec- |"C7" c8 ||$"F" cc c2"C7" B2 cB |"F" AA A2"A7" G2 AG | %21
+"Dm" F2 F2"A7" A2 A2 |"Bb" c4-"D7" c2 cd |$"Gm" c2 B2 A2 G2 |"G7" d4 D4 |"Gm7" B2 c2"C7" A2 A2 | %26
+"F" F8 |] %27
+

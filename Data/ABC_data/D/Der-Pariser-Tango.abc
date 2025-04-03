@@ -1,0 +1,24 @@
+X:1
+T:Der Pariser Tango
+C:1971 - Christian Bruhn
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm=" " snm=" "
+V:1
+"Bb""^Intro" B/A/G/F/ B/A/G/F/ B/A/G/F/ B/A/G/F/ | B/A/G/F/ B/A/G/F/ B/A/G/F/ =E/F/G/A/ ||$ %2
+"Bb"S B2 z F GFGB |"F7" A2 AF G2 z2 | A2 z F GFGA |"Bb" B2 BG F2 z2 |$ B2 z F GFGB | %7
+"F7" A2 AF G2 z2 | A2 z F GFGA |"Bb" B2 z F"F+" F2 ^F2 ||$"Bb" G2 D2 z B BA | G2 D2 z B BA | %12
+ G2 z D G2 z D |"F7" G2 E2 z C DE |$ A2 z G E2 C2 | A4 z F F^F |"Bb" G3 =F D2 B,2 | %17
+"F7" G2 z F F2 ^F2 |$"Bb" G2 D2 z B BA | G2 D2 z B BA | G3 D"Bb7" B3 G |"Eb" F2 E2 z E EF |$ %22
+"Gb" _G3 G _A3 G |"Bb" F4 z D E!dacoda!F |"Cm" G2 B2"F7" B2 A2 |"Bb" B2 z2 z F _GF ||$ %26
+[K:Bbmin]"Ebm" E2 C2 z"F7" F GF |"Bbm" D2 B,2 z F GF |"F7" =A2 z G F E2 D/C/ | %29
+"Bbm" B,2"F7" z2 z4 ||$"Bbm" (3F2 =E2 F2 (3G2 F2 D2 |"Ebm" _E8 |"F7" (3E2 =D2 E2 (3F2 E2 C2 | %33
+"Bbm" _D8 |$ (3D2 C2 D2 (3E2 D2 C2 |"Ebm" D4 C4 |"Ab7" (3C2 D2 E2 (3E2 F2 G2 | %37
+"Dbdim" =G4"Db" A2"F7" z2 |$"Bbm" (3F2 =E2 F2 (3_G2 F2 D2 |"Ebm" _E8 |"F7" (3E2 =D2 E2 (3F2 E2 C2 | %41
+"Bbm" _D8"Bbm/Ab" |$"Eb7/G" (3D2 C2 D2"Ebm/Gb" E3 D |"F" C3 C"Eb" =D2 E2 |"Dm" F4"Gb/Db" G4 | %45
+"Cm"S =G4"F7" =A4 ||$[K:Bb]"Eb""^Ã CODA" G4"Cm" B4 |"Cm/F" B4"F7" A4 |"Bb" B2 F2 z B AG | %49
+ B2 F2 z B AG | F2 z2"F7" F2 z2 |"Bb" B4 B2 z2 |] %52
+

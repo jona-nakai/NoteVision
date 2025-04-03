@@ -1,0 +1,17 @@
+X:1
+T:I'm An Errand Boy For Rhythm
+C:1954 - Nat King Cole
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm=" " snm=" "
+V:1
+|:"Bb6" z c2 B"G7" G2 F2 |"C9" G G2 G"F7" z4 |"Dm" z G2 F"G7#5" G2 G2 |"Cm7" G F2 G"F7" z F2 F |$ %4
+"Bb6" B c2 A-"D7" A F2 _A- |1"G7" A G2 z z2 z _d- |"C9" d2 =d6 |"F13" z8 :|2$"G7" _A G2 z z4 || %9
+"C9" z4"F13" d4 |"Bb6" B8 ||$"D7" z d2 d d2 d2 | d2 dd- d2 =B2 |"G7" A G2 A- A4 | z8 |$ %15
+"C7" z c2 c c2 c2 | c2 d2 d2 c2 |"F7" A F2 G- G4 | z8 ||$"Bb6" z c2 B"G7" G2 F2 | %20
+"C9" G G2 G"F7" z F2 F |"Dm" G2 z2"G7#5" G2 z2 |"Cm7" G2 GG"F7" z F2 F |$ %23
+"Bb6" B c2 A-"A7" A F2 _A- |"Ab7" A G2 z"G7" z4 |"C7" z4"F13" d4 |"Bb6" B8 |] %27
+

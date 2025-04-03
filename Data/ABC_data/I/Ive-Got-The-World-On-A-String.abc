@@ -1,0 +1,17 @@
+X:1
+T:I've Got The World On A String
+C:1932 - Harold Arlen / Ted Koehler
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+ z4 z CFA |:"F" dc"Eb7"_ed-"D7" d4 |"Gm7" cBfB"Bbm6" A G3 |"Am7" GFcF E F2 E- | %4
+"Am7" E4"Abm7" _E4 |$"Gm7" D2 D2"C7" C2 DD- |"Gm7" DC- C2"C13" A2 A2 |1"F" F8"F#dim" | %8
+"Gm7" z4"C7" z CFA :|2"F" F8- || FAAA AAA=B- |$"Em7" B8 |"A7" z A AA"A+7" AAA=B- |"D13" B8 | %14
+ z A AA AA=Be |$"G13" =B8 |"G+7" z G GG GGGA- |"Gm7" A8- |"C7" A4 z CFA ||$"F" dc"Eb7"_ed-"D7" d4 | %20
+"Gm7" cBfB"Bbm6" A G3 |"Am7" GFcF E F2 E- |"Am7" E4"Abm7" _E4 |$"Gm7" D2 D2"C7" C2 DD- | %24
+"Gm7" DC- C2"C13" A2 A2 |"F" F8- | F2 z2 z4 |] %27
+

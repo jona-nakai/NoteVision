@@ -1,0 +1,17 @@
+X:1
+T:ÐÐ¾ÑÑÑÐµÑ
+C:Ð. ÐÐ¾Ð»ÑÐ´ / Ð.ÐÑÑÐµÐ²Ð¸
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Dmin
+V:1 treble nm=" " snm=" "
+V:1
+ F3 D ||"E7/B" E8"Gm6/Bb" |"A7" z ^C DE G3 F |"E7/B" E8"Gm6/Bb" |"A7" z4 G3 E |$"Dm" F8- | %6
+ F2 z E DEFG | A8 | z4 ^G3 A |$"Cm" _e8 |"D7" z d cd c3 B |"Cm6" A8- |"D7" A2 z2 B2 c2 |$"Gm" d8 | %14
+ z c BA G3 A |"Gm" B8 | z4 F3 D |$"E7/B" E8"Gm6/Bb" |"A7" z ^C DE G3 F |"E7/B" E8"Gm6/Bb" | %20
+"A7" z4 G3 E |$"D7" A8"Cm6" |"D7" z D ^CD _E3 D |"Gm" B8 | z4 ^c3 d |$"Em7b5" e8 | %26
+"A7b9" z d ed cBA^G |"Dm" A8 | z4 F3 D |$"E7/B" E8"Gm6/Bb" |"A7" z ^C DE G3 F |"Dm" D8- | %32
+ D2 z2 z4 |] %33
+

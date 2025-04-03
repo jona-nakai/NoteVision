@@ -1,0 +1,22 @@
+X:1
+T:Let's Call the Whole Thing Off
+C:1937 - George Gershwin / Ira Gershwin
+C:
+Z:Copyright ÐÂ© www.realbook.site
+L:1/8
+M:2/2
+I:linebreak $
+K:G
+V:1 treble nm=" " snm=" "
+V:1
+"G6" G2 EF-"Em9" F F2 E |"Am7" G2 AB-"D7b9" B B3 |"G6" G2 EF-"Em9" F F2 E | %3
+"Am7" G2 AB-"D7b9" B B3 |$"G6" dG z2"G7/F" dG z2 |"C6/E" dG z2"Cm6/Eb" dG z2 | %6
+"G6/D" d2 cB"Em7" A2 G2 |"A7" A6"D7" z2 ||$"G6" G G2 E"Em9" F F2 E |"Am7" G G2 A"D7b9" B B3 | %10
+"G6" G G2 E"Em9" F F2 E |"Am7" G G2 A"D7b9" B B2 B |$"G6" dG z G"G7/F" dG z G | %13
+"C6/E" dG z G"Cm6/Eb" dG z2 |"G6/D" d2"Em7" cB"Am7" A2"D943" G2 |"G6" G4 z2 G2 ||$"C#m7b5" e8 | %17
+"F#7b9" d^cBc"Bm7" d2 d2 |"E7b9" B2 B2"Am7" =c2 c2 |"D9" A6"G9" E2 |$"C#m7b5" e8 | %21
+"F#7b9" d^cBc"Bm7" d2 d2 |"E7b9" B2 B2"Am7" =c2 c2 |"D9" A6 DD ||$ G"G6" G2 E"Em9" F F2 E | %25
+"Am7" G G2 A"D7b9" B B3 |"G6" G G2 E"Em9" F F2 E |"Am7" G G2 A"D7b9" B B3 |$ %28
+"G6" dG z2"E7/F" dG z2 |"C6/E" ddGG"Cm6/Eb" d G3 |"G6/D" ddcB"Am7" cB"D7" A2 |$"B7#5" B6"E7b9" z2 | %32
+"Am7" e2 dc"D13" B2 B2 |"G6" G4"D7" z4 |] %34
+

@@ -1,0 +1,17 @@
+X:1
+T:ÐÑÑÐ°Ð²Ð»Ð¸
+C:1964 - Ð¯. Ð¤ÑÐµÐ½ÐºÐµÐ»Ñ / Ð . ÐÐ°Ð¼Ð·Ð°ÑÐ¾Ð²
+Z:www.reabook.site
+L:1/8
+M:12/8
+I:linebreak $
+K:G
+V:1 treble nm=" " snm=" "
+V:1
+ Bge |:"B7" g2 (f f6) Baf |"Em" a2 g- g6 Bge |"B7" g2 (f f6) Bf^d |"Em" e6- e3- e2 B ||$ %5
+"Em" B2 B B2 B B2 B B2 B |"B7" c2 (B (B6) B2) B | B2 B B2 B B2 B ^d2 f |"Em" (g6 (g3) g) z B |$ %9
+"Em" B2 B B2 (B B)BB B2 B |"B7" c2 (B (B6) B2) B | B2 B B2 B a2 (a a)gf |"Em" e6- e3 z2 e ||$ %13
+"Em" g2 g f2 e g2 g f2 e |"Am7" g3 (f6 f2) f |"B7" a2 a g2 f a2 (a a)gf |"Em" (g6 g) z z gab |$ %17
+"Am" (c'3 c'2) c'"B7" b2 (f f)ba |"C" g3 g6 gfe |"F#7" f2 (f f3)"B7" f2 (f f)g^d | %20
+"Em" e6- e3 Bge :| %21
+

@@ -1,0 +1,20 @@
+X:1
+T:Je Veux
+C:2010 - Kerredine Soltani / Tryss / Zaz
+Z:www.realbook.site
+L:1/8
+M:2/2
+I:linebreak $
+K:Dmin
+U:s=!stemless!
+V:1 treble nm=" " snm=" "
+V:1
+"Dm""^intro" z2 z3/2 A/ G>F D>C |"Dm" D2 CD"Bb" E2"C" FG- |"Dm" G2 FG A4 | %3
+"Dm" z3/2 d/ c>B"Bb" A2"C" GF |$"Dm" EFGA E4- |"Dm" ED/C/ DE"Bb" FE"C"FE- |"Dm" E4- E3 F- | %7
+"Dm" F2 z2"Bb" z4"C" |:$"Dm"S z2 FE FEFE | F3 F F D2 E- |"C" E2 ED EDED | E3 E E C2 D- |$ %12
+"Bb" D2 DC DCDC | D3 D D D2 F- |"Gm" F3 F ED-DF- |1"A" FE>B,A,- A,2 z2 :|2"A" FE>DE- E2 z2 ||$ %17
+"Bb" sB2 sB2 sB2 sB2 | sB2 sB2 sB2 sB2 |"C" sB2 sB2 sB2 sB2 |"C#dim" sB2 sB2 sB2 z E |:$ %21
+"Dm" F3 E F3 E |"Dm" F3 E (3G2 F2 E2 |"C" E3 D E3 D |"C" E3 E (3F2 E2 D2 |$"Bb" D3 C D3 C |1 %26
+"Bb" D3 C (3D2 E2 D2 |"Gm" E2 F z ED z F |"A" z E>B,A,- A,3 E :|2$"Bb" D3 z (3D2 _D2 =D2 || %30
+"A" PE8 | P_D4 z4 |"Dm" sB2 sB2 sB2 sB2 |"Dm"S sB2 sB2"Bb" sB2"C" sB2 |] %34
+

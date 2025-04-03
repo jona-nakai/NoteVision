@@ -1,0 +1,22 @@
+X:1
+T:I Won't Dance
+C:1934 -Jerome Kern / Oscar Hammerstein / Otto Harbach /Dorothy Fields
+Z:
+Z:GPS part MvdG
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+|:"Cmaj7" z/ G/ G G2 |"Dm7" z A"G7" C D |"Cmaj7" z/ G/ G G2 |"Dm7" z A"G7" C D |$ %4
+"Cmaj7" z/ G/ G G2 |"Dm7" z A"G7" C D |"C" E4-"Cmaj7" |"C7" E3/2 E/ G F |$"Fmaj7" E C D C | %9
+"Fm" E C"G7b9" D C- |1"Cmaj7" C4-"C6" |"Dm7" C3"G7" z :|2"C6" C4-"Cmaj7" ||"C7" C E G F |$ %14
+"Fmaj7" E C"Em7" D C |"Fm" E C"G7b9" D C- |"C6" C4 |"Bbm7" z4"Eb7" ||$ C"Ab" _E F c | _B _A _E F | %20
+"Ab7" _G3/2 G/- G2 | z4 |$"Db" _A, _B, _D F | _E _D _A, _B, |"Db7" _C3/2 C/- C2- | C4 |$ %26
+"B" B, ^D ^F B |"B7" A ^F ^C ^D |"Cmaj7" E3/2 E/- E2- |"C6" E E G F |$"E7" E3/2 E/- E2- | %31
+"Am7" E E B A |"Dm9" E3/2 E/- E2- |"G7" E D E F ||$"Cmaj7" z/ G/ G G2 |"Dm7" z A"G7" C D | %36
+"Cmaj7" z/ G/ G G2 |"Dm7" z A"G7" C D |$"Cmaj7" z/ G/ G G2 |"Dm7" z A"G7" C D |"C" E4-"Cmaj7" | %41
+"C7" E3/2 E/ G F |$"Fmaj7" E C D C |"Fm" E C"G7b9" D C- |"C" C4-"Cmaj7" | C"C7" E G F |$ %46
+"Fmaj7" E G"A7" A"Ab7" c |"Dm7/G" e c"G7b9" d2 |"C6" c4- | c4 |] %50
+

@@ -1,0 +1,17 @@
+X:1
+T:Sway
+C:1953 - Luis Demetrio / Norman Gimbel
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Gmin
+V:1 treble nm=" " snm=" "
+V:1
+ dB dBdB |:"Am7b5" e2 dc-"D7" c4 |"Am7b5" e2 dc-"D7" c4 |"Gm" d2 cB- B4 | z2 BG BGBG |$ %5
+"Eb7" c2 BA-"D7" A4 |"Eb7" c2 BA-"D7" A4 |"Gm" B2 AG- G4 |1 z2 dB dBdB :|2 %9
+ (3z2 G2 A2 (3B2 A2 G2 ||$"F7" (3A2 A2 B2 c4 | (3z2 A2 B2 (3c2 d2 e2 |"Bb" (3f2 f2 d2 f4 | %13
+ (3z2 d2 e2 (3f2 e2 d2 |$"D7" (3^f2 f2 d2 f4 | (3z2 d2 =e2 (3^f2 e2 d2 |"Gm" g8 | %17
+"D7" z2 dB dBdB ||$"Am7b5" e2 dc-"D7" c4 |"Am7b5" e2 dc-"D7" c4 |"Gm" d2 cB- B4 | z2 BG BGBG |$ %22
+"Eb7" c2 BA-"D7" A4 |"Eb7" c2 BA-"D7" A4 |"Gm" B2 AG- G4 | z8 |] %26
+

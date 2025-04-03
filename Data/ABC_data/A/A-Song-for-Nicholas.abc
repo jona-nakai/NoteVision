@@ -1,0 +1,15 @@
+X:1
+T:A Song for Nicholas
+C:Bob Montgomery
+Z:Copyrights Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+|:"^A""Cmaj7" z B3 A3 ^F |"Ebmaj7" GE =FG- G2 A_B- |"Abmaj7" B3 _A G^D EF- |"Dbmaj7" F8 |$ %4
+"Cmaj7" z B3 A3 _A |"Ebmaj7" G=A _Bd- dc AG- |"Abmaj7" G8- |"Dbmaj7" G4 z _G FE- ||$ %8
+"^B""Cmaj7" E3 A B2 _B2 | A3 E- E4 |"Gbmaj7" (3z2 F2 _B2 c2 =B2 | _B3 F F4 |$ %12
+"Cmaj7" (3z2 A2 d2 e3 _e | d3 A- A3 _A |"Dbmaj7" G z G6- | G8 |] %16
+

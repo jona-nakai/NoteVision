@@ -1,0 +1,21 @@
+X:1
+T:Wave
+C:1967 - Antonio Carlos Jobim
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:D
+U:s=!stemless!
+V:1 treble nm=" " snm=" "
+V:1
+"Dm7" sB2 sB2"G7" sB2 sB2 |"Dm7" sB2 sB2"G7" sB2 sB2 |"Dm7" sB2 sB2"G7" sB2 sB2 | %3
+"Dm7" sB2 sB2"G7" z B dc |:$"Dmaj7" A6- AF |"Bbdim" G_Bce g f2 a- |"Am7" a8- | %7
+"D7" a2 aa- a b2 a- |$"Gmaj7" a g2 g f2 g2- |"Gm7" g2 fg- g a2 f- |"F#7" f8 | %11
+"B7" z f a^g =g f2 f- |$"E7" fddd- dBde |"Bb7" =fd=c_A"A7" G =F2 F- |"Dm7" F D3-"G7" D4 |1 %15
+"Dm" z4"G7" z B dc :|2"Dm7" z8"G7" ||$"Gm7" d4 (3=c2 _B2 A2 |"C7" G4 (3A2 _B2 d2 |"Am7" =c3 c c4- | %20
+ c4 z4 |$"Fm7" =c4 (3_B2 _A2 G2 |"Bb7" =F4 (3G2 _A2 =c2 |"Gm7" _B3 B B4- |"A7" B4 z =B dc ||$ %25
+"Dmaj7" A6- AF |"Bbdim" G_Bce g f2 a- |"Am7" a8- |"D7" a2 aa- a b2 a- |$"Gmaj7" a g2 g f2 g2- | %30
+"Gm7" g2 fg- g a2 f- |"F#7" f8 |"B7" z f a^g =g f2 f- |$"E7" fddd- dBde | %34
+"Bb7" =fd=c_A"A7" G =F2 F- |"Dm7" F D3-"G7" D4 |"Dm7" z8"G7" |] %37
+

@@ -1,0 +1,18 @@
+X:1
+T:A Chicken Ain't Nothing But A Bird
+C:1940 - L. Jordan
+Z:www.realbook.site
+L:1/8
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+|:"C" eecc"Am" ee c2 |"Dm7" eG-"G7" G4 z2 |"C" A c2 c"Am" ee e2 |"Dm7" A4"G7" z e2 z |1$ %4
+"C" eeee"C9" d3 d |"F" c2 cc-"Fm" c2 z c |"C" cc c2"Dm7" cccc |"C" c6"G7" z2 :|2$ %8
+"C" cccc"C9" _B2 B2 ||"F" AAAA"Fm" _A2 z G |"C" cc c2"Dm7" cccc |"C" c6"C9" z2 ||$ %12
+"F6" A2 c2 c d2 z |"Fm6" _A2 c2 c d2 z |"C" GG=AA _B2 EG- |"C7" G4"Db7" z4 |$"D7" dddd c c2 z | %17
+ B B2 B A A2 z |"G7" (3G2 G2 G2"Gdim" (3G2 G2 G2 |"G7" G2 z2 z4 ||$"C" ee c z"Am" eece- | %21
+"Dm7" eG-"G7" G4 z2 |"C" c c2 c"Am" cc c2 |"Dm7" A4"G7" z c2 c |$"C" ee c2"C9" ee c2 | %25
+"F" c c2"Fm" c2 z z c |"C" cc c2"Dm7" cccc |"C" c6 z2 |] %28
+

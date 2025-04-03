@@ -1,0 +1,22 @@
+X:1
+T:A Night in Tunisia
+C:1942 - Dizzy Gillespie
+Z:Copyrights Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Dmin
+V:1 bass nm=" " snm=" "
+V:1
+|:"Eb7" _E,B, _D_E z D2 A, |"Dm" =D,F, A,=B, z A,2 _B, |"Eb7" _E,B, _D_E z D2 A, | %3
+"Dm" =D,F, A,=B, z A,2 _B, ::$[K:treble]"Eb7" (3B,_DF c4 _BF | ^G"Dm69"A- A4 z A, | %6
+"Eb7" (3B,_DF cc- c2 BF |"Dm69" A6 z A, |$"Eb7" (3B,_DF c4 BF | ^G"Dm69"A- A4 z2 | %10
+"Em7b5" AB (3A/B/A/=G"A7" _E2 ^CD- |1"Dm" D4 z2 z A, :|2 D4"Dm" z2 z A ||$"Am7b5" c3 A- A3 G | %14
+"D7#9" ^F2 _e^c d =c2 A |"Gm" B G2 ^F- F2 AF |"Gm" GA E4 z B |$"Gm7b5" z B3 G3 F | %18
+"C7#9" E2 _d=B c _B2 ^G |"F6" A3 F (3=G/_A/G/F (3G/A/G/F |"Em7b5" E6"A7#9" z =A, ||$ %21
+"Eb7" (3B,_DF c4 BF |"Dm69" ^GA- A4 z A, |"Eb7" (3B,_DF cc- c2 BF |"Dm69" A6 z A, |$ %25
+"Eb7" (3B,_DF c4 BF |"Dm69" ^GA- A4 z2 |"Em7b5" AB (3A/B/A/=G"A7#9" _E2 ^CD- |"Dm" D4 z A2 A- ||$ %29
+"Em" A2 GE A2 GE | AGEA z2 z A- | A2"Eb7#11" G_E A2 GE | AG_EA z2 z A- |$"Dm" A2 FD A2 FD | %34
+ AFDA z2 z A- |"G7" A2 F_D A2 FD | AF_DA z2 z A- |$"C7" A2 ^F=D A2 FD |"Gm/C" A=FDA z2 z A- | %39
+"F#7" A2 E^C A2 EC | AE^CA z2 A"F"=c ||$ z8 | z8 | z8 | z8 |] %45
+

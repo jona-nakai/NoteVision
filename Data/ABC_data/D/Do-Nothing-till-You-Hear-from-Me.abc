@@ -1,0 +1,17 @@
+X:1
+T:Do Nothing till You Hear from Me
+C:1940 - Duke Ellington / Bob Russell
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm=" " snm=" "
+V:1
+ ec^c dfec |:"Bbmaj7" d8 |"Fm7" z e c^c"Bb13" dfec |"Ebmaj7" d8 |"Ebm7" z e c^c"Ab9#11" dfec |$ %5
+"Bbmaj7" dBFE-"G7#5" E4 |"C7" z2 ^c2"F13" dFGB- |"Bb" B8"Eb""Edim7" |1"F743" z e c^c dfec :|2 %9
+"Bb/F" z4"Abm9" z B"Db13" BB ||$"Gbmaj7" _d8 | B_dBB- BBBB | _d8 |"Gb7" B_dBB- BBBB |$ %14
+"Bbmaj7" f4- f3 F |"Gm7" GBdA-"G9" A3 B |"C13" c^GAc- c^cdf- |"F13" fec^c dfec ||$"Bbmaj7" d8 | %19
+"Fm7" z e c^c"Bb13" dfdc |"Ebmaj7" d8 |"Ebm7" z e c^c dfdc |$"Bbmaj7" dBFE-"G7#5" E4 | %23
+"C7" z2 ^c2"F13" dFGB- |"Bb" B8-"Eb""Edim7" |"Bb/F" B8"F743" |] %26
+

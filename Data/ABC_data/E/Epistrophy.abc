@@ -1,0 +1,18 @@
+X:1
+T:Epistrophy
+C:1941 - Thelonious Monk / Kenny Clarke
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm=" " snm=" "
+V:1
+"C#7" z2 CD"D7" ^A B3 | CD^AB- B2 z2 | z2 CD _B E3 | CD_BE- E2 z2 |$"D#7" z2 ^DE"E7" =c ^c3 | %5
+ ^DE=c^c- c2 z2 | z2 ^DE =c F3 | ^DE=cF- F2 z2 |$ z2 ^DE =c ^c3 | ^DE=c^c- c2 z2 | z2 ^DE =c F3 | %11
+ ^DE=cF- F2 z2 |$"C#7" z2 ^C=D"D7" ^A B3 | CD^AB- B2 z2 | z2 CD _B E3 |"C#7" CD_BE-"D7" E2 z2 ||$ %16
+"F#m" F,2 F,2 C^DF^G | A2 ^GA F2 ^D2 | F,2 F,2 C^DFA | z A2 ^G F2 ^D2 |$"B7" B,2 B,2 C^DF^G | %21
+ B2 AB A2 F2 |"Db7" =F_A_c_e- e c3 |"D7" ^F=A=c=e- e c3 ||$"D#7" z2 ^DE"E7" =c ^c3 | %25
+ ^DE=c^c- c2 z2 | z2 ^DE =c F3 | ^DE=cF- F2 z2 |$"C#7" z2 ^C=D"D7" ^A =B3 | ^CD^AB- B2 z2 | %30
+ z2 CD _B E3 |O CD_BE- E2 z2 :|O C"C#7"D^A=B-"D7" B2 =A=c- |"Gb7#11" c8 |] %34
+

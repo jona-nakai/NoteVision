@@ -1,0 +1,18 @@
+X:1
+T:I'm Crazy 'Bout My Baby
+C:1931 - A. Hill / T. Waller
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+"Cm""^Verse" G4 |"G7" c2 =B/d/- d |"Cm" c4 | z2 c _B |$"Eb" G2 c B | G2 c B | G4 |"G7" z4 ||$ %8
+"Cm" G4 |"G7" c2 =B/d/- d |"Cm" c4 |"F7" z2 d c |$"Bb7" B2 d"F7" c |"Bb7" B2"F7" d c |"Bb7" B4 | %15
+ z2 z e/c/ |:$"Fm7""^Chorus" e c A F |"Bb7" c c2 d/^c/ |"Gm7" d B G E |"C7" c3 B |$"Fm7" B A B A | %21
+"Bb7" G2 F/ e c/ |"Fm7" e c/G/-"Bb7" G/^F/ G |1"Eb" E3 e/c/ :|2"Eb" E2 ^F/G/F/G/ ||$"Eb9" =F F3 | %26
+ z2 ^F/G/F/G/ |"Ab6" =F4 | z2 A/=A/_A/=A/ |$"F9" G G3 | z2 ^c/d/c/d/ |"Bb7" B4 | z2 z e/c/ ||$ %33
+"Fm7" e c A F |"Bb7" c c2 d/^c/ |"Gm7" d B G E |"C7" c3 B |$"Fm7" B A B A |"Bb7" G2 F/ e c/ | %39
+"Fm7" e c/G/-"Bb7" G/^F/ G |"Eb6" E3 z |] %41
+

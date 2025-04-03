@@ -1,0 +1,18 @@
+X:1
+T:ÐÐ°ÐºÐ¾Ð½ ÐÑÑÐ¸Ð¼ÐµÐ´Ð° Ð½Ð°Ð¾Ð±Ð¾ÑÐ¾Ñ
+C:Ð. ÐÑÐ´Ð²Ð¸ÐºÐ¾Ð²ÑÐºÐ¸Ð¹ / Ð. ÐÐ»Ð¸ÑÐºÐ¸Ð¹
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Dmin
+U:s=!stemless!
+V:1 treble nm=" " snm=" "
+V:1
+"Dm" sB2 sB2 sB2"A7" sB2 |"Dm" sB2 sB2 sB2"A7" sB2 ||$"Dm" dd^cd c c3 | =cc=Bc B B3 | %4
+ _BA^GA =GFED |"Gm" [Ac]2 [GB]2 [^FA]2 [DB]2 |$"Eb" BBAB A G3 | GG^FG =F E3 | %8
+"Em7b5" EE^DE"A7" =D^CDE |"Dm" [GB]2 [FA]2"E7" [E^G]2"A7" [^CA]2 ||$"Dm" dd^cd c c3 | =cc=Bc B B3 | %12
+"D7" _BA^GA =G^F_E=D |"Gm" [Ac]2 [GB]2 [^FA]2 [DB]2 |$"Eb" _EG/A/ B/A/B/d/ _e/d/e/=f/ g/^f/g/b/ | %15
+"Dm" a=B,/^C/ D/C/D/E/ F/E/F/G/ A/^G/A/_B/ |$"A7" A^g/a/ _b/a/=g/f/ e/d/^c/B/ A/=G/F/E/ | %17
+"Dm" D2"A7" [^CEGA]2"Dm" [DFAd]2 z2 |] %18
+

@@ -1,0 +1,28 @@
+X:1
+T:Always And Forever
+C:1992 - Pat Metheny
+Z:Copyright Â© www.realbook.site
+%%score ( 1 2 )
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:2 treble 
+L:1/4
+V:1
+"Am7" z2 E2 E2 E2 |"Dm7" z2 z2 z cBG |"Am7" z2 E2 E2 E2 |"Dm7" z2 z2 z cBG |:$ %4
+"Am7" z2 (3z BG"Dm7" (3:2:2c2 E"Em7" G2 |"Fmaj7" z2 (3z FA"F/G" (3:2:2G2 F"E/G#" (3:2:2E2 D | %6
+"Am7" C3 A,"Fm/Ab" C4 |"C/G" z2 (3z EB"F#m7b5" ^GABc |$"F" C3 A,"Eb" C4 | %9
+"D7" z2 (3z A,E"F/G" C2 A,2 |"C" z2 E2 E2 E2 |"Fmaj/G" E4 E^F/G/ (3^G"E/G#"A^A |$ %12
+"Am7" B2- (3BB=G"Dm7" (3:2:2c2 E"Em7" G2 |"Fm7" z2 (3z _A_e"Bb7" (3:2:2d2 c (3:2:2_B2 A | %14
+"Eb6" _B3 c"Bb/D" B3 c |"Db" (3:2:2_A2 G A2- A3 _B |$"Cm7" (3:2:2G2 c _e2-"Abmaj7/C" e3 G | %17
+"Fm7" _Ac_ef"Gm7" _B3 c/d/ |"Am7b5" _e3 d/c/"D7b9" d3 c |"G" d8"Bm7b5""E7b9" |$ %20
+"Am7" z2 z/ B/B/G/"Dm7" (3:2:2c2 E"Em7" G2 |"F" z2 (3z FA"F/G" (3:2:2G2 F"E/G#" (3:2:2E2 D | %22
+"Am7" C3 A,"Fm/Ab" C4 |"C/G" z2 (3z EB"F#m7b5" ^GABc |$"F" C3 A,"Eb" C4 | %25
+"D7" z2 (3z A,E"F/G" C2 A,2 |"C" z2 E2 E2 E2 |"Fm6/C" F8 |"Cmaj7" z2 B2 G2 E2 | %29
+"Fm6/G" C6"E/G#" z2 :| %30
+V:2
+ x4 | E4 | E4 | E4 |:$ x4 | x4 | x4 | x4 |$ x4 | x4 | G,4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | %18
+ x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | C4 | x4 | x4 | x4 :| %30
+

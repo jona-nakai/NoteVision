@@ -1,0 +1,16 @@
+X:1
+T:Love Theme from The Godfather
+C:1972 - Nino Rota / Larry Kusik / Gianni Boncompagni
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Cmin
+V:1 treble nm=" " snm=" "
+V:1
+ Gce |:"Cm" dcec"Fm/C" dcAB |"Cm" G4 z G ce | dcec"Cm/Eb" dcG_G |"Fm" F4 z F A=B |$ %5
+"Fm6" d4 z F A=B |"Cm" c4 z C E_B |"Cm/G" AGBA"G743" AG"G7"G=B, |1"Cm" C4 z G ce :|2 %9
+"Cm" C4 z c c_c ||$"Bb7/D" B4"Bb9" d2 =cA |"Eb" G4 z G BG |"Db/F" F F3"Fm/Ab" z F A^F | %13
+"G" G4 z G ce ||$"Cm" dcec"Fm/C" dcAB |"Cm" G4 z G ce |"Cm" dcec"Cm/Eb" dcG_G |"Fm" F4 z F Ac |$ %18
+"Fm6" d4 z F A=B |"Cm" c4 z C E_B |"Cm/G" AGBA"G743" AG"G7"G=B |"Cm" c4 z4 |] %22
+

@@ -1,0 +1,17 @@
+X:1
+T:Bidin' My Time
+C:1930 - George Gershwin / Ira Gershwin
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+ B2 ||"Ebmaj7" G4"Cm" AG A2 |"Fm7" B3 F-"Bb7" F3 F |"Ebmaj7" G3 G"Ab/C" AG A2 | %4
+"Fm7" B3 F-"Bb7" F2 B2 |$"Eb" eeee"C7" =e c3 |"Fm7" _e2 c2"Fm7b5" B A3 |"Eb/Bb" G4 F"Bb7" F3 | %8
+"Eb" E8 ||$"G7" G3 G-"C" G4 |"G7" G3 G-"C" G4 |"Dm7" =A2 A2"G7" G2 F2 |"F/C" =A3 G-"C" G4 |$ %13
+"Bb7" B3 B-"Eb" B4 |"Bb7" B3 B-"Eb" B4 |"Cm7" e2"Cm7b5" e2"F7" d2 c2 |"Ab/Bb" c3 B-"Bb7" B2 A2 ||$ %17
+"Ebmaj7" G4"Cm" AG A2 |"Fm7" B3 F-"Bb7" F3 F |"Ebmaj7" G3 G"Ab/C" AG A2 |"Fm7" B3 F-"Bb7" F2 B2 |$ %21
+"Eb" e2 e2"C7" =e c3 |"Fm7" _e2 c2"Fm7b5" B A3 |"Eb/Bb" G4 F"Bb7" F3 |"Eb6" E4- E"Bb743" z z2 |] %25
+

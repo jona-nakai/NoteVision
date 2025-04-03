@@ -1,0 +1,17 @@
+X:1
+T:I'm Just A Lucky So And So
+C:1945 - Duke Ellington / Mack David
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm=" " snm=" "
+V:1
+"G6" z D EG (3BGB- B2 |"C7" z C EG (3_BGB- B2 |"G6" z D EG =BGBA- |"G7" A8 |$"C7" z2 G2"A7" A2 G2 | %5
+"Am7" eEGF"D7" B2 DG- |"G6" G8-"C9" |1"G#dim" G2 z2"D7" z4 :|2"G6" G4-"G7" GGGG ||$"C7" AAAA- A4 | %10
+"Gmaj7" FFFF F3 G |"C7" AAAA- A2 AA |"Gmaj7" F F3- F2 G2 |$"F#m7b5" AAAA"B7" A4 | %14
+"Em" BBBB"Bm7" BB"Bbm7"FB |"Am7" A6"D7" FF | E E3 z4 ||$"G6" z D EG (3BGB- B2 | %18
+"C7" z C EG (3_BGB- B2 |"G6" z D EG =BGBA- |"G7" A8 |$"C7" z2 G2"A7" A2 G2 |"Am7" eEGF"D7" B2 DG- | %23
+"G6" G8- | G2 z2 z4 |] %25
+

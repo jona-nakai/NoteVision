@@ -1,0 +1,23 @@
+X:1
+T:Clarinet Marmalade
+C:1918 - Larry Shields / Henry Ragas
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+"F" c8 |"A7" ^c8 |"D7" d8 | A8 |$"G7" A2 ^GA- AG A2 |"C7" A=GAc- cA G2 |"F" F8- | F2 z2 z4 |:$ %8
+"F" A8 |"C#power" ^G2 d6 |"F" c2 A2 F E2 _E- |"F7" E8 |$"Bb" z D FG _AG F2 | c2 B2"Bbm" F G2 =A- | %14
+"F" A8- |"F7" A2 FF E2 _E2 |$"Bb" z F GF _AF G2 | =A2 cB-"Bbm" BF G2 |"F" A4 ^G A2 d- | %19
+"D7" d6 z D |1$"G7" A2 A4 DF- | FG F2 E2 D2 |"C7" G8 | z c2 c =B2 _B2 :|2$"G7" AGAG- G2 z2 | %25
+"C7" z2 AG AcAG |"F" F8- | F2 z2 z4 ||$"C7" E G2 E"G7" D2 _D2 |"C7" C2 z2 z =B c^c | d=c_BA GFED | %31
+"C7" C2 z2 c4 |:$"F" A^GAC- C4 |"A7" A^GA^C- C4 |"D7" A^GAD- D4 | z2 A2 B2 A2 |$"G7" A^GAD- D4 | %37
+"C7" A^GAE- E4 |"F" =G2 F2 E2 D2 |"C7" E G2 E D2 C2 |$"F" A^GAC- C4 |"A7" A^GA^C- C4 | %42
+"D7" A^GAD- D4 | z2 A2 B2 A2 |$"G7" A^GAD- D4 |"C7" A^GAc- cA =G2 |"F" F8-"Bb" |1 %47
+"F" F2 z2"C7" z4 :|2"F" z2 AB AGFE ||$"Dm" D2 D2- DEFG |"A7" A2 AB AGFE |"Dm" D2 D2- DEFG | %52
+"A7" A2 AB AGFE |$"Gm" G2 G2- GABc |"D7" d2 d_e dcBA |"Gm" G2 G2- GABc |"D7" d2 z2 z2 cc |$ %57
+"C7" c4 z2 cc |"Cdim7" c4 z2 cc |"C7" cc B2 G2 E2 | C2 z2 c2 z2 ||$"F" c8 |"A7" ^c8 |"D7" d8 | %64
+ A8 |$"G7" AGAG- G4 |"C7" AGAc- cA G2 |"F" F8- | F2 z2 z4 |] %69
+

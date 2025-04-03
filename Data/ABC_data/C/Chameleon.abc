@@ -1,0 +1,17 @@
+X:1
+T:Chameleon
+C:1973 - Herbie Hancock / Paul Jackson / Harvey Mason / Bennie Maupin
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Bb
+V:1 bass nm=" " snm=" "
+V:1
+"^intro" G,,_A,,=A,, |:"Bb7" .B,,>._A, z .B, z C, _D,=D, |"Eb7" .E,>.B, z ._D z G,, _A,,=A,, ::$ %3
+[K:treble]"Bb7""^A" !>!B/.B/ z !>!_A/.A/ z !>!B/.B/ z !slide!_d2 | %4
+"Eb7" .!^!B2 z2 z2 B/_A/F/!>!A/- |"Bb7" A.B z2 z2 z !>!_d- |"Eb7" d.e z2 z4 ::$ %7
+"Bb7""^B" z !slide!.f !tenuto!e2 .e!>!_d- dd/e/ | _d/"Eb7"B/E/_D/- DB,- B,2 B/_A/F/!>!A/- | %9
+"Bb7" A.B z2 z2 z !>!_d- |"Eb7" d.e z2 z4 :|$"Bb7""^Coda" z !slide!.f !tenuto!e2 .e!>!_d- dd/e/ | %12
+ _d/"Eb7"B/E/!>!_D/- D!>!B,- B,4- | B,4 z G, _A,=A, |"Bb7" .!^!B, z z2 z4 |] %15
+

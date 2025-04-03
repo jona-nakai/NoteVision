@@ -1,0 +1,19 @@
+X:1
+T:Stormy Weather
+C:1933 - Harold Arlen / Ted Koehler
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm=" " snm=" "
+V:1
+ ^AB |:"Gmaj7" d6"E7" ^AB |"Am7" dBd_d"D7" c2 ^AB |"Gmaj7" d =D3-"Dm7" D4"G7" | %4
+"C6" AAAA"Cm6" A2-"F9" (3AG=E |$"G6" G D3-"E7" D4 |"Am7" CEG_B-"D7" B3 B |1"G6" =B G3-"Em7" G4 | %8
+"Am7" z4"D7" z2 ^AB :|2"G6" B G3- G2 GG || E D3- D4 ||$"C6" EF (3GAG-"C#dim" GGGG | %12
+"G6/D" G3 G"G7" B G3 |"C6" EF (3GAG-"C#dim" GGGG |"G6/D" G3 G"G7" E D3 |$ %15
+"C6" EF (3GAG-"C#dim" GGGG |"G6/D" G3 G"G7" c B3 |"Bm7" d2 BA"Em7" G2 E2 |"Am7" A6"D7" ^AB ||$ %19
+"Gmaj7" d6"E7" ^AB |"Am7" dBd_d"D7" c2 ^AB |"Gmaj7" d =D3-"Dm7" D4"G7" | %22
+"C6" AAAA"Cm6" A2-"F9" (3AG=E |$"G6" G D3-"E7" D4 |"Am7" CEG_B-"D7" B3 B |"G6" =B G3-"Em7" G4- | %26
+"Am7" G4"D7" z4 |] %27
+

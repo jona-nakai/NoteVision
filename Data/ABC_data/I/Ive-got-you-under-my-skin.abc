@@ -1,0 +1,23 @@
+X:1
+T:I`ve got you under my skin
+C:1936 - Cole Porter
+Z:Copyright Â© www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+ B ||"Fm7" c2 c2- |"Bb7" c2 B/ A G/ |"Ebmaj7" G4- |"C7" G2 z B |$"Fm7" c2 c2- |"Bb7" c2 B/ A G/ | %7
+"Ebmaj7" F3/2 G/ G2- |"C7" G3 G |$"Fm7" A A/A/ A2- |"Bb7" A G G/ F E/ |"Ebmaj7" D3/2 C/ C2- | %12
+"C7" C2 z D |$"Fm7" E2 E2- |"Bb7" E2 D/ C B,/ |"Ebmaj7" B,4- |"C7" B,2 z B ||$"Fm7" c2 c2- | %18
+"Bb7" c2 B/ A G/ |"Ebmaj7" G4- |"C7" G3 B |$"Fm7b5" (3_c c c (3c c c |"Bb7b9" _c2 B/ A G/ | %23
+"Ebmaj7" ^F3/2 G/ G2- | G3 G |$"Dm7" (3=A A A (3A A A |"G7" =A G G/ F =E/ |"Cmaj7" ^D3/2 =E/ E2- | %28
+ E3 =E |$"Fm7" F2 F2- |"Bb7" F2 E/ D C/ |"Ebmaj7" B,4- | B,2 z E ||$"Fm7" (3F F F (3F F F | %34
+"Bb743" (3:2:2F2 F (3F G A |"Ebmaj7" (3:2:2B2 B (3B B B |"C7b9" (3:2:2B2 B (3B A G |$ %37
+"Fm7" (3:2:2F2 F (3:2:2F2 F |"Bb743" (3F F F (3F G A |"Ebmaj7" (3B B B (3B B B | %40
+"G7b9" B2- (3B c d ||$"Cm7" e e/e/ e2- |"Fm7" e d"Bb7" d/ c B/ |"Ebmaj7" B4- |"Cm7" B2 d/ c B/ |$ %45
+"Fm7" B3/2 B/ B2- |"Bb7" B d d/ c B/ |"Ebmaj7" B3/2 B/ B2- |"Bbm7" B3"Eb7" B/=B/ |$ %49
+"Abmaj7" c3/2 c/ c d/e/ |"Db7" f3/2 f/ f e/d/ |"Ebmaj7" c z/ B/ E/ F G/ |"Gm7b5" B3"C7" =B,/C/ |$ %53
+"Fm7" G2 G2- |"Bb7" G2 G/ F E/ |"Eb" E4- | E2 z2 |] %57
+

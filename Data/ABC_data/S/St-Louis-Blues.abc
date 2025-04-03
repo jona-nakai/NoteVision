@@ -1,0 +1,18 @@
+X:1
+T:St Louis Blues
+C:1914 - W. C. Handy
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm=" " snm=" "
+V:1
+|:"G"{/^A} BdBG- G4 |"C7" z ^D EG _B3 =A |"G" G8- |"G7" G2 z2 z4 |$"C7" z E GA- A4 | %5
+ z E GA _B2 A2 |"G" G8- | G2 z2 z4 |$"D7" FAFE- E4 | z2 _BB B3 A |1"G" G8-"C7" | %11
+"G" G2 z2"D7" z4 :|2"G" G8-"C7" ||"G" G2 z2"D7" z d d_B |:$[K:Gmin]"Gm" d d3- d4 | z c c^c d B3 | %16
+"D7" A8- | A4 z c cA |$"D7" c c3- c4 | z2 c^c d A3 |1"Gm" G8- |"D7" G2 z2 z d dB :|2 %22
+"Gm" G4"A7" A4 ||"D7" d6 ^A=B ||$[K:G]"G" G2 ^AB G2 AB | G2 ^AB GABG- | G8- |"G7" G2 z2 z2 ^AB |$ %28
+"C7" =A2 GE G2 A_B | A2 GE G^A=BG- |"G" G8- | G2 z2 z2 ^AB |$"D7" d2 ^AB DABC- | C^ABD- DABG- | %34
+"G" G8- | G6 z2 |] %36
+

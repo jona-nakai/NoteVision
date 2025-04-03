@@ -1,0 +1,18 @@
+X:1
+T:If I Had You
+C:T. Shapiro, J. Campbell, R. Connely
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm=" " snm=" "
+V:1
+|:"Bb" DE=EF"Gm7" d d2"C7" _d |"Fm7" c4"Bb7" d d2 _d |"Eb" c4 d d2 _d |"Ab7" c8 |$ %4
+"Dm7" DE=EF"G7" A A2 _A |1"Cm7" G4"F7" A A2 _A |"Bb6" G8-"G7" |"Cm7" G6"F7" z2 :|2$ %8
+"Cm7" G4"F7" G F2 G |"Bb6" B8-"Ab7" |"Bb6" B6"A7" z2 ||$"Dm6" d=ede d2 A2 |"Em7b5" B B3-"A7b9" B4 | %13
+"Dm7" ABAB"Bm7b5" A2 F2 |"Em7b5" =E8"A7b9" |$"Dm6" d=ede d2 A2 |"Em7b5" B B3-"A7b9" B4 | %17
+"Dm7" ABAB"G9" A2 F=E |"Cm7" _E6"F7" F2 ||$"Bb" DE=EF"Gm7" d d2"C7" _d |"Fm7" c4"Bb7" d d2 _d | %21
+"Eb" c4 d d2 _d |"Ab7" c8 |$"Dm7" DE=EF"G7" A A2 _A |"Cm7" G4"F7" A A2 _A |"Bb6" G8-"G7" | %26
+"Cm7" G6"F7" z2 |] %27
+

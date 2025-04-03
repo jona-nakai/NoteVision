@@ -1,0 +1,17 @@
+X:1
+T:Frim-Fram Sauce
+C:1945 - Redd Evans / Joe Ricardel
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm=" " snm=" "
+V:1
+ _D=DF |:"Bb6" B2 G_D =DF- F2 | B2 G_D =DF- F2 |"C9" z =E GB =d c2 G- | G4 z d dG |$ %5
+"Eb6" B2 B2"Edim" B2 BG |"Bb6" B B2 G-"G7" G2 GB |"C7" d B3"F7" B2 cB- |1"Bb6" B4"F7" z _D =DF :|2 %9
+"Bb6" B4 z4 ||$"Fm7" z B _AB-"Bb7" B z cB |"Eb6" GB G2 z4 |"Fm7" z B/G/ _AB"Bb7" cB- B2 | %13
+"Eb6" G4 z4 |$"C7" z2 B2- Bccc |"F7" A4 z A AB |"C7" cc B2 A2 CF- |"Cm7" F4"F7" z _D =DF ||$ %18
+"Bb6" B2 G_D =DF- F2 | B2 G_D =DF- F2 |"C9" z2 (3=EGB =d c2 G- | G4 z d dG |$ %22
+"Eb6" B2 B2"Edim" B2 BG |"Bb6" B B2 G-"G7" G2 GB |"C7" d B3"F7" B2 cB- |"Bb6" B4 z4 |] %26
+

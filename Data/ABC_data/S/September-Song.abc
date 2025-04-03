@@ -1,0 +1,17 @@
+X:1
+T:September Song
+C:1938 - Kurt Weill / Maxwell Anderson
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ C E B ||"F7" A A A2 |"Fm" z C"Bb7" (3C _E _A |"Cmaj7" G3/2 G/- G2 | z E/E/ G c |$"D7" d4- | %6
+"Dm7b5" d D"G7" (3D C D |"Cmaj7" E3/2 E/- E2 | z C/C/ E B ||$"F7" A3/2 A/- A2 | %10
+"Fm" z C/C/"Bb7" _E _A |"Cmaj7" G4 | z E G/G/ c |$"D7" d4- |"Dm7b5" d D/E/"G7" F F |"Cmaj7" E4 | %16
+ z2"C7" c c ||$"Fm" d c/B/ c2- | c2 c c |"F#dim7" _e3/2 c/ c2- | c2 z z/ c/ |$"Fm" d2 c2 | %22
+ z2 z z/ c/ |"F#dim7" _e2 c2 |"Cmaj7" z C =E B ||$"F7" A3/2 A/ A2 |"Fm" z C"Bb7" _E _A | %27
+"Cmaj7" G4 | z E G c |$"D7" d3 A |"Dm7b5" c2"Dm/G" c2 |"Cmaj7" c4 |"C7" z4 |] %33
+

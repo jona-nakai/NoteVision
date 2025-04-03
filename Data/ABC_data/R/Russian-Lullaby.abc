@@ -1,0 +1,16 @@
+X:1
+T:Russian Lullaby
+C:1927 - Irving Berlin
+Z:www.realbook.site
+L:1/4
+M:2/2
+I:linebreak $
+K:Dmin
+V:1 treble nm=" " snm=" "
+V:1
+"Dm" D2 z E |"F+" F2 z G |"F" A/F/- F2 z/ A/- |"Dm" A2"G7" z G |$"F" F A3 |"E7" E3"A7" A | %6
+"Dm" D4- |"Fdim" D2"C7" z2 |$"F6" F3 z/ G/ | A2 B2 |"F7" c3- c/A/ |"Bb9" c2"Db6" z B |$"F" A A z2 | %13
+"C+7" ^G2 z G |"F" A4- | A z z2 ||$"A7" A2 z =B | ^c2 z d |"Bb7" f4 |"A7" e z z2 |$"Dm" d2 z2 | %21
+"F7" c2 z A |"Bb6" F4 |"A7b9" G2 z G |$"Dm" A2 z ^G | A2 z B |"Em7b5" G2 ^F2 |"A7b9" G z z A/G/ |$ %28
+"Dm" F A2 z |"A7b9" E2 A2 |"Dm" D4- | D2 z2 |] %32
+

@@ -1,0 +1,20 @@
+X:1
+T:Java Jive
+C:M. Drake / M. Oaklano
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+|:"F" C2 F2"Fdim" DF- F2 |"C7" C E2 E- E4 | c2 c=B _BAG_A |"F" =A F2 F- F4 |$"F" cccc-"F9" c2 cc | %5
+"Bb" ccc"Bbm"B- B2 z =B |"F6" cA_BG"C6" AFGE |1"F6" F2 z2"C7" z4 :|2"F6" F2 z2"F7" z2 F2 ||$ %9
+"Bb7" _AAFA- AFGA- | AFG_A- A2 z F | _AFGA- AGFd- |"F6" dFFF- F2 z F |$ c2 B2 AFDC | %14
+"B7" ^D3 C-"C7" C2 z2 |"Cdim" =B3"C7" c- c2 z2 |"C7" Accd Accd ||$"F" C2 F2"Fdim" DF- F2 | %18
+"C7" C E2 E- E4 | c2 c=B _BAG_A |"F" =A F2 F- F4 |$"F" cccc-"F9" c2 cc |"Bb"O ccc"Bbm"B- B2 z =B | %23
+"F6" cA_BG"C6" AFGE |"F6" F2 z2 z4 ||$"F6" F F2 F- F2 z2 |"F#dim" _E3 =E-"C7" E2 z2 | %27
+"F6" F F2 F- F2 z2 |"F#dim" _E3 =E-"C7" E2 z2 |$"F" F F2"F9" A- A4 |"Bb" B B2 =B-"Db7" B3 B | %31
+"C7" cA_B=B"Cdim" cA_B=B |"C7" c2 z C- C2!D.C.! z2 ||$"Bb"O ccc"Bbm"B- B2 z =B | %34
+"F6" cA_BG"C7" AFGE |"F6" F2 z2 z4 |] %36
+

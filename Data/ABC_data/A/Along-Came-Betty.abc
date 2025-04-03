@@ -1,0 +1,19 @@
+X:1
+T:Along Came Betty
+C:1958 - Benny Golson
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble nm=" " snm=" "
+V:1
+"Bbm7" z4 c z Bd- |"Bm7" d8"E7" |"Bbm7" z2 z c- cB=AB |"Bm7" d8"E7" |$ %4
+"A7b9" z =E ^FA (3=B z =A (3z AF |"Ab7" _A8 |"Gmaj7" z =D=E^F =A z GF- |"Gb7" F8 |$ %8
+"Gbm7" z4 A z _G=A- |"Gm7" A8"C7" |"Gbm7" z2 z _A- A_GFG |"Gm7" =A6"C9" c=G- |$ %12
+"Fmaj7" G3 F c=B_BG |"A7b9#5" (3=A2 B2 G2 A3 A |"Dm7" D=EFG =A=d_d=d |"G13" =A4-"G7#5" A3 =d- |$ %16
+"Cm7" de=dB c4 |"F7b9" z E_G=G ce=d_d |"Am7b5" c4-"D7b9" c=dc=A |"Gm7" B=DG=A B=dc=B |$ %20
+"Em7b5" _B8 |"A7b9" z =E G=A (3c z =B (3z _BA |"Fm7" _A3 G- (3G2 B2 A2 |"Bb7" F2- (3FCE =D2 z2 |$ %24
+"Bbm7" z4 c z B_d- |"Bm7" d8"E9" |"Bbm7" z2 z c- cB=AB |"Bm7" d6"E9" ce- |$"Cm7b5" e8- | %29
+"F7" e3 d z czF |"Bbm7b5" =E8 |"Eb7#9" ^F3 =E (3F2 E2 F2 |"Abmaj9" _E8- | E8 |] %34
+

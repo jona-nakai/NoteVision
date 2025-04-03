@@ -1,0 +1,18 @@
+X:1
+T:Lover, Come Back To Me
+C:1928 -  Sigmund Romberg / Oscar Hammerstein II
+Z:www.realbook.site
+L:1/4
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+|:"Eb" z E E F | G3 z |"G7" z D D E | F3 z |$"Cm" z E E F | G3 z |"F7" z C C D | E3 z |$ %8
+"Eb" z B, B, C | E F G B |"F7" G4 |"Bb7" F3 z |$"Eb" E z E z |"Ab7" z E E E |1"Eb" E4 |"Bb7" z4 :|2 %16
+"Eb" E4 |"G7" z2 D2 ||$"Cm" C D E F | G c _c =c |"Fm" A c _c =c |"Cm" G4 |$"G7" G4 | D4 | %24
+"D7b9" E4 |"G7" D4 |$"Cm" C D E F | G c _c =c |"Fm" A c _c =c |"Cm" G3 z |$"F9" G4 | C D E G | %32
+"Bb7" B4 | G3 z ||$"Eb" z E E F | G3 z |"G7" z D D E | F3 z |$"Cm" z E E F | G3 z |"Edim" z G G A | %41
+ B3 z |$"Fm" z A A B | c e c A |"Eb" G B G E |"Bb7" F2 G2 |$"Eb" E E z2 |"Ab7" z E E E |"Eb" E4- | %49
+ E z z2 |] %50
+

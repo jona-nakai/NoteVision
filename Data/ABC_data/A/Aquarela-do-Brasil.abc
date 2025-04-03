@@ -1,0 +1,23 @@
+X:1
+T:Aquarela do Brasil
+C:1939 - Ary Barroso / Bob Russell
+Z:www.realbook.site
+L:1/8
+M:2/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+ z2 z/ B,C/- |:"Eb" C4- | C2 z2 | z2 B,C | D>C- C/B,C/- |"Ebdim7" C<C- C2- | C4 | z2 B,C | %8
+ D>C- C/B,C/- |$"Eb" C<C- C2- | C4 | z2 B,C | DE/F/- F/GA/- |"Db7" A2 G2- |"C7" G2 z2 | %15
+"Fm7" z B/G/ B2 |"Bbsus4" GF EC- |$"Fm7" C/BG/ B2 |"Bbsus4" G>F- F/EC/- |"Fm7" C/BG/ B2 | %20
+"Bbsus4" G>F- F/EC/- |"Fm7" C/BG/ BG |"Bbsus4" FE G2- |"Eb" G4 | z2 D2 |$"Fm7" C4 |"Bb7" z2 DG- | %27
+"Eb" G4 | z2 DC- |"Fm7" C4 |"Bb7" z2 DG- |"Eb" G4 | z4 | z4 | z4 ||$"Eb" G4- | G4 | z B BG | %38
+ GF FE |"Cm7" F>F- F2- | F4 | z B BG | GF FE |$"F7" F>F- F2- | F4 |"Bbsus4" z B BG | GF"Bb7#5" FE | %47
+"Eb" G>G- G2 | z2 D2 |"Bb7" C4 | z2 DG- |"Eb" G2 z2 |"D7" z4"Db7" ||$"C7" B3 B- | B4"Db7" | %55
+"C7" z B B=A | _AG"Db7" ^FG |"C7" B3 B- | B4"Db7" |"C7" z B B=A | _AG"Db7" ^FG |$"C7" B3 B- | %62
+ B4"Db7" |"C7" z B B=A | _AG ^FG |"Fm7" A4- |"Fm7#5" A4 |"Fm6" z4 |"Fm7#5" z4 |$"Abm7" A A3- | A4 | %71
+"Db7" z A AG | GF ED |"Ebmaj7" F F3- |"Fm7" F4 |"Gm7" z E FG |"C7#9" B>F F/EF/- |"F6" F<D- D2- | %78
+"F7" D2 z2 |"B7#11" z F FF |$"Bb7" F>F- F/EG/- |"Eb" G G3 | z2 DC- |"Bb743" C4 |"Bb7" z2 DG- | %85
+"Ebmaj7" G4 | z2 DC- |"Bb743" C4 |"Bb7" z2 DG- |"Eb" G4- | G2 z2 | z4 | z4 |] %93
+

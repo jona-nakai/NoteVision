@@ -1,0 +1,17 @@
+X:1
+T:Fools Rush In
+C:1940 - Johnny Mercer / Rube Bloom
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+"Dm7" A3 A A4- |"G7" A2 B2 edBA |"Em7" G8- |"Am7" G2 A2 cBAG |$"Dm7" F3 F F4- |"G7" F2 G2 BAGF | %6
+"Cmaj7" E8- |"Am" E4 A2 E2 ||$"Dm" D8- |"G7" D2 A2 G2 E2 |"Am" C8- | C2 D2 E2 G2 |$ %12
+"D7b5" ^G3 A"D7" A4- | A2 A2 B2 c2 |"Dm7" d8- |"G7" d8 ||$"Dm7" A3 A A4- |"G7" A2 B2 edBA | %18
+"Em7" G8- |"Am7" G2 A2 cBAG |$"Dm7" F3 F F4- |"G7" F2 G2 BAGF |"Bb7" E8- |"A7" E8 ||$ %24
+"Dm7" D3 D D4- |"Fm6" D2 F2 _A2 c2 |"C" e3 e"Em" e4- |"Am" e2 e2 dcAc |$"Dm7" d3 d d4- | %29
+"G7" d2 d2 c2 B2 |"C" c8- | c6 z2 |] %32
+

@@ -1,0 +1,16 @@
+X:1
+T:Child Is Born
+C:1969 - Thad Jones
+Z:www.realbook.site
+L:1/4
+M:3/4
+I:linebreak $
+K:Bb
+V:1 treble nm=" " snm=" "
+V:1
+"Bbmaj7" D3 |"Ebm/Bb" E F B |"Bbmaj7" D3 |"Ebm/Bb" E F B |$"Bbmaj7" D3 |"Ebm/Bb" E F B | %6
+"Am7b5" d3 |"Dm9" c3 |$"Gm7" D3 |"D7#5" E F B |"Gm7" D3 |"D7#5" E F B |$"Gm7" D3 |"C7" =E G c | %14
+"F7" d3 | F2- F/E/ ||$"Bbmaj7" D3 |"Ebm/Bb" E F B |"Bbmaj7" D3 |"Ebm/Bb" E F B |$"Bbmaj7" D3 | %21
+"D7" F B d |"Ebmaj7" f3 |"Ab9" e2"Cm7b5" _G |$"Bb/F" F3 |"Gb6" E F B |"Gm7" D3 |"C9" =E G c | %28
+"F7"O d3 | F3 :|$O d3"F7" | A3 |"Bbmaj7" c3 |"Eb7" c3 |"Bbmaj7" c3 |] %35
+

@@ -1,0 +1,16 @@
+X:1
+T:I Wish I Knew
+C:1945 - Harry Warren / Mack Gordon
+Z:Copyright Â©
+L:1/4
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm=" " snm=" "
+V:1
+"Am7" z B B A |"D7" B3 A |"Am7" B A d B |"D7" E A3 |$"Gmaj7" z A A G |"C7" A3 G |"Gmaj7" A G d B | %7
+"Bm7" D F3"E7" ||$"Am7" z E d c |"D7" B A F E |"Gmaj7" ^C3 D |"G" G4"B7#5" |$"Em7" z G e B | %13
+"A7" A G ^D E |"D7" F2"Am7/C" G2 |"Bm7" A2"E7" ^A2 ||$"Am7" z B B A |"D7" B3 A |"Am7" B A d B | %19
+"D7" E A3 |$"Gmaj7" z A A G |"C7" A3 G |"Gmaj7" A G d B |"Bm7" D F3"E7" |$"Am7" z E d c | %25
+"D7" B A G F |"Bm7b5" e2 d2 |"E7" c2 B2 |$"Am7" z B B A |"D7" d c A B |"G" G4 |"Bm7" z4"E7b9" |] %32
+

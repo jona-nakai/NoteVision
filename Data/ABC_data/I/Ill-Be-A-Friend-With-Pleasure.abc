@@ -1,0 +1,18 @@
+X:1
+T:I'll Be A Friend With Pleasure
+C:1930 - Maceo Pinkard
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+"F6""^Verse" z/ d c/ B A |"Gm7" c D3 |"C7" z/ A G/ F G |"F6" A3 z |$"F6" z/ d c/ B A |"Gm7" c D3 | %6
+"C7" z/ A G/ F G |"F" F3 z |$"Am7" z/ G F/ E G |"Dm7" F/G/ A3 |"E7" z/ =B A/ ^G B |"C7" A/_B/ c3 |$ %12
+"F6" z/ d c/ B A |"Gm7" c D3 |"C7" z/ A G/ F G |"F" F3"C7#5" z ||$"F""^Chorus" A c d d- | d2 z2 | %18
+"C7#5" ^G c d d- | d2 z2 |$"F9" A c"Cm6/Eb" d d- |"D7" d2 D2 |"D7#5" B4 |"D7" A4 |$"G7" D F G G- | %25
+ G2 z2 |"Gm7b5" _D F G G- |"C7" G2 z2 |$"F" E F"Cm6/Eb" A c- |"D7" c2 D2 |"G7" A4 |"C7#5" ^G4 ||$ %32
+"F" A c d d- | d2 z2 |"C7#5" ^G c d d- | d2 z2 |$"F9" A c"Cm6/Eb" d d- |"D7" d2 D2 |"D+" B4 | %39
+"D7" A4 |$"Gm7" D F G G- |"Bbm6" G2 z2 |"F9" A c"Cm6/Eb" d d- |"D7" d2 z2 |$"G7" D F G G- | %45
+"G7b5/C#" G2"C7" A2 |"F" G F3 | z4 |] %48
+

@@ -1,0 +1,17 @@
+X:1
+T:It's Only A Paper Moon
+C:1933 - Harold Arlen / Yip Harburg / Billy Rose
+Z:www.realbook.site
+L:1/8
+M:2/2
+I:linebreak $
+K:G
+V:1 treble nm=" " snm=" "
+V:1
+|:"G6" z D2 D"G#dim" d d2 d |"Am7" c2 BA-"D7" A4 |"Am7" z D2 D"D9" c c2 c |"G6" B2 AG- G4 |$ %4
+ z D2 D"G7" d d2 ^d |"C6" e2 cA-"A7" A2 GF- |"D7" F2 ed- d2 FG- |1"G6" G4 z4 :|2 %8
+"G6" G4"G7" z2 G2 ||$"C6" A4"C#dim" ^A4 |"Gmaj7" B6 ce |"Am7" d3 d"D7" B3 B |"G6" G6"G7" G2 |$ %13
+"C6" A4"C#dim" ^A4 |"Gmaj7" B6 ^AB |"Bm7" dd d2"E7" d2 ^AB |"Am7" ee e2"D7#5" e4 ||$ %17
+"G6" z D2 D"G#dim" d d2 d |"Am7" c2 BA-"D7" A4 |"Am7" z D2 D"D7" c c2 c |"G6" B2 AG- G4 |$ %21
+ z D2 D"G7" d d2 ^d |"C6" e2 cA-"A7" A2 GF- |"D7" F2 ed- d2 FG- |"G6" G6"Am""D7" z2 |] %25
+

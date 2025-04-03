@@ -1,0 +1,16 @@
+X:1
+T:Fascinating Rhythm
+C:1924 - George Gershwin / Ira Gershwin
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+|:"Bb7" FAGF BB z F | AGFB B z FA | GFBB z F AG | F2 B,6 |$"Eb7" B_dcB ee z B | _dcBe e z Bd | %6
+ cBee z B _dc | B2 E6 |1$"Ab" z2 E2 A2 B2 |"Fm7" c2 B d2"Bb7" B c2 |"Eb" G8 | %11
+"Dm7b5" BGGG"G7" BGGG ||$"Cm" z2 E2 G2 B2 |"F7" e2 d f2 c d2 |"Fm7" B8 |"Bb7" z2 c2 A2 G2 :|2$ %16
+"Ab" z2 E2 A2 B2 |"Dm7b5" c2 c d2"G7" c d2 |"Cm7" z2 e2 f d3 |"F7" c8 ||$"Fm7" FAGF BB z F | %21
+"Bb7" AGFc- cd G2 |"Eb" E8 | z8 |] %24
+

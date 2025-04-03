@@ -1,0 +1,18 @@
+X:1
+T:Elmer's Tune
+C:1941 - Elmer Albrecht / Dick Jurgens / Sammy Gallop
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ G/ A^A |:"G7" BB z _B =AA z ^F | GG^F=F z3/2 ^F/ G^G |"C" AA z ^F =GG z F | %4
+"G7" =FF^DE"C" z z/ ^F/ GA |$"G7" GG z ^F =FF z ^F | GG^F=F- F2 z2 |1"D7" e e2 e-"G7" e z B2 | %8
+"C" A4 z3/2 G/ A^A :|2"D7" e e2 e-"G7" e z e2 ||"C" c8 ||$"F6" A c3- c4 |"C" A G3- G4 | %13
+"F6" A>c A>c A>c A>c |"C" A G3- G4 |$"D6" A e3- e4 | d c3- c4 |"G7" dd B2 c2 A2 | %18
+ B>G A>G- G z/ G/ A>^A ||$"G7" BB z _B =AA z ^F | GG^F=F z3/2 ^F/ G^G |"C" AA z ^F =GG z F | %22
+"G7" =FF^DE"C" z3/2 ^F/ GA |$"G7" GG z ^F =FF z ^F | GG^F=F- F2 z2 |"D7" e2 e2"G7" e e2 c- | %26
+"C" c8 |] %27
+

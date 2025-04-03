@@ -1,0 +1,14 @@
+X:1
+T:Blue Bossa
+C:K. Dorham
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Cmin
+V:1 treble nm=" " snm=" "
+V:1
+ G2 ||"Cm6" g3 f e d2 c- | c6 B2 |"Fm7" A4 g3 f- | f8 |$"Dm7b5" f3 e d c2 B- |"G7b9" B6 A2 | %7
+"Cm6" G4 f3 e- | e8 |$"Ebm7" e3 _d c B2 A- |"Ab7" A6 _G2 |"Dbmaj7" _G2 FB- BF A2- | A8 |$ %13
+"Dm7b5" A2 GB- B3 A |"G7" A2 GB- B3 A |"Cm6" G8- | G6 z2 |] %17
+

@@ -1,0 +1,19 @@
+X:1
+T:The Christmas Song
+C:1945 - Robert Wells / Mel TormÃ©
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble nm=" " snm=" "
+V:1
+|:"Eb" E2 e2"Fm7" dcBA |"Gm7" GG"C7" G6"Fm7""Bb7" |"Eb" E2 c2"Bbm7" BA"Eb7"GF |"Ab" E8"Db7" | %4
+"Cm7" E2 E2"Db7" F2 EF |$"Cm7" (3G2 B2"Cm7/Bb" c2"Am7" d3"D7" c |1"G7" =B2 B2"Abm7" _d_c"Db7"_BA | %7
+"Gb" B4"Fm7" BA"Bb7"GF :|2"Gm7" BG"C7"cB"Fm7" A2"Bb7" D2 |"Eb" E4 z E DE ||$ %10
+"Bbm7" _d4-"Eb7" dcB=A |"Ab" B4"Cm7" z E"F7" =DE |"Bbm7" _dcdc"Eb7" dcBA |"Ab" B4 z E =DE |$ %14
+"Abm7" _cB c2-"Db7" cBA_G |"Gb" A4-"B7" A_GAG |"Cm7" FFFF"F7" (3F2 F2 F2 |"Fm7" F6"Bb7" z G ||$ %18
+"Eb" E2 e2"Fm7" dcBA |"Gm7" GG"C7" G6"Fm7""Bb7" |"Eb6" E2 c2"Bbm7" BA"Eb7"GF |"Ab" E6"Db7" z E |$ %22
+"Cm7" E2 DE"Db7" F2 EF |"Cm7" (3G2 B2"Cm7/Bb" c2"Am7" d2"D7" ec |"Gm7" B2"C7" E4"Fm7""Bb7" F2 | %25
+"Eb" E8 |] %26
+

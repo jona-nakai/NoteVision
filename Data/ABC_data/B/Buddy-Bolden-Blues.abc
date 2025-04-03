@@ -1,0 +1,16 @@
+X:1
+T:Buddy Bolden Blues
+C:Jelly Roll Morton
+Z:Copyright Â© www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm=" " snm=" "
+V:1
+ FBd |:"Bb" f2 f2"Bbdim" _f2"F7" ee |"Bb" d2 _dc-"Bb7" c2 z B |"Eb" c B2 B"Edim" _dB- B2 | %4
+"Bb" d^cdB-"Bb7" B2 z B |$"Eb" c B2 B"Edim" _dB- B2 |"Bb" d^cdg-"G7" g2 (3z d_d | %7
+"C7" c2 ^c2 d2 =e2 |"F7" f6 (3FBd ||$"Bb" f2 f2"Bbdim" _f2"F7" ee |"Bb" df_dc-"Bb7" c2 z B | %11
+"Eb" cccB"Edim" _dddB |"Bb" d^cdB-"Bb7" B2 z B |$"Eb" cccB"Edim" _dddB |"Bb" d^cdg-"G7" g=ccc | %15
+"C7" cB- (3BcB"F7" f _d3 |"Bb" B4"F7" z F B=d :| %17
+

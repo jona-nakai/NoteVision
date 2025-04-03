@@ -1,0 +1,19 @@
+X:1
+T:Mein Herr from CabaretÂ
+C:1972 - Fred Ebb / John Kander
+Z:www.realbook.site
+L:1/8
+M:4/4
+I:linebreak $
+K:Bbmin
+V:1 treble nm=" " snm=" "
+V:1
+"Bbm6" !fermata!z4 z2 z F ||"Bbm6" dddd"Eb9/Bb" edcd |"Bbm6" B3 F F3 F | %3
+"Bbm69" ddcd"Eb9/Bb" edcB |$"F7" c3 F F3 F |"Cm7b5" ee=de fe_dc |"F7" e3 F F3 c/d/ | %7
+ f2 z c/d/ f2 z c/d/ |$ f2 z c/d/ f2 z c/d/ | f2 z2 z2 cd | %10
+"Bbm6" B2 z2"^//" z"F7" !fermata!F"C7" !fermata!=G"F7"!fermata!=A |:$"Bbm6" B4 _g2 f2- | %12
+"Bbm/F" f2 F2"F7" =G2 =A2 |"Bbm6" B4 _g2 f2- |"Bbm/F" f2 F2"F7" =G2 =A2 |$"Bbm6" B4 _g2 f2- | %16
+"Bbm/F" f2 =e2 f2 e2 |"F7" f4 c4 |"F7" z2 F2 =G2 A2 |$"F7" =A4 _g2 f2- | f2 F2 =G2 _A2 | %21
+"F7" =A4 _g2 f2- | f2 F2 =G2 _A2 |$"F7" =A4 _g2 f2- | f2 d2 c4 |"Bbm" B8 |1 %26
+"Bbm" z2"F7" F2 =G2 =A2 :|2"Bbm" z4 z2"Gm7b5/F" F2 |] %28
+

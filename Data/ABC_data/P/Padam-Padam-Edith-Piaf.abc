@@ -1,0 +1,21 @@
+X:1
+T:Padam Padam
+C:1951 - Norbert Glanzberg / Henri Contet
+Z:www.realbook.site
+L:1/4
+M:3/4
+I:linebreak $
+K:Cmin
+V:1 treble nm=" " snm=" "
+V:1
+ C ||"Cm" C D C | E D3/2 C/ |"Dm7b5" D3- | D z D |"G7" G A G | F E D |"Cm" C3- | C z C ||$ %9
+"Cm" C D"Cm/B" C | E"Cm/Bb" D3/2 C/ |"D7/A" D3- |"Ab7" D z D |"G7" G A G | F E D |"Cm" C3- | %16
+ C/ z/ z G ||$"C" G =A G |"Gm7" B =A B |"C" =A G2- |"Gm7" G/ z/ z G |"C" G =A G |"Gm7" B B z/ =A/ | %23
+"C" G3- | G z C ||$"F" C D C |"Cm7" E D E |"F" D C2- |"Cm7" C z C |"F" C D C |"Fm" F F"F#dim" E | %31
+"G" D3 |$"Fm" F2 E |"G" D3 |"Fm" F E F |"G" G3- |"G7" G3- |"Cm/Eb" G3- | %38
+"G7/D" G/ z/ z z/ [D^F]/ ||$"Cm" [EG] z z/ [D^F]/ | [EG] z z/ [D^F]/ | [EG]3 | z ^F G | A G ^F | %44
+ G =F z/ E/ |"G7" D3- | D z z/ [^C=E]/ |$ [DF]2 z/ [^C=E]/ | [DF]2 z/ [^C=E]/ | [DF]3- | %50
+ [DF] =E F | G F =E | F _E3/2 D/ |"Cm" C3- | C2 z/ [D^F]/ |$ [EG] z z/ [D^F]/ | [EG] z z/ [D^F]/ | %57
+ [EG]3- | [EG]/ z/ ^F G |"C7" A G ^F | G c B |"Fm" A3- | A z A/B/ |$"Fm" c B A | c B A |"Cm" G2 E | %66
+ C2 D |"Ab9" E z E |"G7" D C =B, |"Cm" C3- | C2 z |] %71
+
