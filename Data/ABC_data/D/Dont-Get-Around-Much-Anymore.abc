@@ -9,7 +9,6 @@ M:2/2
 I:linebreak $
 K:C
 V:1 treble nm=" " snm=" "
-V:2 treble 
 V:1
  z e2 d cGFE- |:"Cmaj7" E8"Dm7""Ebdim7" |"Em7" z e2 d cG=FE- |"Cmaj7" E8"B7""Bb7" | %4
 "A7" z G2 =F EDCc- |$"D7" c3 A- A4 |"G7" z E F^F GC^DE |"C6" C8 |1"G7" z e2 d cGFE :|2 %9
@@ -17,7 +16,4 @@ V:1
 "F#m7b5" c8"B7b9" |"Em7" z B BB"Ebdim7" B A2 G |"Dm7" z e2 d"G7" cGFE- ||$"Cmaj7" E8"Dm7""Ebdim7" | %19
 "Em7" z e2 d cG=FE- |"Cmaj7" E8"B7""Bb7" |"A7" z G2 =F EDCc- |$"D7" c3 A- A4 |"G7" z E F^F GC^DE | %24
 "C" C8 |"Dm7" z8"G7" |] %26
-V:2
- x8 |: z E3 F2 ^FG | x8 | z G3 ^F2 =FE | x8 |$ x8 | x8 | x8 |1 x8 :|2 x8 ||$ x8 | x8 | x8 | x8 |$ %14
- x8 | x8 | x8 | x8 ||$ z E3 F2 ^FG | x8 | z G3 ^F2 =FE | x8 |$ x8 | x8 | x8 | x8 |] %26
 
