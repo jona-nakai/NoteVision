@@ -9,11 +9,9 @@ K:Amin
 V:1 treble nm=" " snm=" "
 V:1
  CDE F ^G2 A |:"Am" B2 BA"Am/G#" B4- |"Am/G" B2 BA"Am/F#" BcBA |"Fmaj7" G2 GF G4- | %4
- G2 GF"Em7" GAGF |$"Dm7" E2 ED E4- | E2 ED"Bm7b5" EFED |1"E743" B,8 |"E7" z2 CD EF^GA :|2 %9
+ G2 GF"Em7" GAGF |$"Dm7" E2 ED E4- | E2 ED"Bm7b5" EFED |1"Bm7" B,8 |"E7" z2 CD EF^GA :|2 %9
 "Amaj7" ^C8 || z2 E2 A2 e2 ||$"Bm7b5" e^de^c"E7" =dcd=c |"Amaj7" ^c6 E2 | %13
 "Bm7b5" e^de^c"E7" =dcd=c |"Amaj7" ^c4 z c cc |$"Abm7" _d=cd_B"Db7b9" _cBcA | %16
-"Gbmaj7" _B2 z _D =CD_GB |"Gm7" c=BcA"C7b9" _BAB^G |"Fmaj7" A2 CD EF^GA ||$"Am" B2 BA"Am/G#" B4- | %20
-"Am/G" B2 BA"Am/F#" BcBA |"Fmaj7" G2 GF G4- | G2 GF"Em7" GAGF |$"Dm7" E2 ED E4- | %24
- E2 ED"Bm7b5" EFED |"E743" B8- |"E7" B4 c4 |$"F9" d2 dc d4- |"Bm7b5" d2 dc"E7" dedc | %29
+"Gbmaj7" _B2 z _D =CD_GB |"Gm7" c=BcA"C7b9" _BAB^G |"Fmaj7" A2 CD EF^GA ||
+"Bm7" B8- |"E7" B4 c4 |$"F9" d2 dc d4- |"Bm7b5" d2 dc"E7" dedc | %29
 "Fmaj7" A2 AG A4- |"F7#11" A2 AG ABAG |$"Am/E" E2 ED E3 D |"Bm7" E2 ED"E7" E3 E |"Am" A8- | A8 |] %35
-
