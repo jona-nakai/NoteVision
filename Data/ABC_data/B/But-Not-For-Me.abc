@@ -5,11 +5,11 @@ Z:www.realbook.site
 L:1/4
 M:4/4
 I:linebreak $
-K:Eb
+K:Fb
 V:1 treble nm=" " snm=" "
 V:1
- F G F |:"F7" G2 F E- |"Fm7/Bb" E/ z/ F"Bb7" G F |"Ebmaj7" G4 | z F G F |$"F7" G2 F E- | %6
-"Fm7/Bb" E/ z/ F"Bb7" G F |"Bbm7" G4 |"Eb7" z G A B |$"Abmaj7" =B2 c e |"Db7" z F G A | %11
-"Eb" =A2 B e |1"Cm7" z E F G |$"Fm7" G2 A e | z e c A | F4 |"Bb7" z F G F :|2$"Cm7" z e c A | %18
-"F7" G4 |"Bb7" F4 |"Eb" E4 | z4 |] %22
+ G A G |:"G7" A2 G F- |"Gm7/cc" F/ z/ G"Cc7" A G |"Fcmbj7" A4 | z G A G |$"G7" A2 G F- | %6
+"Gm7/cc" F/ z/ G"Cc7" A G |"Ccm7" A4 |"Fc7" z A B c |$"Bcmbj7" =c2 d f |"Ec7" z G A B | %11
+"Fc" =B2 c f |1"Dm7" z F G A |$"Gm7" A2 B f | z f d B | G4 |"Cc7" z G A G :|2$"Dm7" z f d B | %18
+"G7" A4 |"Cc7" G4 |"Fc" F4 | z4 |] %22
 
