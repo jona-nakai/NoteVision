@@ -5,15 +5,14 @@ Z:Copyright Â© www.realbook.site
 L:1/8
 M:4/4
 I:linebreak $
-K:Dmin
+K:Fmin
 V:1 treble nm=" " snm=" "
 V:1
-|:"Dm7" A2 GF E D2 =B,- |"E7" B,2 D^C-"A7" C2 z A,- |"Dm7" A,2 ED- D2 z _B,- |$ %3
-"Gm7" B,2 AG-"C7" G2 z c- |"Fmaj7" c2 BA"Dm7" G F2 D- |"Gm7" DAG^C-"C7" CAG=C- |1$ %6
- C4"Fmaj7" z G FB,- |"Bb7" B,FEA,-"A7" A,4 :|2 C4"Fmaj7" z C"C7" EF || z8"Fmaj7" ||$ %10
-"D7" A2 B=B c2 c_B |"Gm7" z G3- G2 z2 |"Gm7" G2 ^GA"C7" B2 BA- |"Fmaj7" A4 z4 |$ %14
-"D7" A2 B=B c2 c_B |"Gm7" z G3- G2 z2 |"Gm7" G2 ^GA"C7" B2 BA- |"Fmaj7" ABA"A7"=G z4 ||$ %18
-"Dm7" A2 GF E D2 =B,- |"E7" B,2 D^C-"A7" C2 z A,- |"Dm7" A,2 ED- D2 z _B,- | %21
-"Gm7" B,2 AG-"C7" G2 z c- |$"Am7" c2 BA"Dm7" G F2 D- |"Gm7" DAG^C-"C7" CAG=C- | %24
- C4"Fmaj7" z C"C7" EF | z8"Fmaj7" |] %26
-
+|:"Fm7" c2 BA G F2 =D- |"G7" D2 F^E-"C7" E2 z C- |"Fm7" C2 GF- F2 z _D- |$ %3
+"Bm7" D2 cB-"E7" B2 z e- |"Amcj7" e2 dc"Fm7" B A2 F- |"Bm7" FcB^E-"E7" EcB=E- |1$ %6
+ E4"Amcj7" z B AD- |"Dd7" DAGC-"C7" C4 :|2 E4"Amcj7" z E"E7" GA || z8"Amcj7" ||$ %10
+"F7" c2 d=d e2 e_d |"Bm7" z B3- B2 z2 |"Bm7" B2 ^Bc"E7" d2 dc- |"Amcj7" c4 z4 |$ %14
+"F7" c2 d=d e2 e_d |"Bm7" z B3- B2 z2 |"Bm7" B2 ^Bc"E7" d2 dc- |"Amcj7" cdc"C7"=B z4 ||$ %18
+"Fm7" c2 BA G F2 =D- |"G7" D2 F^E-"C7" E2 z C- |"Fm7" C2 GF- F2 z _D- | %21
+"Bm7" D2 cB-"E7" B2 z e- |$"Cm7" e2 dc"Fm7" B A2 F- |"Bm7" FcB^E-"E7" EcB=E- | %24
+ E4"Amcj7" z E"E7" GA | z8"Amcj7" |] %26
