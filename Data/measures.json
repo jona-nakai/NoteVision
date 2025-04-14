@@ -4414,21 +4414,6 @@
         "\"F\" F4-",
         "F z z2"
     ],
-    "Chameleon": [
-        "\"^intro\" G,,_A,,=A,,",
-        "\"Bb7\" .B,,>._A, z .B, z C, _D,=D,",
-        "[Ktreble]\"Bb7\"\"^A\" !>!B/.B/ z !>!_A/.A/ z !>!B/.B/ z !slide!_d2",
-        "\"Eb7\" .!^!B2 z2 z2 B/_A/F/!>!A/-",
-        "\"Bb7\" A.B z2 z2 z !>!_d-",
-        "\"Bb7\"\"^B\" z !slide!.f !tenuto!e2 .e!>!_d- dd/e/",
-        "_d/\"Eb7\"B/E/_D/- DB,- B,2 B/_A/F/!>!A/-",
-        "\"Bb7\" A.B z2 z2 z !>!_d-",
-        "\"Eb7\" d.e z2 z4 ",
-        "\"Bb7\"\"^Coda\" z !slide!.f !tenuto!e2 .e!>!_d- dd/e/",
-        "_d/\"Eb7\"B/E/!>!_D/- D!>!B,- B,4-",
-        "B,4 z G, _A,=A,",
-        "\"Bb7\" .!^!B, z z2 z4"
-    ],
     "Come-Rain-or-Come-Shine": [
         "\"Fmaj7\" A2 AA A A2 A",
         "\"Em\" A2 AA\"A7\" A A2 A",
