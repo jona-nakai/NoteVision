@@ -5,12 +5,11 @@ Z:www.realbook.site
 L:1/8
 M:4/4
 I:linebreak $
-K:F
+K:Bb
 V:1 treble nm=" " snm=" "
 V:1
- z2"F7" dc- c2 AF |"Bb7" GFFD FFGF |"F7" z2 dc- c2 AF |"Bb7" GFFD FFGF |$"F7" z2 dc- c2 AF | %5
-"Bb7" GFFD FFGF |"F7" z2 dc- c2 AF |"Bb7" GFFD FFGF |$"F7" c2 c2"Bb7/F" d d2 _e- | %9
-"F7" e2 _e2"Bb7/F" d d2 c- |"F7" c2 c2"Bb7/F" d d2 _e- |"F7" e2 _e2"Bb7/F" d d2 c- |$ %12
-"F7" c2 FF AA"Bb7"BB |"C7" c z"Bb7" B2 BBBA- |"F" A z FF AA"Bb7"BB |"C7" c z z2 z CDF |$ %16
-"Gm7" G3 G- G2 FG |"Am7" A3 A- AGAc |"Dm" d3"C" c"Dm" d3"C" c |"Dm7" d/c/d z2 z4 |] %20
-
+ z2"Bb7" GF- F2 DB, |"Eb7" CB,B,G, B,B,CB, |"Bb7" z2 GF- F2 DB, |"Eb7" CB,B,G, B,B,CB, |$"Bb7" z2 GF- F2 DB, | %5
+"Eb7" CB,B,G, B,B,CB, |"Bb7" z2 GF- F2 DB, |"Eb7" CB,B,G, B,B,CB, |$"Bb7" F2 F2"Eb7/Bb" G G2 _A- | %9
+"Bb7" A2 _A2"Eb7/B" G G2 F- |"Bb7" F2 F2"Eb7/Bb" G G2 _A- |"Bb7" A2 _A2"Eb7/B" G G2 F- |$ %12
+"Bb7" F2 B,B, DD"Eb7"EE |"F7" F z"Eb7" E2 EEED- |"Bb" D z B,B, DD"Eb7"EE |"F7" F z z2 z F,G,B, |$ %16
+"Cm7" C3 C- C2 B,C |"Dm7" D3 D- DCDF |"Gm" G3"F" F"Gm" G3"F" F |"Gm7" G/F/G z2 z4 |] %20
