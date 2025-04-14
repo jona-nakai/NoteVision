@@ -10,9 +10,7 @@ V:1 treble nm=" " snm=" "
 V:1
 "D7" A, ||"Db" DDDD"B7" EEEE |"Dbmaj7" (3F2 F2 F2-"B7" FFEE |"Dbmaj7" (3F2 F2 F2-"B7" FFEE | %4
 "Dbmaj7" FF"Ebm"GG"Emaj7" AA"F#m"=AA |$"Abm" =BB B2-"A7" B=ABA |"Ebm" _AA A2-"D+7" A_B=EE | %7
-"Dbmaj7" _E E3"D7" z2 z A, ||$"Db" DDDD"B7" EEEE |"Dbmaj7" (3F2 F2 F2-"B7" FFEE | %10
-"Dbmaj7" (3F2 F2 F2-"B7" FFEE |"Dbmaj7" FF"Ebm"GG"Emaj7" AA"F#m"=AA |$"Abm" =BB B2-"A7" B=A (3BAB | %13
-"Ebm" _AA A4"D+7" =EE |"Dbmaj7" _E E3"C7#9" z2 c2 ||$"Fm" C2 CC"Fm6" =D3 D |"Fm" F2 FF"Fm6" A3 A | %17
+"Dbmaj7" _E E3"D7" z2 z A,  |"Dbmaj7" _E E3"C7#9" z2 c2 ||$"Fm" C2 CC"Fm6" =D3 D |"Fm" F2 FF"Fm6" A3 A | %17
 "Gm7b5" (3c2 =d2 A2 c2 c2- |"C7b9" c4 z2 c2 |$"Fm" C2 CC"Fm6" =D3 D |"Fm" F2 FF"Fm6" A3 A | %21
 "Fm" (3c2 d2 B2"Edim7" c2 c2 |"Ebm7" (3B2 c2 A2"Ab7" B2 cF- |$"B7b5" F8 |"Bb7" z2 A2 A2 GF | %25
 "Ebm" E8 |"A7b5" z2 E2 E2 FD |"Ebm7" A8- |"Ab7" A6 z2 |:$"Db" A,3 B,"D7" (3=B,2 =E2 =A,2 | %30
@@ -20,9 +18,8 @@ V:1
 "Db" _A,3 _B,"D7" (3=B,2 =E2 =A,2 |"Db" _A,3 _B,"D7" (3C2 =E2 =B,2 | %35
 "Db" _B,2 (3A,DF"Db7" A2"C7" =A2 |"Fmaj7" C6"E7""Eb7" D2 ||$"Ab" E3 F"Eb7#9" _G G2 _F | %38
 "Ab" E3 =F"Em" (3^F2"A7" F2 =E2 |"Dmaj7" =A,3 =B,"Dm" =C C2 B, | %40
-"C" =A,3"B7" =B,"Bb7" (3C2"A7" C2"Ab7" _B,2 |$"Db" _A,3 B,"D7" (3=B,2 =E2 =A,2 | %42
-"Db" _A,3 _B,"D7" (3C2 =E2 =B,2 |"Db" _B,2 (3A,DF"C7" G2"B7" A2 |"Bb7" B6 z F ||$ %45
-"Ebm" A3 A"F#m" A2 AG |"A7b5" F2 EF-"Ab7" F3 C |"Dbmaj7" E3 D"Dbm" E"Gb7" E2 D | %48
-"Bmaj7" D B,2"Fm" B- B3"Bb7" F |$"Ebm7" A3 G"F#m" A2"B7" AG |"A+7" F2 FE"Ab7" F3 A, | %51
-"Emaj7" =B,2"Ebmaj7" C2"Dmaj7" ^C2"G7" =D2 |"Db" E"D7"=E"Dbmaj7" F6 :| %53
-
+"C" =A,3"B7" =B,"Bb7" (3C2"A7" C2"Ab7" _B,2 |$"Db" _A,3 B,"D7" (3=B,2 =E2 =A,2 | 
+"Db" _A,3 _B,"D7" (3C2 =E2 =B,2 |"Db" _B,2 (3A,DF"C7" G2"B7" A2 |"Bb7" B6 z F ||$ 
+"Ebm" A3 A"F#m" A2 AG |"A7b5" F2 EF-"Ab7" F3 C |"Dbmaj7" E3 D"Dbm" E"Gb7" E2 D | 
+"Bmaj7" D B,2"Fm" B- B3"Bb7" F |$"Ebm7" A3 G"F#m" A2"B7" AG |"A+7" F2 FE"Ab7" F3 A, | 
+"Emaj7" =B,2"Ebmaj7" C2"Dmaj7" ^C2"G7" =D2 |"Db" E"D7"=E"Dbmaj7" F6 :| %46
