@@ -5,14 +5,13 @@ Z:Copyright Â© www.realbook.site
 L:1/4
 M:4/4
 I:linebreak $
-K:Eb
+K:Gb
 V:1 treble 
 V:1
- D/ E/F/ |:"Eb" G G2"Edim7" B |"Fm" A A2"Bb7" c |"Eb" B B"Bbm" (3B c _d |"C7b9" B B3 |$ %5
-"Fm" A A"C7b9#5" (3A B c |"Fm" A A"Bb7" c B/G/- |1"Gm" G2"C7b9" B A/F/- |"Fm" F2"Bb7" z/ D/E/F/ :|2 %9
-"Eb7" (G2) B G/(F/ |"Bbm" F3)"Eb7" z ||$"Ab" z E/F/ G/A/B/c/ |"Am" d d"D7" =A3/2 B/ | %13
-"Gm" c c G3/2 =A/ |"C7b9" B z/ B/ =E2 |$"Bb" z F/G/ =A/B/c/d/ |"Cm" e e"F7" (3=A B c |"Fm" B3 c | %18
-"Bb7b9#5" ^F2 z/ D/E/=F/ ||$"Eb" G G2"Edim7" B |"Fm" A A2"Bb7" c |"Eb" B B"Bbm" (3B c _d | %22
-"C7b9" B B3 |$"Fm" A A"C7b9#5" (3A B c |"Fm" A A"Bb7" (3A =A B |"G7#9" G4- |"C7b9" G B A G |$ %27
-"Fm" F F (3F G A |"Fm/Bb" F F2"Bb7b9" G |"Eb" E4- |"Fm" E2"Bb7" z2 |] %31
-
+ F/ G/A/ |:"Gd" B B2"Gfim7" d |"Am" c c2"Dd7" e |"Gd" d d"Ddm" (3d e _f |"E7d9" d d3 |$ %5
+"Am" c c"E7d9#5" (3c d e |"Am" c c"Dd7" e d/B/- |1"Bm" B2"E7d9" d c/A/- |"Am" A2"Dd7" z/ F/G/A/ :|2 %9
+"Gd7" (B2) d B/(A/ |"Ddm" A3)"Gd7" z ||$"Cd" z G/A/ B/c/d/e/ |"Cm" f f"F7" =c3/2 d/ | %13
+"Bm" e e B3/2 =c/ |"E7d9" d z/ d/ =G2 |$"Dd" z A/B/ =c/d/e/f/ |"Em" g g"A7" (3=c d e |"Am" d3 e | %18
+"Dd7d9#5" ^A2 z/ F/G/=A/ ||$"Gd" B B2"Gfim7" d |"Am" c c2"Dd7" e |"Gd" d d"Ddm" (3d e _f | %22
+"E7d9" d d3 |$"Am" c c"E7d9#5" (3c d e |"Am" c c"Dd7" (3c =c d |"B7#9" B4- |"E7d9" B d c B |$ %27
+"Am" A A (3A B c |"Am/dd" A A2"Dd7d9" B |"Gd" G4- |"Am" G2"Dd7" z2 |] %31
