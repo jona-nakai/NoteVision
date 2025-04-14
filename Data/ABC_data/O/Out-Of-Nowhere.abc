@@ -10,8 +10,6 @@ V:1 treble nm=" " snm=" "
 V:1
 "Gmaj7" D/E/F/A/- A2- | A G D E |"Bbm7" =F F3- |"Eb7" F4 |$"Gmaj7" D/E/^F/A/- A2- | A G D E | %6
 "Bm7" F4- |"E7b9" F2 z2 |$"Am7" E/=F/E/c/- c2 |"E7b9" E/=F/E/B/- B E |"Am7" B4 | A4 |$ %12
-"Eb7" (3^A =A G G2 | (3G A ^A (3A G A |"Am7" d4- |"D7" d2 z2 |$"Gmaj7" D/E/F/A/- A2- | A G D E | %18
-"Bbm7" =F F3- |"Eb7" F4 |$"Gmaj7" D/E/^F/A/- A2- | A G D E |"Bm7" F4- |"E7b9" F2 z2 |$ %24
+"Eb7" (3^A =A G G2 | (3G A ^A (3A G A |"Am7" d4- |"D7" d2 z2 |$%24
 "Am7" E/=F/E/c/- c2 |"E7b9" (3E =F E (3B c d |"Am7" e4 |"Cm6" B4 |$"Bm7" A/ F G/"Bbdim" E F | %29
 "Am7" D2"D7" B2 |"G" G4- |"Am7" G2"D7" z2 |] %32
-
