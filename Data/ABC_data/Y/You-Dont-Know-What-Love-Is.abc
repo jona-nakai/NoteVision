@@ -8,11 +8,10 @@ I:linebreak $
 K:Fmin
 V:1 treble nm=" " snm=" "
 V:1
- C |:"Fm7" G2 G2- G3 F |"Db7" A2 A2-"C7b9" A3 G |"Fm7" FGAB"C7b9" cBAG |"Db9" F6 z F | %5
+|:"Fm7" G2 G2- G3 F |"Db7" A2 A2-"C7b9" A3 G |"Fm7" FGAB"C7b9" cBAG |"Db9" F6 z F | %5
 "Gm7b5" GABc"C7b9" dced |$"Fm7" c6"E7""Ebm7""D7" z c |1"Db7" B2 B2- B3 A | %8
 "Gm7b5" G2 G2-"C7b9" G3 C :|2"Db7" B2 B4"C7b9" A2 ||"Fm6" GF- F6 ||$"Bbm7" e2 e4"Eb7" de | %12
 "Abmaj7" c2 c4 A2 |"Bbm7" F2 G2"Eb7" A2 B2 |"Abmaj7" c2 c6 |$"Dm7" =e6"G7" =d2 |"Cmaj7" G8 | %17
 "Db7" G3 G G2 G2 |"C7b9" A2 G2- G3 C ||$"Fm7" G2 G2- G3 F |"Db7" A2 A2-"C7b9" A3 G | %21
 "Fm7" FGAB"C7b9" cBAG |"Db9" F6 z F |$"Gm7b5" GABc"C7b9" dced |"Fm7" c6"E7""Ebm7""D7" z c | %25
 "Db7" B2 B4"C7b9" A2 |"Fm6" GF- F6 |] %27
-
