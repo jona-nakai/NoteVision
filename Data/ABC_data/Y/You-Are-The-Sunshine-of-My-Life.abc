@@ -5,14 +5,13 @@ Z:Copyright Â© www.realbook.site
 L:1/8
 M:4/4
 I:linebreak $
-K:Bb
+K:C
 V:1 treble nm=" " snm=" "
 V:1
-|:"Bbmaj7" z2 [A,C][A,C]- [A,C] [A,C]2 [A,C] | [A,C][A,C][A,C][A,C]- [A,C][A,C] [A,C]2 | %2
-"F7#5" [A,^C]2 [=B,E][CF]- [CF][EG] [FA]2 | [G=B] [A^c]2 [Be] [cf]2 [cf]2 ::$"Bb" z2 z _B B2 B=c- | %5
-"F/Eb" c c2 A- A G2 F- |"Dm7" F8 |"G7" z8 |$"Cm7" z2 z B B2 Be- |"F7" e e2 d- dB c2- | %10
-"Bb" cd/c/ B6 |"Cm7" z8"F7" :|$"Bbmaj7" z2 z F B2 fe- |"Cm7" e d2 c-"F7" c d3 | %14
-"Bbmaj7" z F2 G- G F3 |"Cm7" z8"F7" |$"Bbmaj7" z2 z F B2 fe- |"Cm7" e d2 c-"F7" c B2 c- | %18
-"Am7b5" c8 |"D7" z8 |$"Gmaj7" z2 z D G2 dc- |"Am7" c =B2 A-"D7" A _B3 |"Gm" D D2 D"Gmaj" E D3 | %23
-"Gm7" z4 z B dc- |$"C7" c2 cc- c2 z c- | cccg- g3 f |"Cm7" f6 z2 |"F7" z8 |] %28
-
+|:"Cmaj7" z2 [B,D][B,D]- [B,D] [B,D]2 [B,D] | [B,D][B,D][B,D][B,D]- [B,D][B,D] [B,D]2 | %2
+"G7#5" [B,^D]2 [=CF][DG]- [DG][FA] [GB]2 | [A=c] [B^d]2 [cf] [dg]2 [dg]2 ::$"Cc" z2 z _c c2 c=d- | %5
+"G/Fc" d d2 B- B A2 G- |"Em7" G8 |"A7" z8 |$"Dm7" z2 z c c2 cf- |"G7" f f2 e- ec d2- | %10
+"Cc" de/d/ c6 |"Dm7" z8"G7" :|$"Ccmbj7" z2 z G c2 gf- |"Dm7" f e2 d-"G7" d e3 | %14
+"Ccmbj7" z G2 A- A G3 |"Dm7" z8"G7" |$"Ccmbj7" z2 z G c2 gf- |"Dm7" f e2 d-"G7" d c2 d- | %18
+"Bm7c5" d8 |"E7" z8 |$"Ambj7" z2 z E A2 ed- |"Bm7" d =c2 B-"E7" B _c3 |"Am" E E2 E"Ambj" F E3 | %23
+"Am7" z4 z c ed- |$"D7" d2 dd- d2 z d- | ddda- a3 g |"Dm7" g6 z2 |"G7" z8 |] %28
