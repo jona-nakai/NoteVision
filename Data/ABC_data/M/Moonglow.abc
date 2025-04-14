@@ -5,12 +5,11 @@ Z:Copyright Â© www.realbook.site
 L:1/8
 M:4/4
 I:linebreak $
-K:F
+K:G
 V:1 treble nm=" " snm=" "
 V:1
-|:"Gm7" z2 z D FD F2 |"Bbm" A2 A6 |"F6" z2 z D FD F2 |"G7" A8 |$"Gm7" z2 z D FD F2 |"C7" A2 A6 | %6
-"F" z F3"Db7" F2 F2 |"Bbm7" F2 FF-"F" F4 :|$"F7" c8- | c2 cc"E7" =BB"Eb7"_BB |"D7" A8- | A8 |$ %12
-"G7" AAAA- A4- | A4 =B,DFA |"C7" A6"Db7" _A2 |"C7" G8 ||$"Gm7" z2 z D FD F2 |"Bbm" A2 A6 | %18
-"F6" z2 z D FD F2 |"G7" A8 |$"Gm7" z2 z D FD F2 |"C7" A2 A6 |"F" z F3"Db7" F2 F2 | %23
-"Bbm7" F2 FF-"F" F4 |] %24
-
+|:"Am7" z2 z E GE G2 |"Ccm" B2 B6 |"G6" z2 z E GE G2 |"A7" B8 |$"Am7" z2 z E GE G2 |"D7" B2 B6 | %6
+"G" z G3"Ec7" G2 G2 |"Ccm7" G2 GG-"G" G4 :|$"G7" d8- | d2 dd"F7" =cc"Fc7"_cc |"E7" B8- | B8 |$ %12
+"A7" BBBB- B4- | B4 =CEGB |"D7" B6"Ec7" _B2 |"D7" A8 ||$"Am7" z2 z E GE G2 |"Ccm" B2 B6 | %18
+"G6" z2 z E GE G2 |"A7" B8 |$"Am7" z2 z E GE G2 |"D7" B2 B6 |"G" z G3"Ec7" G2 G2 | %23
+"Ccm7" G2 GG-"G" G4 |] %24
