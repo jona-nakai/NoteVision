@@ -1,7 +1,7 @@
 # NoteVision
 Turning handwritten sheet music into ABC Notation (a text-based format for writing music).
 
-By @jona-nakai, @jessicayzhao, @Groxietop, and @gavwin
+By [Jona Nakai](https://github.com/jona-nakai), @jessicayzhao, @Groxietop, and @gavwin
 
 Forked from https://github.com/jonanakai/SheetMusic-to-Text. The old SheetMusic-to-Text repository was for a class project (Northeastern's DS4440: Practical Neural Networks). NoteVision is a continuation of this class project in an attempt to create a working product.
 
