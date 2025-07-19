@@ -1,5 +1,5 @@
 # NoteVision
-Turning handwritten sheet music into text (ABC Notation).
+Turning handwritten sheet music into ABC Notation (a text-based format for writing music).
 
 By Jona Nakai, Jessica Zhao, Aaron Gordan, and Gavin Wainwright
 
