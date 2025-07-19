@@ -1,0 +1,11 @@
+path: /Users/aarongordon/Sheet_Music/project-2-at-2025-04-07-02-05-fce4aa76
+
+train: images/train
+
+val: images/val
+
+
+
+nc: 1
+
+names: ['measure']
